@@ -47,10 +47,24 @@ def analyze_feature_correlations(df):
     
     return corr_matrix
 
-def prepare_data(df):
-    cols_to_keep = ["genetic_association", "GWAS_evidence"]
-    X = df[cols_to_keep]
-    y = df['is_effective']
+def prepare_data(X, y):
+    """
+    Prepare data for model training by scaling numeric features and encoding categorical features.
+    
+    Args:
+        X: DataFrame containing features. Expects indices to be drug-cell_line.
+        y: Series containing target variable
+        
+    Returns:
+        X_train, X_test, y_train, y_test: Train-test split of prepared data
+    """
+    
+    # Assert that indices of X and y are the same
+    assert X.index.equals(y.index), "X and y must have the same indices"
+    
+    # Extract drug and cell line info
+    drug_name = X.index.str.split('_CVCL_').str[0]
+    cell_line_name = 'CVCL_' + X.index.str.split('_CVCL_').str[1]
     
     cat_cols = X.select_dtypes(include=['object', 'category']).columns.tolist()
     num_cols = X.select_dtypes(include=['int64', 'float64']).columns.tolist()
@@ -73,9 +87,23 @@ def prepare_data(df):
         X = X.drop(cat_cols, axis=1)
         X = pd.concat([X, encoded_df], axis=1)
 
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=0.5, random_state=42, stratify=y
+    # Split based on unique drugs to prevent data leakage
+    unique_drugs = drug_name.unique()
+    train_drugs, test_drugs = train_test_split(
+        unique_drugs, test_size=0.5, random_state=42
     )
+    
+    # Create train/test masks based on drug splits
+    train_mask = drug_name.isin(train_drugs)
+    test_mask = drug_name.isin(test_drugs)
+    
+    # Split the data
+    X_train, X_test = X.loc[train_mask], X.loc[test_mask]
+    y_train, y_test = y.loc[train_mask], y.loc[test_mask]
+    
+    # Verify stratification is reasonable
+    print(f"Train set positive rate: {y_train.mean():.4f}")
+    print(f"Test set positive rate: {y_test.mean():.4f}")
     
     print(f"Training set: {X_train.shape}")
     print(f"Testing set: {X_test.shape}")
@@ -234,29 +262,29 @@ def analyze_coefficients(model, feature_names):
     
     return coef_df
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--file_path', type=str, help='Path to the input CSV file')
-    parser.add_argument('--output_dir', type=str, default='results', help='Directory to save results')
-    args = parser.parse_args()
+# def main():
+#     parser = argparse.ArgumentParser()
+#     parser.add_argument('--file_path', type=str, help='Path to the input CSV file')
+#     parser.add_argument('--output_dir', type=str, default='results', help='Directory to save results')
+#     args = parser.parse_args()
 
-    if not os.path.exists(args.output_dir):
-        os.makedirs(args.output_dir)
+#     if not os.path.exists(args.output_dir):
+#         os.makedirs(args.output_dir)
     
-    df = load_data(args.file_path)
-    df = explore_data(df)    
-    corr_matrix = analyze_feature_correlations(df)    
-    X_train, X_test, y_train, y_test = prepare_data(df)    
-    lr_model = train_linear_model(X_train, y_train)    
-    lr_pred, lr_prob = evaluate_model(lr_model, X_test, y_test)    
-    coef_df = analyze_coefficients(lr_model, X_train.columns)    
+#     df = load_data(args.file_path)
+#     df = explore_data(df)    
+#     corr_matrix = analyze_feature_correlations(df)    
+#     X_train, X_test, y_train, y_test = prepare_data(df)    
+#     lr_model = train_linear_model(X_train, y_train)    
+#     lr_pred, lr_prob = evaluate_model(lr_model, X_test, y_test)    
+#     coef_df = analyze_coefficients(lr_model, X_train.columns)    
     
-    results = {
-        'logistic_regression': lr_model,
-        'lr_coefficients': coef_df,
-    }
+#     results = {
+#         'logistic_regression': lr_model,
+#         'lr_coefficients': coef_df,
+#     }
     
-    return results, df
+#     return results, df
 
-if __name__ == "__main__":
-    results, df = main()
+# if __name__ == "__main__":
+#     results, df = main()
