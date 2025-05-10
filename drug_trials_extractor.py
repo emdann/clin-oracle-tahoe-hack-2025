@@ -1,9 +1,12 @@
+import os
 import requests
 import pandas as pd
 import json
 import time
 import re
 from typing import List, Dict, Any, Union, Optional
+
+import anthropic
 
 class DrugTrialExtractor:
     """
@@ -601,3 +604,104 @@ class DrugTrialExtractor:
             "clinical_trials": trials_path,
             "pubchem_trials_info": pubchem_trials_path
         }
+
+# In your shared code:
+def get_anthropic_client():
+    # Get API key from environment variable
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    
+    if not api_key:
+        raise ValueError("Missing ANTHROPIC_API_KEY environment variable")
+        
+    return anthropic.Anthropic(api_key=api_key)
+
+def standardize_medical_conditions(disease_list):
+    """
+    Standardizes a list of medical conditions using Claude API to identify and group similar conditions.
+    
+    Args:
+        disease_list (list): List of medical condition strings to standardize
+        api_key (str): Your Anthropic API key
+        
+    Returns:
+        pandas.DataFrame: DataFrame with original conditions and their standardized labels
+    """
+    # Initialize the Claude client
+    client = get_anthropic_client()
+    
+    # Create chunks if your list is very large (Claude has context limits)
+    chunk_size = 50  # Adjust based on your needs
+    all_groups = {}
+    
+    # Remove duplicates to reduce API costs while processing
+    unique_diseases = list(set(disease_list))
+    
+    for i in range(0, len(unique_diseases), chunk_size):
+        chunk = unique_diseases[i:i+chunk_size]
+        
+        # Format the prompt for Claude
+        formatted_diseases = "\n".join([f"- {d}" for d in chunk])
+        
+        prompt = f"""
+        Here's a list of medical conditions:
+        {formatted_diseases}
+        
+        Please group these conditions into standardized categories where entries refer to the same basic condition. 
+        For each group, select the most appropriate, specific, and concise label.
+        
+        IMPORTANT: Only group conditions when there's a clear case for doing so. When a condition is unique or 
+        doesn't clearly fit with others, keep it as its own separate category.
+        
+        Examples:
+        - "Prostate Cancer" and "Prostate Cancer; Prostate Adenocarcinoma" can be grouped as "Prostate Cancer"
+        - But "Small Cell Lung Cancer" should NOT be grouped with "Non-Small Cell Lung Cancer" as they are distinct conditions
+        - "Diabetes" and "Diabetes Mellitus Type 2" can be grouped, but should use the more specific "Diabetes Mellitus Type 2" as the label
+        
+        Format your response as a JSON dictionary where keys are the standardized labels and values are 
+        lists of all original terms that should map to that label. Include every term from the input list.
+        """
+        
+        # Call Claude API
+        message = client.messages.create(
+            model="claude-3-7-sonnet-20250219",
+            max_tokens=4000,
+            temperature=0,  # Keep it deterministic
+            system="You are a medical terminology expert. Follow instructions exactly.",
+            messages=[
+                {"role": "user", "content": prompt}
+            ]
+        )
+        
+        # Extract JSON from response
+        response_content = message.content[0].text
+        json_match = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', response_content)
+        
+        if json_match:
+            json_str = json_match.group(1)
+        else:
+            # If no code block, try to find JSON directly
+            json_str = response_content
+        
+        try:
+            chunk_groups = json.loads(json_str)
+            all_groups.update(chunk_groups)
+        except json.JSONDecodeError:
+            print(f"Warning: Could not parse JSON for chunk {i}. Skipping this chunk.")
+            continue
+    
+    # Convert to a mapping dictionary
+    condition_mapping = {}
+    for standard_label, variants in all_groups.items():
+        for variant in variants:
+            condition_mapping[variant] = standard_label
+    
+    # Apply mapping to original list (preserving order and duplicates)
+    mapped_diseases = [condition_mapping.get(disease, disease) for disease in disease_list]
+    
+    # Create a DataFrame with the results
+    result_df = pd.DataFrame({
+        "Original": disease_list,
+        "Standardized": mapped_diseases
+    })
+    
+    return result_df
