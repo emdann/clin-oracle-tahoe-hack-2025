@@ -68,25 +68,27 @@ def prepare_data(X, y):
     
     cat_cols = X.select_dtypes(include=['object', 'category']).columns.tolist()
     num_cols = X.select_dtypes(include=['int64', 'float64']).columns.tolist()
+    # Create a copy of X to avoid modifying the original
+    X_processed = X.copy()
     
     scaler = StandardScaler()
     if num_cols:
-        X[num_cols] = scaler.fit_transform(X[num_cols])
+        X_processed[num_cols] = scaler.fit_transform(X_processed[num_cols])
     
     if cat_cols:
         encoder = OneHotEncoder(sparse_output=False, handle_unknown='ignore', drop='first')
-        encoded_cats = encoder.fit_transform(X[cat_cols])
+        encoded_cats = encoder.fit_transform(X_processed[cat_cols])
         feature_names = encoder.get_feature_names_out(cat_cols)
         
         encoded_df = pd.DataFrame(
             encoded_cats, 
             columns=feature_names,
-            index=X.index
+            index=X_processed.index
         )
         
-        X = X.drop(cat_cols, axis=1)
-        X = pd.concat([X, encoded_df], axis=1)
-
+        X_processed = X_processed.drop(cat_cols, axis=1)
+        X_processed = pd.concat([X_processed, encoded_df], axis=1)
+    
     # Split based on unique drugs to prevent data leakage
     unique_drugs = drug_name.unique()
     train_drugs, test_drugs = train_test_split(
@@ -98,15 +100,15 @@ def prepare_data(X, y):
     test_mask = drug_name.isin(test_drugs)
     
     # Split the data
-    X_train, X_test = X.loc[train_mask], X.loc[test_mask]
+    X_train, X_test = X_processed.loc[train_mask], X_processed.loc[test_mask]
     y_train, y_test = y.loc[train_mask], y.loc[test_mask]
     
-    # Verify stratification is reasonable
-    print(f"Train set positive rate: {y_train.mean():.4f}")
-    print(f"Test set positive rate: {y_test.mean():.4f}")
+    # # Verify stratification is reasonable
+    # print(f"Train set positive rate: {y_train.mean():.4f}")
+    # print(f"Test set positive rate: {y_test.mean():.4f}")
     
-    print(f"Training set: {X_train.shape}")
-    print(f"Testing set: {X_test.shape}")
+    # print(f"Training set: {X_train.shape}")
+    # print(f"Testing set: {X_test.shape}")
     
     return X_train, X_test, y_train, y_test
 
