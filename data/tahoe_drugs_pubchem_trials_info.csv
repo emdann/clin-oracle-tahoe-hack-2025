@@ -1,0 +1,697 @@
+pubchem_id,source,has_trials,trial_count
+165411828,EU Clinical Trials Register,True,2
+387447,ClinicalTrials.gov,True,762
+387447,EU Clinical Trials Register,True,212
+387447,NIPH Clinical Trials Search of Japan,True,74
+25183872,ClinicalTrials.gov,True,93
+25183872,EU Clinical Trials Register,True,21
+25183872,NIPH Clinical Trials Search of Japan,True,16
+56844015,ClinicalTrials.gov,True,48
+56844015,EU Clinical Trials Register,True,28
+444972,ClinicalTrials.gov,True,2
+444972,NIPH Clinical Trials Search of Japan,True,1
+3657,ClinicalTrials.gov,True,172
+3657,EU Clinical Trials Register,True,33
+3657,NIPH Clinical Trials Search of Japan,True,3
+9082,ClinicalTrials.gov,True,1
+9082,EU Clinical Trials Register,True,5
+11683005,ClinicalTrials.gov,True,10
+11683005,NIPH Clinical Trials Search of Japan,True,1
+135526609,EU Clinical Trials Register,True,13
+135526609,NIPH Clinical Trials Search of Japan,True,1
+204,ClinicalTrials.gov,True,1
+204,EU Clinical Trials Register,True,2
+3385,ClinicalTrials.gov,True,1327
+3385,EU Clinical Trials Register,True,446
+3385,NIPH Clinical Trials Search of Japan,True,47
+10184665,ClinicalTrials.gov,True,27
+10184665,EU Clinical Trials Register,True,23
+10184665,NIPH Clinical Trials Search of Japan,True,7
+14992,EU Clinical Trials Register,True,2
+11672905,ClinicalTrials.gov,True,1
+5564,ClinicalTrials.gov,True,10
+5564,EU Clinical Trials Register,True,1
+51082,ClinicalTrials.gov,True,121
+51082,EU Clinical Trials Register,True,18
+8813,ClinicalTrials.gov,True,23
+8813,EU Clinical Trials Register,True,1
+135398658,ClinicalTrials.gov,True,234
+135398658,EU Clinical Trials Register,True,36
+135398658,NIPH Clinical Trials Search of Japan,True,19
+445154,ClinicalTrials.gov,True,125
+445154,EU Clinical Trials Register,True,130
+445154,NIPH Clinical Trials Search of Japan,True,7
+107971,ClinicalTrials.gov,True,1
+135410875,ClinicalTrials.gov,True,749
+135410875,EU Clinical Trials Register,True,215
+135410875,NIPH Clinical Trials Search of Japan,True,162
+440936,ClinicalTrials.gov,True,1
+440936,EU Clinical Trials Register,True,2
+12136798,ClinicalTrials.gov,True,17
+12136798,EU Clinical Trials Register,True,1
+12136798,NIPH Clinical Trials Search of Japan,True,4
+73053710,EU Clinical Trials Register,True,2
+16760658,ClinicalTrials.gov,True,1
+16760658,EU Clinical Trials Register,True,1
+338,ClinicalTrials.gov,True,13
+338,EU Clinical Trials Register,True,7
+338,NIPH Clinical Trials Search of Japan,True,2
+11219835,ClinicalTrials.gov,True,31
+11219835,EU Clinical Trials Register,True,18
+11219835,NIPH Clinical Trials Search of Japan,True,2
+2812,ClinicalTrials.gov,True,26
+2812,EU Clinical Trials Register,True,10
+4614,ClinicalTrials.gov,True,1
+6918638,ClinicalTrials.gov,True,49
+6918638,EU Clinical Trials Register,True,10
+2554,ClinicalTrials.gov,True,92
+2554,EU Clinical Trials Register,True,21
+2554,NIPH Clinical Trials Search of Japan,True,1
+130956,ClinicalTrials.gov,True,4
+130956,NIPH Clinical Trials Search of Japan,True,6
+23582824,ClinicalTrials.gov,True,1
+60750,ClinicalTrials.gov,True,1516
+60750,EU Clinical Trials Register,True,426
+60750,NIPH Clinical Trials Search of Japan,True,273
+6253,ClinicalTrials.gov,True,996
+6253,EU Clinical Trials Register,True,187
+6253,NIPH Clinical Trials Search of Japan,True,37
+6252,ClinicalTrials.gov,True,2
+6252,EU Clinical Trials Register,True,3
+6029,ClinicalTrials.gov,True,9
+6029,NIPH Clinical Trials Search of Japan,True,1
+71481097,ClinicalTrials.gov,True,148
+71481097,EU Clinical Trials Register,True,25
+3440,ClinicalTrials.gov,True,165
+3440,EU Clinical Trials Register,True,42
+3440,NIPH Clinical Trials Search of Japan,True,33
+60961,ClinicalTrials.gov,True,59
+60961,EU Clinical Trials Register,True,20
+60961,NIPH Clinical Trials Search of Japan,True,4
+9444,ClinicalTrials.gov,True,543
+9444,EU Clinical Trials Register,True,115
+9444,NIPH Clinical Trials Search of Japan,True,17
+119182,ClinicalTrials.gov,True,142
+119182,EU Clinical Trials Register,True,37
+135401907,ClinicalTrials.gov,True,152
+135401907,EU Clinical Trials Register,True,53
+135401907,NIPH Clinical Trials Search of Japan,True,18
+6256,ClinicalTrials.gov,True,5
+6256,EU Clinical Trials Register,True,17
+6256,NIPH Clinical Trials Search of Japan,True,5
+446727,ClinicalTrials.gov,True,2
+446727,EU Clinical Trials Register,True,3
+5905,ClinicalTrials.gov,True,1
+451668,ClinicalTrials.gov,True,316
+451668,EU Clinical Trials Register,True,33
+451668,NIPH Clinical Trials Search of Japan,True,3
+70817911,ClinicalTrials.gov,True,1
+46188928,ClinicalTrials.gov,True,15
+46188928,EU Clinical Trials Register,True,2
+46188928,NIPH Clinical Trials Search of Japan,True,1
+67330085,ClinicalTrials.gov,True,5
+23725625,ClinicalTrials.gov,True,368
+23725625,EU Clinical Trials Register,True,131
+23725625,NIPH Clinical Trials Search of Japan,True,29
+49831257,ClinicalTrials.gov,True,51
+49831257,EU Clinical Trials Register,True,28
+49831257,NIPH Clinical Trials Search of Japan,True,4
+9887053,ClinicalTrials.gov,True,1177
+9887053,EU Clinical Trials Register,True,353
+9887053,NIPH Clinical Trials Search of Japan,True,170
+2754,ClinicalTrials.gov,True,117
+2754,EU Clinical Trials Register,True,7
+2754,NIPH Clinical Trials Search of Japan,True,51
+10029385,ClinicalTrials.gov,True,3
+16222096,ClinicalTrials.gov,True,100
+16222096,EU Clinical Trials Register,True,30
+16222096,NIPH Clinical Trials Search of Japan,True,1
+72165228,ClinicalTrials.gov,True,22
+72165228,EU Clinical Trials Register,True,8
+72165228,NIPH Clinical Trials Search of Japan,True,3
+25227436,ClinicalTrials.gov,True,47
+25227436,EU Clinical Trials Register,True,17
+25227436,NIPH Clinical Trials Search of Japan,True,5
+33630,EU Clinical Trials Register,True,1
+148195,ClinicalTrials.gov,True,31
+148195,EU Clinical Trials Register,True,4
+16362,ClinicalTrials.gov,True,8
+16362,EU Clinical Trials Register,True,6
+20179,ClinicalTrials.gov,True,11
+20179,EU Clinical Trials Register,True,43
+2435,ClinicalTrials.gov,True,25
+2435,EU Clinical Trials Register,True,6
+2435,NIPH Clinical Trials Search of Japan,True,6
+11338033,ClinicalTrials.gov,True,2
+71766360,ClinicalTrials.gov,True,2
+58507717,ClinicalTrials.gov,True,10
+58507717,EU Clinical Trials Register,True,5
+10195250,ClinicalTrials.gov,True,1
+10195250,EU Clinical Trials Register,True,1
+6112,ClinicalTrials.gov,True,18
+6112,EU Clinical Trials Register,True,1
+6437836,ClinicalTrials.gov,True,1
+6437836,NIPH Clinical Trials Search of Japan,True,1
+4740,ClinicalTrials.gov,True,143
+4740,EU Clinical Trials Register,True,20
+1986,ClinicalTrials.gov,True,130
+1986,EU Clinical Trials Register,True,16
+1986,NIPH Clinical Trials Search of Japan,True,3
+9562059,ClinicalTrials.gov,True,2
+9562059,EU Clinical Trials Register,True,1
+2244,ClinicalTrials.gov,True,877
+2244,EU Clinical Trials Register,True,203
+2244,NIPH Clinical Trials Search of Japan,True,95
+9821849,ClinicalTrials.gov,True,181
+9821849,EU Clinical Trials Register,True,65
+9821849,NIPH Clinical Trials Search of Japan,True,4
+23663985,ClinicalTrials.gov,True,2
+23663985,NIPH Clinical Trials Search of Japan,True,4
+158550,ClinicalTrials.gov,True,6
+158550,EU Clinical Trials Register,True,63
+185462,EU Clinical Trials Register,True,19
+44462760,ClinicalTrials.gov,True,110
+44462760,EU Clinical Trials Register,True,34
+44462760,NIPH Clinical Trials Search of Japan,True,7
+11570805,ClinicalTrials.gov,True,3
+11570805,EU Clinical Trials Register,True,1
+441243,ClinicalTrials.gov,True,55
+441243,EU Clinical Trials Register,True,19
+441243,NIPH Clinical Trials Search of Japan,True,1
+9853654,ClinicalTrials.gov,True,1
+9853654,EU Clinical Trials Register,True,1
+2187,ClinicalTrials.gov,True,250
+2187,EU Clinical Trials Register,True,74
+2187,NIPH Clinical Trials Search of Japan,True,17
+285033,ClinicalTrials.gov,True,28
+285033,EU Clinical Trials Register,True,5
+3397,ClinicalTrials.gov,True,56
+3397,EU Clinical Trials Register,True,5
+3397,NIPH Clinical Trials Search of Japan,True,6
+451417,ClinicalTrials.gov,True,8
+5493444,ClinicalTrials.gov,True,131
+5493444,EU Clinical Trials Register,True,78
+5493444,NIPH Clinical Trials Search of Japan,True,22
+2520,ClinicalTrials.gov,True,64
+2520,EU Clinical Trials Register,True,9
+2520,NIPH Clinical Trials Search of Japan,True,1
+170014,EU Clinical Trials Register,True,3
+392622,ClinicalTrials.gov,True,402
+392622,EU Clinical Trials Register,True,189
+392622,NIPH Clinical Trials Search of Japan,True,5
+16052011,ClinicalTrials.gov,True,98
+16052011,EU Clinical Trials Register,True,30
+16052011,NIPH Clinical Trials Search of Japan,True,11
+72172,ClinicalTrials.gov,True,3
+72172,NIPH Clinical Trials Search of Japan,True,1
+50922675,ClinicalTrials.gov,True,78
+50922675,EU Clinical Trials Register,True,34
+50922675,NIPH Clinical Trials Search of Japan,True,5
+126689157,ClinicalTrials.gov,True,6
+126689157,EU Clinical Trials Register,True,1
+45375953,ClinicalTrials.gov,True,44
+45375953,EU Clinical Trials Register,True,6
+11950170,ClinicalTrials.gov,True,23
+104769,ClinicalTrials.gov,True,9
+104769,EU Clinical Trials Register,True,10
+67462786,ClinicalTrials.gov,True,37
+67462786,EU Clinical Trials Register,True,7
+67462786,NIPH Clinical Trials Search of Japan,True,4
+3339,ClinicalTrials.gov,True,126
+3339,EU Clinical Trials Register,True,40
+3339,NIPH Clinical Trials Search of Japan,True,8
+58282870,ClinicalTrials.gov,True,3
+11626560,ClinicalTrials.gov,True,113
+11626560,EU Clinical Trials Register,True,26
+11626560,NIPH Clinical Trials Search of Japan,True,8
+135413536,ClinicalTrials.gov,True,130
+135413536,EU Clinical Trials Register,True,36
+135413536,NIPH Clinical Trials Search of Japan,True,51
+156419,ClinicalTrials.gov,True,56
+156419,EU Clinical Trials Register,True,26
+156419,NIPH Clinical Trials Search of Japan,True,10
+156391,ClinicalTrials.gov,True,162
+156391,EU Clinical Trials Register,True,30
+156391,NIPH Clinical Trials Search of Japan,True,1
+60490,ClinicalTrials.gov,True,15
+60490,EU Clinical Trials Register,True,1
+71616,ClinicalTrials.gov,True,104
+71616,EU Clinical Trials Register,True,35
+71616,NIPH Clinical Trials Search of Japan,True,6
+5312125,ClinicalTrials.gov,True,31
+5312125,EU Clinical Trials Register,True,5
+5312125,NIPH Clinical Trials Search of Japan,True,26
+67171867,ClinicalTrials.gov,True,82
+67171867,EU Clinical Trials Register,True,20
+67171867,NIPH Clinical Trials Search of Japan,True,5
+2375,ClinicalTrials.gov,True,151
+2375,EU Clinical Trials Register,True,28
+2375,NIPH Clinical Trials Search of Japan,True,11
+44093,ClinicalTrials.gov,True,33
+44093,EU Clinical Trials Register,True,12
+54755438,ClinicalTrials.gov,True,12
+54755438,EU Clinical Trials Register,True,3
+54755438,NIPH Clinical Trials Search of Japan,True,2
+55245,ClinicalTrials.gov,True,131
+55245,EU Clinical Trials Register,True,23
+121408882,ClinicalTrials.gov,True,9
+54704426,ClinicalTrials.gov,True,4
+54704426,EU Clinical Trials Register,True,1
+54704426,NIPH Clinical Trials Search of Japan,True,1
+14982,ClinicalTrials.gov,True,8
+14982,EU Clinical Trials Register,True,2
+14982,NIPH Clinical Trials Search of Japan,True,3
+656656,ClinicalTrials.gov,True,3
+49846579,ClinicalTrials.gov,True,536
+49846579,EU Clinical Trials Register,True,101
+49846579,NIPH Clinical Trials Search of Japan,True,13
+6480466,ClinicalTrials.gov,True,28
+6480466,EU Clinical Trials Register,True,4
+5311068,ClinicalTrials.gov,True,1057
+5311068,EU Clinical Trials Register,True,57
+5311068,NIPH Clinical Trials Search of Japan,True,63
+56959,ClinicalTrials.gov,True,81
+56959,EU Clinical Trials Register,True,19
+92727,ClinicalTrials.gov,True,11
+92727,EU Clinical Trials Register,True,79
+119607,ClinicalTrials.gov,True,19
+119607,EU Clinical Trials Register,True,1
+23675320,EU Clinical Trials Register,True,3
+24785956,EU Clinical Trials Register,True,4
+5330286,ClinicalTrials.gov,True,302
+5330286,EU Clinical Trials Register,True,71
+5330286,NIPH Clinical Trials Search of Japan,True,9
+444795,ClinicalTrials.gov,True,143
+444795,EU Clinical Trials Register,True,25
+22049997,ClinicalTrials.gov,True,14
+22049997,EU Clinical Trials Register,True,5
+24826799,ClinicalTrials.gov,True,56
+24826799,EU Clinical Trials Register,True,29
+24826799,NIPH Clinical Trials Search of Japan,True,7
+16063245,ClinicalTrials.gov,True,4
+24812758,ClinicalTrials.gov,True,119
+24812758,EU Clinical Trials Register,True,24
+24812758,NIPH Clinical Trials Search of Japan,True,40
+46910592,ClinicalTrials.gov,True,2
+51039094,ClinicalTrials.gov,True,53
+51039094,EU Clinical Trials Register,True,10
+51039094,NIPH Clinical Trials Search of Japan,True,6
+11960271,ClinicalTrials.gov,True,1
+6918837,ClinicalTrials.gov,True,130
+6918837,EU Clinical Trials Register,True,27
+6918837,NIPH Clinical Trials Search of Japan,True,2
+104850,ClinicalTrials.gov,True,45
+104850,EU Clinical Trials Register,True,32
+14296,ClinicalTrials.gov,True,1
+56649450,ClinicalTrials.gov,True,89
+56649450,EU Clinical Trials Register,True,20
+56649450,NIPH Clinical Trials Search of Japan,True,3
+11707110,ClinicalTrials.gov,True,223
+11707110,EU Clinical Trials Register,True,55
+11707110,NIPH Clinical Trials Search of Japan,True,7
+4463,ClinicalTrials.gov,True,123
+4463,EU Clinical Trials Register,True,32
+118598754,ClinicalTrials.gov,True,9
+36314,ClinicalTrials.gov,True,2883
+36314,EU Clinical Trials Register,True,594
+36314,NIPH Clinical Trials Search of Japan,True,257
+148124,ClinicalTrials.gov,True,1729
+148124,EU Clinical Trials Register,True,471
+148124,NIPH Clinical Trials Search of Japan,True,240
+148123,ClinicalTrials.gov,True,2
+148123,EU Clinical Trials Register,True,29
+11256664,ClinicalTrials.gov,True,60
+11256664,EU Clinical Trials Register,True,8
+11256664,NIPH Clinical Trials Search of Japan,True,3
+6989,ClinicalTrials.gov,True,2
+6989,NIPH Clinical Trials Search of Japan,True,1
+3463,ClinicalTrials.gov,True,34
+3463,EU Clinical Trials Register,True,2
+9966051,ClinicalTrials.gov,True,98
+9966051,EU Clinical Trials Register,True,37
+9966051,NIPH Clinical Trials Search of Japan,True,2
+129073603,ClinicalTrials.gov,True,11
+129073603,EU Clinical Trials Register,True,5
+129073603,NIPH Clinical Trials Search of Japan,True,4
+4055,ClinicalTrials.gov,True,2
+2749,ClinicalTrials.gov,True,6
+2749,EU Clinical Trials Register,True,12
+4659569,ClinicalTrials.gov,True,26
+4659569,EU Clinical Trials Register,True,7
+4659569,NIPH Clinical Trials Search of Japan,True,1
+2662,ClinicalTrials.gov,True,451
+2662,EU Clinical Trials Register,True,62
+2662,NIPH Clinical Trials Search of Japan,True,32
+11557040,ClinicalTrials.gov,True,1
+11557040,EU Clinical Trials Register,True,77
+25022378,ClinicalTrials.gov,True,12
+25022378,EU Clinical Trials Register,True,28
+25022378,NIPH Clinical Trials Search of Japan,True,2
+44241743,ClinicalTrials.gov,True,9
+44241743,EU Clinical Trials Register,True,8
+82146,ClinicalTrials.gov,True,32
+82146,EU Clinical Trials Register,True,5
+82146,NIPH Clinical Trials Search of Japan,True,6
+52920501,ClinicalTrials.gov,True,62
+52920501,EU Clinical Trials Register,True,3
+52920501,NIPH Clinical Trials Search of Japan,True,1
+135398745,ClinicalTrials.gov,True,313
+135398745,EU Clinical Trials Register,True,78
+135398745,NIPH Clinical Trials Search of Japan,True,35
+135151360,ClinicalTrials.gov,True,1
+135151360,EU Clinical Trials Register,True,1
+19090,ClinicalTrials.gov,True,6
+19090,EU Clinical Trials Register,True,3
+12108541,EU Clinical Trials Register,True,9
+4594,ClinicalTrials.gov,True,284
+4594,EU Clinical Trials Register,True,64
+4594,NIPH Clinical Trials Search of Japan,True,36
+67517580,EU Clinical Trials Register,True,2
+54677470,ClinicalTrials.gov,True,77
+54677470,EU Clinical Trials Register,True,3
+54677470,NIPH Clinical Trials Search of Japan,True,9
+1054,ClinicalTrials.gov,True,37
+1054,EU Clinical Trials Register,True,2
+1054,NIPH Clinical Trials Search of Japan,True,3
+6019,ClinicalTrials.gov,True,14
+6019,EU Clinical Trials Register,True,4
+6019,NIPH Clinical Trials Search of Japan,True,1
+28061,ClinicalTrials.gov,True,5
+28061,EU Clinical Trials Register,True,2
+135400182,ClinicalTrials.gov,True,33
+135400182,EU Clinical Trials Register,True,3
+31307,ClinicalTrials.gov,True,85
+31307,EU Clinical Trials Register,True,17
+31307,NIPH Clinical Trials Search of Japan,True,10
+68873,ClinicalTrials.gov,True,13
+68873,EU Clinical Trials Register,True,24
+68873,NIPH Clinical Trials Search of Japan,True,1
+443872,ClinicalTrials.gov,True,96
+443872,EU Clinical Trials Register,True,29
+443872,NIPH Clinical Trials Search of Japan,True,24
+57363,ClinicalTrials.gov,True,52
+57363,EU Clinical Trials Register,True,8
+57363,NIPH Clinical Trials Search of Japan,True,2
+104741,ClinicalTrials.gov,True,368
+104741,EU Clinical Trials Register,True,84
+104741,NIPH Clinical Trials Search of Japan,True,20
+10621,ClinicalTrials.gov,True,13
+10621,NIPH Clinical Trials Search of Japan,True,5
+441207,ClinicalTrials.gov,True,3
+441207,EU Clinical Trials Register,True,2
+443939,ClinicalTrials.gov,True,664
+443939,EU Clinical Trials Register,True,196
+443939,NIPH Clinical Trials Search of Japan,True,1
+65348,ClinicalTrials.gov,True,88
+65348,EU Clinical Trials Register,True,38
+636362,ClinicalTrials.gov,True,9
+636362,EU Clinical Trials Register,True,15
+163659,ClinicalTrials.gov,True,3
+6436173,ClinicalTrials.gov,True,149
+6436173,EU Clinical Trials Register,True,33
+6436173,NIPH Clinical Trials Search of Japan,True,10
+54684461,ClinicalTrials.gov,True,17
+54684461,EU Clinical Trials Register,True,9
+3000226,ClinicalTrials.gov,True,6
+3000226,EU Clinical Trials Register,True,12
+24788740,ClinicalTrials.gov,True,54
+24788740,EU Clinical Trials Register,True,19
+24788740,NIPH Clinical Trials Search of Japan,True,6
+6279,ClinicalTrials.gov,True,74
+6279,EU Clinical Trials Register,True,10
+6279,NIPH Clinical Trials Search of Japan,True,3
+16923,ClinicalTrials.gov,True,4
+16923,EU Clinical Trials Register,True,9
+5743,ClinicalTrials.gov,True,2246
+5743,EU Clinical Trials Register,True,487
+5743,NIPH Clinical Trials Search of Japan,True,197
+3000518,ClinicalTrials.gov,True,8
+6917864,ClinicalTrials.gov,True,79
+6917864,EU Clinical Trials Register,True,3
+68911,ClinicalTrials.gov,True,9
+5284616,ClinicalTrials.gov,True,519
+5284616,EU Clinical Trials Register,True,105
+5284616,NIPH Clinical Trials Search of Japan,True,30
+6918289,ClinicalTrials.gov,True,188
+6918289,EU Clinical Trials Register,True,45
+6918289,NIPH Clinical Trials Search of Japan,True,1
+6442177,ClinicalTrials.gov,True,667
+6442177,EU Clinical Trials Register,True,263
+6442177,NIPH Clinical Trials Search of Japan,True,23
+9926791,ClinicalTrials.gov,True,180
+9926791,EU Clinical Trials Register,True,56
+9926791,NIPH Clinical Trials Search of Japan,True,12
+10174505,ClinicalTrials.gov,True,8
+10174505,EU Clinical Trials Register,True,56
+24775005,ClinicalTrials.gov,True,39
+24775005,EU Clinical Trials Register,True,14
+25262965,ClinicalTrials.gov,True,5
+25262965,EU Clinical Trials Register,True,1
+118869362,ClinicalTrials.gov,True,10
+118869362,EU Clinical Trials Register,True,1
+32798,ClinicalTrials.gov,True,39
+32798,EU Clinical Trials Register,True,27
+32798,NIPH Clinical Trials Search of Japan,True,3
+21800,ClinicalTrials.gov,True,18
+21800,EU Clinical Trials Register,True,27
+21800,NIPH Clinical Trials Search of Japan,True,1
+468595,ClinicalTrials.gov,True,57
+468595,EU Clinical Trials Register,True,29
+16759173,ClinicalTrials.gov,True,17
+16759173,EU Clinical Trials Register,True,11
+16759173,NIPH Clinical Trials Search of Japan,True,1
+6321424,ClinicalTrials.gov,True,151
+6321424,EU Clinical Trials Register,True,24
+6321424,NIPH Clinical Trials Search of Japan,True,5
+60699,ClinicalTrials.gov,True,153
+60699,EU Clinical Trials Register,True,41
+5388983,ClinicalTrials.gov,True,59
+5388983,EU Clinical Trials Register,True,19
+249332,ClinicalTrials.gov,True,444
+249332,EU Clinical Trials Register,True,62
+249332,NIPH Clinical Trials Search of Japan,True,1
+9827599,ClinicalTrials.gov,True,6
+9827599,EU Clinical Trials Register,True,42
+9827599,NIPH Clinical Trials Search of Japan,True,1
+67501411,ClinicalTrials.gov,True,4
+67501411,NIPH Clinical Trials Search of Japan,True,4
+60838,ClinicalTrials.gov,True,623
+60838,EU Clinical Trials Register,True,250
+60838,NIPH Clinical Trials Search of Japan,True,151
+74990,ClinicalTrials.gov,True,318
+74990,EU Clinical Trials Register,True,106
+74990,NIPH Clinical Trials Search of Japan,True,4
+46926350,ClinicalTrials.gov,True,18
+46926350,EU Clinical Trials Register,True,1
+4829,ClinicalTrials.gov,True,361
+4829,EU Clinical Trials Register,True,97
+4829,NIPH Clinical Trials Search of Japan,True,61
+10461508,ClinicalTrials.gov,True,23
+10461508,EU Clinical Trials Register,True,6
+10461508,NIPH Clinical Trials Search of Japan,True,1
+5284373,ClinicalTrials.gov,True,606
+5284373,EU Clinical Trials Register,True,165
+5284373,NIPH Clinical Trials Search of Japan,True,30
+12560,ClinicalTrials.gov,True,58
+12560,EU Clinical Trials Register,True,20
+12560,NIPH Clinical Trials Search of Japan,True,3
+3033819,ClinicalTrials.gov,True,2
+3033819,EU Clinical Trials Register,True,21
+441313,ClinicalTrials.gov,True,5
+441313,EU Clinical Trials Register,True,12
+135398744,ClinicalTrials.gov,True,262
+135398744,EU Clinical Trials Register,True,52
+135398744,NIPH Clinical Trials Search of Japan,True,7
+5281004,ClinicalTrials.gov,True,230
+5281004,EU Clinical Trials Register,True,154
+5281004,NIPH Clinical Trials Search of Japan,True,31
+445639,ClinicalTrials.gov,True,8
+445639,NIPH Clinical Trials Search of Japan,True,3
+107969,ClinicalTrials.gov,True,25
+107969,EU Clinical Trials Register,True,52
+21585658,ClinicalTrials.gov,True,76
+21585658,EU Clinical Trials Register,True,34
+21585658,NIPH Clinical Trials Search of Japan,True,5
+3034010,ClinicalTrials.gov,True,44
+3034010,EU Clinical Trials Register,True,11
+3034010,NIPH Clinical Trials Search of Japan,True,1
+117965,ClinicalTrials.gov,True,14
+117965,EU Clinical Trials Register,True,83
+117965,NIPH Clinical Trials Search of Japan,True,2
+4922,ClinicalTrials.gov,True,6
+4922,EU Clinical Trials Register,True,2
+6918111,ClinicalTrials.gov,True,6
+6918111,EU Clinical Trials Register,True,82
+6918111,NIPH Clinical Trials Search of Japan,True,1
+16004692,ClinicalTrials.gov,True,52
+16004692,EU Clinical Trials Register,True,29
+16004692,NIPH Clinical Trials Search of Japan,True,6
+42611257,ClinicalTrials.gov,True,133
+42611257,EU Clinical Trials Register,True,44
+42611257,NIPH Clinical Trials Search of Japan,True,2
+6314,ClinicalTrials.gov,True,85
+6314,EU Clinical Trials Register,True,43
+6314,NIPH Clinical Trials Search of Japan,True,11
+5329102,ClinicalTrials.gov,True,247
+5329102,EU Clinical Trials Register,True,122
+5329102,NIPH Clinical Trials Search of Japan,True,16
+66068,EU Clinical Trials Register,True,1
+10180,ClinicalTrials.gov,True,2
+164726578,ClinicalTrials.gov,True,7
+86705695,ClinicalTrials.gov,True,43
+86705695,EU Clinical Trials Register,True,16
+86705695,NIPH Clinical Trials Search of Japan,True,7
+53235510,ClinicalTrials.gov,True,27
+53235510,EU Clinical Trials Register,True,8
+53235510,NIPH Clinical Trials Search of Japan,True,1
+46220502,ClinicalTrials.gov,True,198
+46220502,EU Clinical Trials Register,True,39
+46220502,NIPH Clinical Trials Search of Japan,True,15
+5311027,ClinicalTrials.gov,True,40
+5311027,EU Clinical Trials Register,True,32
+5311027,NIPH Clinical Trials Search of Japan,True,7
+6918132,ClinicalTrials.gov,True,13
+6918132,EU Clinical Trials Register,True,17
+6918132,NIPH Clinical Trials Search of Japan,True,4
+5381,ClinicalTrials.gov,True,32
+5381,EU Clinical Trials Register,True,12
+9915743,ClinicalTrials.gov,True,78
+9915743,EU Clinical Trials Register,True,20
+67307512,ClinicalTrials.gov,True,4
+67307512,EU Clinical Trials Register,True,3
+9887712,ClinicalTrials.gov,True,446
+9887712,EU Clinical Trials Register,True,134
+9887712,NIPH Clinical Trials Search of Japan,True,84
+24906252,ClinicalTrials.gov,True,2
+24906252,EU Clinical Trials Register,True,44
+24906252,NIPH Clinical Trials Search of Japan,True,1
+24199313,EU Clinical Trials Register,True,1
+16124208,ClinicalTrials.gov,True,2
+71420,ClinicalTrials.gov,True,6
+71420,EU Clinical Trials Register,True,1
+71420,NIPH Clinical Trials Search of Japan,True,1
+44631912,ClinicalTrials.gov,True,146
+44631912,EU Clinical Trials Register,True,42
+44631912,NIPH Clinical Trials Search of Japan,True,1
+2123,ClinicalTrials.gov,True,1
+54680690,ClinicalTrials.gov,True,2
+10184653,ClinicalTrials.gov,True,168
+10184653,EU Clinical Trials Register,True,51
+10184653,NIPH Clinical Trials Search of Japan,True,44
+10348973,ClinicalTrials.gov,True,44
+10348973,EU Clinical Trials Register,True,8
+10348973,NIPH Clinical Trials Search of Japan,True,8
+77995,ClinicalTrials.gov,True,11
+77995,EU Clinical Trials Register,True,16
+3100,ClinicalTrials.gov,True,137
+3100,EU Clinical Trials Register,True,3
+3100,NIPH Clinical Trials Search of Japan,True,7
+126941,ClinicalTrials.gov,True,1230
+126941,EU Clinical Trials Register,True,248
+126941,NIPH Clinical Trials Search of Japan,True,44
+3045381,EU Clinical Trials Register,True,31
+3045381,NIPH Clinical Trials Search of Japan,True,1
+77999,ClinicalTrials.gov,True,142
+77999,EU Clinical Trials Register,True,27
+54676228,ClinicalTrials.gov,True,16
+54676228,EU Clinical Trials Register,True,4
+44582816,ClinicalTrials.gov,True,10
+44582816,EU Clinical Trials Register,True,1
+10288191,ClinicalTrials.gov,True,115
+10288191,EU Clinical Trials Register,True,39
+10288191,NIPH Clinical Trials Search of Japan,True,4
+24963252,ClinicalTrials.gov,True,3
+65628,ClinicalTrials.gov,True,245
+65628,EU Clinical Trials Register,True,66
+65628,NIPH Clinical Trials Search of Japan,True,21
+110635,ClinicalTrials.gov,True,193
+110635,EU Clinical Trials Register,True,47
+110635,NIPH Clinical Trials Search of Japan,True,32
+3081361,ClinicalTrials.gov,True,97
+3081361,EU Clinical Trials Register,True,30
+3081361,NIPH Clinical Trials Search of Japan,True,4
+25166913,ClinicalTrials.gov,True,26
+25166913,EU Clinical Trials Register,True,9
+10206,ClinicalTrials.gov,True,1
+10206,NIPH Clinical Trials Search of Japan,True,1
+5459308,ClinicalTrials.gov,True,1
+138611145,ClinicalTrials.gov,True,30
+138611145,EU Clinical Trials Register,True,4
+25141092,ClinicalTrials.gov,True,35
+25141092,EU Clinical Trials Register,True,11
+25141092,NIPH Clinical Trials Search of Japan,True,4
+25145656,ClinicalTrials.gov,True,50
+25145656,EU Clinical Trials Register,True,20
+25145656,NIPH Clinical Trials Search of Japan,True,6
+24872560,ClinicalTrials.gov,True,116
+24872560,EU Clinical Trials Register,True,18
+24872560,NIPH Clinical Trials Search of Japan,True,3
+11167602,ClinicalTrials.gov,True,244
+11167602,EU Clinical Trials Register,True,69
+11167602,NIPH Clinical Trials Search of Japan,True,22
+5284443,ClinicalTrials.gov,True,14
+5284443,EU Clinical Trials Register,True,20
+5284443,NIPH Clinical Trials Search of Japan,True,2
+9931953,ClinicalTrials.gov,True,3
+9931953,EU Clinical Trials Register,True,2
+60606,ClinicalTrials.gov,True,501
+60606,EU Clinical Trials Register,True,155
+60606,NIPH Clinical Trials Search of Japan,True,54
+637568,ClinicalTrials.gov,True,87
+637568,EU Clinical Trials Register,True,56
+157921,ClinicalTrials.gov,True,5
+157921,EU Clinical Trials Register,True,25
+4030,ClinicalTrials.gov,True,22
+4030,EU Clinical Trials Register,True,2
+5282230,ClinicalTrials.gov,True,13
+5282230,EU Clinical Trials Register,True,1
+5282230,NIPH Clinical Trials Search of Japan,True,15
+123631,ClinicalTrials.gov,True,273
+123631,EU Clinical Trials Register,True,40
+123631,NIPH Clinical Trials Search of Japan,True,39
+445858,NIPH Clinical Trials Search of Japan,True,4
+2179,ClinicalTrials.gov,True,9
+2179,EU Clinical Trials Register,True,8
+71621331,ClinicalTrials.gov,True,18
+71621331,EU Clinical Trials Register,True,6
+71621331,NIPH Clinical Trials Search of Japan,True,6
+25102846,ClinicalTrials.gov,True,41
+25102846,EU Clinical Trials Register,True,43
+25102846,NIPH Clinical Trials Search of Japan,True,3
+5324346,ClinicalTrials.gov,True,50
+5324346,EU Clinical Trials Register,True,6
+5324346,NIPH Clinical Trials Search of Japan,True,7
+9560989,ClinicalTrials.gov,True,6
+9560989,EU Clinical Trials Register,True,5
+176870,ClinicalTrials.gov,True,459
+176870,EU Clinical Trials Register,True,137
+176870,NIPH Clinical Trials Search of Japan,True,106
+117947097,ClinicalTrials.gov,True,25
+117947097,EU Clinical Trials Register,True,9
+117947097,NIPH Clinical Trials Search of Japan,True,2
+24776445,ClinicalTrials.gov,True,82
+24776445,EU Clinical Trials Register,True,21
+4495,ClinicalTrials.gov,True,6
+4495,EU Clinical Trials Register,True,3
+4495,NIPH Clinical Trials Search of Japan,True,1
+5311180,ClinicalTrials.gov,True,16
+5311180,EU Clinical Trials Register,True,2
+5311180,NIPH Clinical Trials Search of Japan,True,10
+2478,ClinicalTrials.gov,True,443
+2478,EU Clinical Trials Register,True,48
+2478,NIPH Clinical Trials Search of Japan,True,33
+10114,ClinicalTrials.gov,True,5
+10114,EU Clinical Trials Register,True,1
+10114,NIPH Clinical Trials Search of Japan,True,1
+5282451,ClinicalTrials.gov,True,4
+5282451,EU Clinical Trials Register,True,12
+5282451,NIPH Clinical Trials Search of Japan,True,1
+441074,ClinicalTrials.gov,True,17
+441074,EU Clinical Trials Register,True,1
+441074,NIPH Clinical Trials Search of Japan,True,1
+24997615,ClinicalTrials.gov,True,3
+24997615,EU Clinical Trials Register,True,13
+78357807,ClinicalTrials.gov,True,15
+78357807,EU Clinical Trials Register,True,36
+78357807,NIPH Clinical Trials Search of Japan,True,1
+5282164,ClinicalTrials.gov,True,3

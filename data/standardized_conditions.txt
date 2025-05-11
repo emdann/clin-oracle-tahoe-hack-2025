@@ -1,0 +1,2738 @@
+Breast Cancer
+Healthy
+Prostate Cancer
+Multiple Myeloma
+Acute Myeloid Leukemia
+HIV Infections
+Rheumatoid Arthritis
+Leukemia
+Colorectal Cancer
+Lymphoma
+Asthma
+Metastatic Colorectal Cancer
+Metastatic Breast Cancer
+Lung Cancer
+Pancreatic Cancer
+Diabetes Mellitus, Type 2
+Major Depressive Disorder
+Healthy Volunteers
+Type 2 Diabetes Mellitus
+Carcinoma, Non-Small-Cell Lung
+Cancer
+Schizophrenia
+Non-small Cell Lung Cancer
+Melanoma
+Advanced Non-Small Cell Lung Cancer
+Multiple Sclerosis
+COVID-19
+Non Small Cell Lung Cancer
+Atrial Fibrillation
+Hypertension
+Type 2 Diabetes
+Pain
+Ovarian Cancer
+Hepatocellular Carcinoma
+Breast Neoplasms
+Obesity
+Pulmonary Disease, Chronic Obstructive
+Depression
+Coronary Artery Disease
+Neoplasms
+Psoriasis
+Parkinson Disease
+Pulmonary Arterial Hypertension
+Ulcerative Colitis
+Neuroblastoma
+Parkinson's Disease
+Arthritis, Rheumatoid
+Covid19
+Postoperative Pain
+Atopic Dermatitis
+Osteoarthritis
+Solid Tumors
+Acne Vulgaris
+Stroke
+Gastric Cancer
+Advanced Breast Cancer
+Erectile Dysfunction
+Heart Failure
+Prostatic Neoplasms
+HIV
+Acute Lymphoblastic Leukemia
+Epilepsy
+Amyotrophic Lateral Sclerosis
+Colorectal Neoplasms
+Contraception
+NSCLC
+Mantle Cell Lymphoma
+Leukemia, Myeloid, Acute
+Advanced Solid Malignancies
+Renal Cell Carcinoma
+Knee Osteoarthritis
+Malaria
+Head and Neck Cancer
+Myelodysplastic Syndromes
+Chronic Lymphocytic Leukemia
+Chronic Obstructive Pulmonary Disease
+Advanced Solid Tumors
+Solid Tumor
+Rectal Cancer
+HIV Infection
+Diabetes Mellitus
+Psoriasis Vulgaris
+Glaucoma
+Hodgkin Lymphoma
+Cervical Cancer
+Osteoarthritis, Knee
+Healthy Subjects
+Crohn's Disease
+Helicobacter Pylori Infection
+Ischemic Stroke
+Gout
+Bipolar Disorder
+Malignant Melanoma
+Leukemia; Myelodysplastic Syndromes
+Small Cell Lung Cancer
+Endometrial Cancer
+Carcinoma, Renal Cell
+Migraine
+Alzheimer's Disease
+Leukemia; Lymphoma
+Cystic Fibrosis
+Endometriosis
+Alzheimer Disease
+Brain and Central Nervous System Tumors
+Gastrointestinal Stromal Tumors
+Acute Myeloid Leukemia (AML)
+Sarcoma
+Metastatic Melanoma
+Myelodysplastic Syndrome
+Bladder Cancer
+Polycystic Ovary Syndrome
+Autism Spectrum Disorder
+Low Back Pain
+Esophageal Cancer
+Advanced Cancer
+Advanced Solid Tumor
+Kidney Transplantation
+Dental Caries
+Pneumonia, Pneumocystis Carinii; HIV Infections
+Diffuse Large B Cell Lymphoma
+Chronic Kidney Disease
+Healthy Volunteer
+Type 1 Diabetes
+Sickle Cell Disease
+Diabetes
+Follicular Lymphoma
+Metabolic Syndrome
+Colorectal Cancer Metastatic
+HIV-1 Infections
+B-Cell Non-Hodgkin Lymphoma
+Non-Hodgkin's Lymphoma
+Systemic Lupus Erythematosus
+Peripheral Arterial Disease
+Anesthesia
+Infertility
+Diffuse Large B-cell Lymphoma
+Metastatic Renal Cell Carcinoma
+Venous Thromboembolism
+COPD
+Triple Negative Breast Cancer
+Kidney Cancer
+Rosacea
+Carpal Tunnel Syndrome
+Plaque Psoriasis
+Depressive Disorder, Major
+Peripheral T Cell Lymphoma
+Metastatic Castration-resistant Prostate Cancer
+Psoriatic Arthritis
+Diabetes Mellitus Type 1
+Acute Myeloid Leukemia; Myelodysplastic Syndromes
+Head and Neck Squamous Cell Carcinoma
+Obsessive-Compulsive Disorder
+Healthy Participants
+Nasopharyngeal Carcinoma
+Cardiovascular Diseases
+Fibromyalgia
+Diabetic Macular Edema
+Cataract
+Primary Central Nervous System Lymphoma
+Liver Cancer
+Acute Promyelocytic Leukemia
+Major Depression
+Type 1 Diabetes Mellitus
+Acute Myelogenous Leukemia
+Cardiovascular Disease
+Acute Myeloid Leukemia; Myelodysplastic Syndrome
+Chronic Myeloid Leukemia
+Cerebral Palsy
+Benign Prostatic Hyperplasia
+Pulmonary Hypertension
+Metastatic Pancreatic Cancer
+Esophageal Squamous Cell Carcinoma
+Impotence
+Peripheral T-cell Lymphoma
+Relapsing-Remitting Multiple Sclerosis
+Acne
+Melanoma (Skin)
+Glioblastoma
+Schizophrenia and Schizoaffective Disorder
+Recurrent Plasma Cell Myeloma; Refractory Plasma Cell Myeloma
+Hypercholesterolemia
+Acute Coronary Syndrome
+Relapsing Remitting Multiple Sclerosis
+Glaucoma and Ocular Hypertension
+Eosinophilic Esophagitis
+Diabetes Mellitus Type 2
+Gastroesophageal Reflux Disease
+Chronic Kidney Diseases
+Lymphoma, Non-Hodgkin
+Multiple Advanced Hematologic and Solid Malignancies
+Pharmacokinetics
+Aging
+Tuberculosis
+Postoperative Nausea and Vomiting
+Chronic Lymphocytic Leukemia; Small Lymphocytic Lymphoma
+Duchenne Muscular Dystrophy
+Carcinoma, Hepatocellular
+Acute Ischemic Stroke
+Hepatic Encephalopathy
+COVID
+Chronic Pain
+Obstructive Sleep Apnea
+Non-Small-Cell Lung Carcinoma
+Solid Tumours
+Open-Angle Glaucoma; Ocular Hypertension
+Metastatic Prostate Cancer
+Sarcopenia
+Essential Hypertension
+Thyroid Cancer
+Hepatitis C
+Basal Cell Carcinoma
+Chronic Obstructive Pulmonary Disease (COPD)
+Nausea and Vomiting
+Idiopathic Pulmonary Fibrosis
+Ovarian Neoplasms
+Renal Transplantation
+Breast Cancer Female
+Advanced Colorectal Cancer
+Non-Squamous Non-Small Cell Lung Cancer
+Breast Neoplasm
+Unipolar Depression
+Chemotherapy-induced Nausea and Vomiting
+Soft Tissue Sarcoma
+Lymphoma, Large B-Cell, Diffuse
+Colon Cancer
+Pancreatic Adenocarcinoma
+Bioequivalence
+Bipolar Depression
+Actinic Keratosis
+Traumatic Brain Injury
+Esophageal and Gastric Cancer
+Migraine Disorders
+Refractory and Recurrent Acute Leukemia
+Liver Transplantation
+Chronic Low Back Pain
+Recurrent Acute Myeloid Leukemia; Refractory Acute Myeloid Leukemia
+Multiple Myeloma and Plasma Cell Neoplasm
+Ankylosing Spondylitis
+Acute Kidney Injury
+Neoplasms, Breast
+Dyslipidemia
+Relapsing Multiple Sclerosis
+Early Breast Cancer
+Non-Small-Cell Lung Cancer
+Squamous Cell Carcinoma of the Head and Neck
+Periodontitis
+Prostate Cancer Metastatic
+Non-small-cell Lung Cancer
+Hodgkin Disease
+End Stage Renal Disease
+Anemia
+Glioma
+HER2-positive Breast Cancer
+Fallopian Tube Cancer; Ovarian Cancer; Primary Peritoneal Cavity Cancer
+Pulmonary Embolism
+Breast Cancer Metastatic
+Chemotherapy-induced Peripheral Neuropathy
+Urothelial Carcinoma; Bladder Cancer; Urinary Bladder Neoplasms
+AL Amyloidosis
+Head and Neck Neoplasms
+HIV/AIDS
+Cancer; Tumors; Neoplasm; Neoplasia
+Acute Myocardial Infarction
+Osteoporosis
+Irritable Bowel Syndrome
+Stomach Neoplasms
+Solid Tumor, Adult
+Oral Lichen Planus
+Lymphoid Neoplasms
+Short Bowel Syndrome
+HIV-1-infection
+Melasma
+Dry Eye
+Osteoarthritis of the Knee
+Delirium
+Sepsis
+Immune Thrombocytopenia
+Retinoblastoma
+Acute Myeloid Leukemia, Adult
+Neuroendocrine Tumors
+Dry Eye Syndromes
+Congenital Heart Disease
+Colitis, Ulcerative
+Advanced Malignancies and Carcinomas
+Female Breast Neoplasm
+Mesothelioma
+Aplastic Anemia
+Pregnancy
+Graft Versus Host Disease
+Critical Illness
+Biliary Tract Cancer
+Influenza
+Crohn Disease
+Infection, Human Immunodeficiency Virus
+Advanced Cancers
+Advanced Gastric Cancer
+Mild Cognitive Impairment
+Triple-negative Breast Cancer
+Breast Cancer; Metastatic Breast Cancer
+Prostate Adenocarcinoma
+Myeloma
+Dermatitis, Atopic
+Metastatic Castration-Resistant Prostate Cancer
+Attention Deficit Hyperactivity Disorder
+Anorexia Nervosa
+Fungal Infection
+Lymphoma, Mantle-Cell
+Breast Cancer Stage IV
+Dementia
+Prostatic Hyperplasia
+Chronic Hepatitis C
+Myocardial Infarction
+Colorectal Carcinoma
+Alopecia Areata
+Relapsed and/or Refractory Multiple Myeloma
+Osteosarcoma
+Pain Management
+Insomnia
+Diabetic Retinopathy
+Dental Plaque
+Post Operative Pain
+Alcohol Use Disorder
+Pancreatic Ductal Adenocarcinoma
+Cholangiocarcinoma
+Lung Neoplasms
+Colon Cancer; Rectal Cancer
+Obsessive Compulsive Disorder
+Tumors
+Congestive Heart Failure
+Pancreatic Neoplasms
+Lupus Nephritis
+Human Immunodeficiency Virus
+Non-small Cell Lung Cancer (NSCLC)
+Spinal Cord Injuries
+Actinic Keratoses
+Androgenetic Alopecia
+Juvenile Idiopathic Arthritis
+Cystinosis
+Hereditary Hemorrhagic Telangiectasia
+Hepatic Impairment
+Mycoses
+Refractory Multiple Myeloma
+Hearing Loss
+Acute Myeloid Leukaemia
+HIV-1
+Castration-Resistant Prostatic Neoplasms
+Chronic Hepatitis B
+Hyperlipidemia
+Smoking Cessation
+Premenstrual Syndrome
+Allergic Rhinitis
+Dyspepsia
+Inflammation
+Thrombosis
+Cerebrovascular Accident
+Intermittent Claudication
+Obesity and Weight Management
+Local Anesthesia
+Anxiety Disorders
+Hematologic Malignancies
+Hematologic Malignancy
+Acute Respiratory Distress Syndrome
+Diabetic Nephropathy
+Inflammatory Bowel Diseases
+Hidradenitis Suppurativa
+Metastatic Castration Resistant Prostate Cancer
+Neck Pain
+Female Infertility
+Amyotrophic Lateral Sclerosis (ALS)
+Medullary Thyroid Cancer
+Gastroparesis
+Lung Cancer, Non-Small Cell
+Rectal Neoplasms
+Peripheral Artery Disease
+Langerhans Cell Histiocytosis
+Generalized Anxiety Disorder
+Fallopian Tube Cancer; Ovarian Cancer; Peritoneal Cavity Cancer
+Presbyopia
+Weight Loss
+Septic Shock
+Glioblastoma Multiforme
+Hematological Malignancies
+Secondary Hyperparathyroidism
+Temporomandibular Disorder
+Takayasu Arteritis
+ADHD
+Malignant Pleural Mesothelioma
+Metastatic Cancer
+Metastatic Pancreatic Adenocarcinoma
+Surgery
+Anxiety
+Colorectal Cancer; Metastatic Cancer
+Neuropathic Pain
+HIV in Pregnancy
+Myelofibrosis
+Relapsing-remitting Multiple Sclerosis
+Advanced Breast Carcinoma; Advanced Malignant Solid Neoplasm; Advanced Ovarian Carcinoma; Advanced Pancreatic Carcinoma; Advanced Prostate Carcinoma; Advanced Sarcoma; Anatomic Stage III Breast Cancer AJCC v8; Anatomic Stage IV Breast Cancer AJCC v8; Recurrent Adult Soft Tissue Sarcoma; Recurrent Breast Carcinoma; Recurrent Ovarian Carcinoma; Recurrent Prostate Carcinoma; Stage II Pancreatic Cancer AJCC v8; Stage III Ovarian Cancer AJCC v8; Stage III Pancreatic Cancer AJCC v8; Stage IV Ovarian Cancer AJCC v8; Stage IV Pancreatic Cancer AJCC v8
+Leptomeningeal Metastasis
+Urinary Incontinence
+Diabetic Nephropathies
+Invasive Aspergillosis
+Scabies
+Treatment-Resistant Depression
+Tinnitus
+Heart Failure With Reduced Ejection Fraction
+Acute Myeloid Leukemia and Myelodysplastic Syndrome
+Gastric Ulcer
+Telangiectasia, Hereditary Hemorrhagic
+Primary Biliary Cirrhosis
+Gastroesophageal Reflux
+Post Traumatic Stress Disorder
+AML, Adult
+Non-small Cell Lung Cancer Metastatic
+Severe Aplastic Anemia
+Urinary Tract Cancers
+Total Knee Arthroplasty
+Hodgkin's Lymphoma
+Acute Leukemia
+Posttraumatic Stress Disorder
+Cancer Metastatic
+Kidney Failure, Chronic
+Lymphoblastic Lymphoma
+Childhood Obesity
+Atherosclerosis
+Fatty Liver
+MDS
+Myelodysplastic Syndromes; Leukemia, Myelomonocytic, Chronic
+Advanced Pancreatic Cancer
+Triple Negative Breast Neoplasms
+Physical Activity
+Chronic Lymphocytic Leukemia (CLL)
+Prurigo Nodularis
+Pancreas Cancer
+Central Nervous System Lymphoma
+Plasma Cell Myeloma
+Acute Myeloid Leukemia; Recurrent Acute Myeloid Leukemia; Refractory Acute Myeloid Leukemia
+Drug Interaction
+Spinal Cord Injury
+Alcohol Dependence
+GERD
+Liver Cirrhosis
+Renal Impairment
+Acute Myeloid Leukemia and Myelodysplastic Syndromes
+Osteoarthritis, Knee; Osteoarthritis, Hip
+Common Cold
+Intracerebral Hemorrhage
+Labor Pain
+Mucositis
+Classical Hodgkin Lymphoma
+Peptic Ulcer Hemorrhage
+Axial Spondyloarthritis
+Uveitis
+Hepatic Insufficiency
+Acute Lymphoblastic Leukemia ALL; Childhood Leukemia, Acute Lymphoblastic; B Cell Acute Lymphoblastic Leukemia (B-ALL)
+Squamous Cell Carcinoma of Head and Neck
+Medulloblastoma
+Infection, Human Immunodeficiency Virus; HIV Infections
+Advanced Parkinson's Disease
+Pneumonia
+Acute Pain
+Neoplasm Metastasis
+Malignant Neoplasm
+Rhabdomyosarcoma
+Alcoholic Hepatitis
+Cirrhosis
+Neonatal Abstinence Syndrome
+Prostate Neoplasms
+Acute Lymphoblastic Leukemia; Lymphoblastic Lymphoma
+Headache
+Non-alcoholic Fatty Liver Disease
+Newly Diagnosed Multiple Myeloma
+Gingivitis
+Non-Hodgkin Lymphoma
+Adult Acute Lymphocytic Leukemia
+Lymphoma, Follicular
+Sedation
+Recurrent/Refractory Acute Myeloid Leukemia
+Glaucoma, Open-Angle; Ocular Hypertension
+Infection
+Advanced Gastrointestinal Stromal Tumor
+Achilles Tendon Rupture
+Myopia
+Hairy Cell Leukemia
+Functional Dyspepsia
+Multiple Cancer Types
+Advanced Hepatocellular Carcinoma
+Quality of Life
+Renal Cell Cancer
+Lung Adenocarcinoma
+Overweight and Obesity
+Diabetic Neuropathies
+Bacteremia
+Urothelial Carcinoma
+Leukemia, Promyelocytic, Acute
+Type II Diabetes Mellitus
+Onchocerciasis
+Preeclampsia
+Aortic Valve Stenosis
+Chronic Heart Failure
+Advanced Cancer; Solid Tumor; Haematological Malignancy
+Autism; Autism Spectrum Disorder
+Leukemia with Neutropenia
+Bronchial Asthma
+Invasive Fungal Infection
+Drug Interactions
+Stomach Neoplasm
+Malignant Mesothelioma
+Adenocarcinoma of the Prostate
+Malignant Pleural Effusion
+HIV Infections and Malaria
+COVID19
+Healthy Male Volunteers
+Autism
+Hypertriglyceridemia
+Ischemic Heart Disease
+Castration-resistant Prostate Cancer
+Arthritis
+Chronic Graft Versus Host Disease
+Untreated Adult Acute Myeloid Leukemia
+Intrahepatic Cholangiocarcinoma
+Waldenstrom's Macroglobulinemia
+Idiopathic Parkinson's Disease
+Stage I Multiple Myeloma; Stage II Multiple Myeloma; Stage III Multiple Myeloma
+Hepatocellular Carcinoma (HCC)
+Pancreatic Ductal Carcinoma
+Carcinoma
+Chemotherapy Induced Nausea and Vomiting
+Type2 Diabetes Mellitus
+Colorectal Cancer; Liver Metastases
+Aspergillosis
+Sleep Disorders
+Peripheral Neuropathy
+Helicobacter Infections
+Adult Solid Neoplasm
+Chronic Periodontitis
+Hepatitis B
+Tuberculosis with HIV
+Hip Fractures
+Solid Tumor Malignancy
+Heart Failure With Preserved Ejection Fraction
+Non Hodgkin Lymphoma
+Chronic Low-back Pain
+Myasthenia Gravis
+DLBCL
+Eating Disorders
+Relapsed/Refractory Acute Myeloid Leukaemia; Myeloid Malignancy
+Small Cell Lung Carcinoma
+Relapsed/Refractory AML
+Breast Carcinoma
+Dysmenorrhea
+Bioavailability
+Cataracts
+Acute Myeloid Leukemia With Multilineage Dysplasia Following Myelodysplastic Syndrome; Adult Acute Megakaryoblastic Leukemia (M7); Adult Acute Minimally Differentiated Myeloid Leukemia (M0); Adult Acute Monoblastic Leukemia (M5a); Adult Acute Monocytic Leukemia (M5b); Adult Acute Myeloblastic Leukemia With Maturation (M2); Adult Acute Myeloblastic Leukemia Without Maturation (M1); Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities; Adult Acute Myeloid Leukemia With Del(5q); Adult Acute Myeloid Leukemia With Inv(16)(p13;q22); Adult Acute Myeloid Leukemia With t(16;16)(p13;q22); Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); Adult Acute Myelomonocytic Leukemia (M4); Adult Erythroleukemia (M6a); Adult Pure Erythroid Leukemia (M6b); Secondary Acute Myeloid Leukemia; Untreated Adult Acute Myeloid Leukemia
+Breast Cancer; HER2-positive Breast Cancer
+Acute Myeloid Leukemia; Leukemia, Acute Myeloid; Myeloid Leukemia, Acute; Leukemia, Myeloid, Acute; Acute Myelogenous Leukemia; Leukemia, Acute Myelogenous; Myelogenous Leukemia, Acute; AML; Bone Marrow Transplant
+Back Pain
+Non-valvular Atrial Fibrillation
+Gastric Adenocarcinoma
+Lateral Epicondylitis
+Juvenile Rheumatoid Arthritis
+Macular Degeneration
+Healthy Adults
+Gulf War Illness
+Chronic Myelogenous Leukemia
+Non-Hodgkin Lymphoma with HIV
+Shoulder Pain
+Gastrointestinal Stromal Tumor
+Esophageal Neoplasms
+Type 2 Diabetes with Cardiovascular Disease
+Metastatic Hormone-sensitive Prostate Cancer
+Differentiated Thyroid Cancer
+Coronavirus Infection
+HIV; HIV Infections
+Acute Stroke
+Safety and Efficacy
+Cesarean Section
+Hip Osteoarthritis
+Chronic Plaque Psoriasis
+Hepatocellular Carcinoma Non-resectable
+Healthy Aging
+Rotator Cuff Tear
+Herpes Zoster
+Uveal Melanoma
+Hip Fracture
+B-Cell Lymphoma
+Coronary Heart Disease
+Epidermolysis Bullosa
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Non Small Cell Lung Carcinoma
+Waldenstrom Macroglobulinemia
+Metastatic Non Small Cell Lung Cancer
+Alcohol Drinking
+Metastatic Pancreatic Adenocarcinoma; Recurrent Pancreatic Carcinoma; Stage III Pancreatic Cancer; Stage IV Pancreatic Cancer
+Advanced Malignant Neoplasms
+Advanced Pediatric Malignancies
+Kidney Diseases
+Retinitis Pigmentosa
+NTRK Fusion Solid Tumors
+Myelodysplastic Syndromes (MDS)
+Locally Advanced Thyroid Gland Carcinoma
+Leukemia, Acute Myeloid (AML)
+Dental Implant
+Mental Health Disorders
+Rare Tumour
+Periodontal Diseases
+Cholera
+Amyloidosis
+Huntington Disease
+Advanced Malignant Solid Neoplasm; Anatomic Stage III Breast Cancer AJCC v8; Anatomic Stage IV Breast Cancer AJCC v8; Locally Advanced Malignant Solid Neoplasm; Malignant Female Reproductive System Neoplasm; Metastatic HER2-Negative Breast Carcinoma; Metastatic Malignant Solid Neoplasm; Recurrent Endometrial Carcinoma; Recurrent Fallopian Tube Carcinoma; Recurrent Malignant Female Reproductive System Neoplasm; Recurrent Malignant Solid Neoplasm; Recurrent Ovarian Carcinoma; Recurrent Primary Peritoneal Carcinoma; Unresectable HER2-Negative Breast Carcinoma; Unresectable Malignant Solid Neoplasm
+Hemophilia A
+Paroxysmal Atrial Fibrillation
+Mantle-Cell Lymphoma
+Schizophrenia and Psychotic Disorders
+Relapsed or Refractory Multiple Myeloma
+Malignant Solid Tumor
+Acute Coronary Syndromes
+Carcinoma, Non-Small Cell Lung
+Gingival Recession
+Dry Eye Syndrome
+Brain Tumors
+Rheumatoid Arthritis (RA)
+Ewing's Sarcoma
+Angioimmunoblastic T-cell Lymphoma
+Allergic Conjunctivitis
+Bleeding
+Adverse Drug Reactions
+B Acute Lymphoblastic Leukemia; B Lymphoblastic Lymphoma
+Taste Disorders
+Stage IV Non-small Cell Lung Cancer
+Dyslipidemias
+Overactive Bladder
+Osteomyelitis
+Autism Spectrum Disorders
+Acute Lymphoblastic Leukemia; Adult B Acute Lymphoblastic Leukemia; Adult B Acute Lymphoblastic Leukemia With t(9;22)(q34.1;q11.2); BCR-ABL1; Adult L1 Acute Lymphoblastic Leukemia; Adult L2 Acute Lymphoblastic Leukemia; Adult T Acute Lymphoblastic Leukemia; Recurrent Adult Acute Lymphoblastic Leukemia
+Menopause
+Relapsed/Refractory Multiple Myeloma
+Allergy
+Pleural Mesothelioma
+Blastoid Variant Mantle Cell Lymphoma; Mantle Cell Lymphoma; Pleomorphic Variant Mantle Cell Lymphoma
+NSCLC Stage IV
+Adhesive Capsulitis
+Oncology
+Metastatic Colorectal Cancer (mCRC)
+Onychomycosis
+Advanced Renal Cell Carcinoma
+PCOS
+Liver Diseases
+Scalp Psoriasis
+Chemotherapy-induced Neutropenia
+CLL
+Cytochrome P450 Enzyme Deficiencies and Drug Metabolism Disorders
+Premenstrual Dysphoric Disorder
+Stroke with Atrial Fibrillation
+Peripheral T-Cell Lymphoma
+Human Immunodeficiency Virus Infection
+Relapsed or Refractory Acute Myeloid Leukemia
+Brain Tumors; Central Nervous System Tumors
+Sjogren's Syndrome
+Respiratory Syncytial Virus Infections
+Borderline Personality Disorder
+Recurrent Acute Myeloid Leukemia
+Alcoholism
+Amyotrophic Lateral Sclerosis; ALS
+Adult Acute Myeloid Leukemia
+Adult Acute Megakaryoblastic Leukemia (M7); Adult Acute Minimally Differentiated Myeloid Leukemia (M0); Adult Acute Monoblastic Leukemia (M5a); Adult Acute Monocytic Leukemia (M5b); Adult Acute Myeloblastic Leukemia With Maturation (M2); Adult Acute Myeloblastic Leukemia Without Maturation (M1); Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities; Adult Acute Myeloid Leukemia With Del(5q); Adult Acute Myeloid Leukemia With Inv(16)(p13;q22); Adult Acute Myeloid Leukemia With t(16;16)(p13;q22); Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); Adult Acute Myelomonocytic Leukemia (M4); Adult Erythroleukemia (M6a); Adult Pure Erythroid Leukemia (M6b); Recurrent Adult Acute Myeloid Leukemia
+Pterygium
+Dermatomyositis
+Liver Transplant
+Brain Metastases
+Relapsed Refractory Multiple Myeloma
+Relapsed Small Cell Lung Cancer
+Advanced or Metastatic Solid Tumors
+Drug Toxicity with Leukemia
+Chronic Hepatitis C Infection
+Renal Failure
+Dilated Cardiomyopathy
+Primary Open Angle Glaucoma; Ocular Hypertension
+Phenylketonuria
+Physical Inactivity
+Kidney Transplant
+Bone Resorption
+Laparoscopic Cholecystectomy
+Diarrhea
+Cerebral Infarction
+Relapsed/Refractory Acute Myeloid Leukemia
+Diabetes Type 2
+Premature Ejaculation
+Age-related Macular Degeneration
+Diabetic Foot Ulcer
+Prostate Cancer (Adenocarcinoma)
+Seizures
+Alzheimer Disease; Preclinical Alzheimer's Disease; Prodromal Alzheimer's Disease; Alzheimer's Disease (Incl Subtypes); Mild Cognitive Impairment
+Chronic Graft-versus-host-disease
+Small Cell Lung Cancer Extensive Stage
+Breast Neoplasms with Metastasis
+Childhood Liver Malignancies
+Chronic Granulomatous Disease
+Acute Myeloid Leukemia - First Line Therapy
+Bronchiectasis
+Peripheral Blood Stem Cell Transplantation
+Dry Eye Disease
+Relapsed and Refractory Multiple Myeloma
+Graft vs Host Disease
+Inoperable, Locally Advanced or Metastatic, ER-positive Breast Cancer
+Neutropenia
+Hematopoietic and Lymphoid Cell Neoplasm; Recurrent Acute Lymphoblastic Leukemia; Recurrent Acute Myeloid Leukemia; Recurrent Chronic Myelomonocytic Leukemia; Recurrent Myelodysplastic Syndrome; Refractory Acute Lymphoblastic Leukemia; Refractory Acute Myeloid Leukemia; Refractory Chronic Myelomonocytic Leukemia; Refractory Myelodysplastic Syndrome
+Metastatic Colorectal Adenocarcinoma
+Gastrointestinal Neoplasms
+Head and Neck Squamous Cell Carcinoma (HNSCC)
+Tooth Loss
+Upper Gastrointestinal Bleeding
+Invasive Fungal Infections
+Hereditary Hemorrhagic Telangiectasia (HHT)
+Staphylococcus Aureus Bacteremia
+Chronic Lymphoid Leukemia
+Nerve Block
+Metastatic Pancreatic Ductal Adenocarcinoma
+Ovarian Cancer; Fallopian Tube Cancer; Primary Peritoneal Carcinoma
+GIST
+Neoplasm
+Cocaine Dependence
+Treatment Resistant Depression
+Irritable Bowel Syndrome With Diarrhea
+Tobacco Use Disorder
+B Acute Lymphoblastic Leukemia; B Lymphoblastic Lymphoma; Down Syndrome
+Pediatric Asthma
+Non-squamous, Non-Small Cell Lung Cancer
+T2DM (Type 2 Diabetes Mellitus)
+Cardiac Arrest
+Healthy Adult Subjects
+Aortic Stenosis
+Chronic Stroke
+Metastatic Pancreatic Adenocarcinoma; Stage IV Pancreatic Cancer AJCC v8
+Lymphatic Filariasis
+T Cell Lymphoma
+Surgical Site Infection
+Acute Lymphoblastic Leukemia; Acute Myeloid Leukemia
+Gastrointestinal Cancer
+Anticoagulation
+AML (Acute Myelogenous Leukemia)
+Urinary Incontinence, Stress
+Gastroesophageal Reflux Disease (GERD)
+Non Small Cell Lung Cancer (NSCLC)
+Urinary Bladder Neoplasms
+Friedreich Ataxia
+Cognitive Impairment
+Pancreatic Cancer Resectable
+Febrile Neutropenia
+Philadelphia Chromosome Positive Acute Lymphoblastic Leukemia
+Hematopoietic Stem Cell Transplantation
+Myeloproliferative Neoplasm
+HIV Infections; AIDS
+Acquired Immunodeficiency Syndrome; HIV Infections
+COVID-19 Pneumonia
+Malignant Melanoma, Neoplasms
+Triple-Negative Breast Cancer
+Achondroplasia
+Melanoma Stage III; Melanoma Stage IV
+Papulopustular Rosacea
+Squamous Cell Carcinoma
+Fragile X Syndrome
+Marfan Syndrome
+Hemophagocytic Lymphohistiocytosis
+Type2diabetes
+Non-Small Cell Lung Cancer with Gene Mutations
+Rare Tumor; Refractory Tumor
+Non-Alcoholic Fatty Liver Disease
+Myelodysplastic Syndrome; Acute Myeloid Leukemia
+Arterial Hypertension
+Chronic Fatigue Syndrome
+Thymic Malignancies
+Metastatic Renal Cell Carcinoma (mRCC)
+Type 2 Diabetes Mellitus with Complication
+Urinary Stress Incontinence
+Bacterial Infections
+Diabetes Mellitus, Type 2 with Hypertension
+Preterm Birth
+Thyroid Eye Disease
+Cutaneous Leishmaniasis
+Recurrent Fallopian Tube Carcinoma; Recurrent Ovarian Carcinoma; Recurrent Primary Peritoneal Carcinoma
+Early-stage Breast Cancer
+Type II Diabetes
+Urinary Tract Infection
+Gingival Overgrowth
+T2DM
+IVF
+Biological Availability
+Irreversible Pulpitis
+Coronary Disease
+Temporomandibular Joint Disorders
+Atrial Fibrillation; Arrhythmia
+Secondary Acute Myeloid Leukemia
+Temporomandibular Joint Dysfunction Syndrome
+HIV and Contraception
+Pediatric Lymphoblastic Leukemia
+Urothelial Cancer
+Thalassemia Major
+Chronic Myeloproliferative Disorders; Leukemia; Lymphoma; Multiple Myeloma and Plasma Cell Neoplasm; Myelodysplastic Syndromes; Myelodysplastic/Myeloproliferative Neoplasms
+Non-Small Cell Lung Cancer (NSCLC)
+Chronic Renal Failure
+Knee Arthropathy
+Thrombocytopenia
+Primary Dysmenorrhea
+Colon Cancer; Colorectal Cancer
+Diabetic Peripheral Neuropathy
+Head Lice
+Mixed Phenotype Acute Leukemia
+Bipolar I Disorder
+Colorectal Cancer (CRC)
+Retinal Detachment
+Unresectable Pancreatic Cancer
+H. Pylori Infection
+Advanced Solid Tumor; Pancreatic Adenocarcinoma; Malignant Melanoma (Cutaneous); Non-small Cell Lung Cancer (NSCLC)
+Myocardial Ischemia
+Chronic Rhinosinusitis (Diagnosis)
+Kidney Neoplasms
+COPD with Pulmonary Hypertension
+Ectopic Pregnancy
+Retinal Vascular Disorders
+Atrial Fibrillation and Stroke
+NSCLC; SBRT; GM-CSF
+Atrial Fibrillation; Stroke; Bleeding
+Rectal Adenocarcinoma
+Diabetes; Diabetes Mellitus, Type 1
+Lymphoma and Multiple Myeloma
+Trigeminal Neuralgia
+Adenocarcinoma of the Pancreas; Recurrent Pancreatic Cancer; Stage II Pancreatic Cancer; Stage III Pancreatic Cancer; Stage IV Pancreatic Cancer
+HNSCC
+Tumor
+Newly Diagnosed Peripheral T-cell Lymphoma
+Carcinoma, Non-Small-Cell Lung; Immune-Related Adverse Events
+Leukemia, Myeloid, Acute; Myelodysplastic Syndromes
+APL
+Ataxia-Telangiectasia
+Psychotic Disorders
+Graft Versus Host Disease with Hematologic Disorders
+Colon Adenocarcinoma
+ER-Positive HER2-Negative Breast Cancer
+Advanced or Metastatic Breast Cancer
+Leukemia, Acute; Leukemia, T Cell; Leukemia, Lymphoblastic
+Progressive Multiple Sclerosis
+Graft Vs Host Disease
+Tubular Breast Cancer Stage II; Mucinous Breast Cancer Stage II; Breast Cancer Female NOS; Invasive Ductal Breast Cancer; Tubular Breast Cancer Stage III; HER-2 Positive Breast Cancer; Inflammatory Breast Cancer Stage IV; Inflammatory Breast Cancer
+Hemorrhage
+Neurofibromatosis Type 1
+Cancer of the Rectum
+Morbid Obesity
+Multidrug-Resistant Tuberculosis
+Colonoscopy
+Myeloid Malignancies
+Gingival Diseases
+Angina
+Immunity
+Extranodal NK/T-cell Lymphoma
+Metastatic Castration-sensitive Prostate Cancer
+Spondyloarthritis
+T-Cell Lymphoma
+Bronchopulmonary Dysplasia
+Carpal Tunnel Syndrome (CTS)
+Breast and Ovarian Cancer
+Malaria; HIV Infections
+Postmenopausal Osteoporosis
+Primary Hepatocellular Carcinoma
+Lung Cancer Stage III with Mutation
+Stomach Cancer
+Skin and Connective Tissue Diseases
+Burns
+Osteoarthritis, Hip
+Panic Disorder
+Heart Transplantation
+Stroke Rehabilitation
+Oral Mucositis
+B-cell Acute Lymphoblastic Leukemia
+Meningioma
+Sensorineural Hearing Loss
+Overweight or Obesity
+Androgenic Alopecia
+Relapsing Forms of Multiple Sclerosis
+Social Anxiety Disorder
+Metastatic Sarcomas
+Phenylketonurias
+COVID-19; Hospitalized COVID-19 Patients
+Celiac Disease
+Phototoxicity
+Refractory Multiple Myeloma; Stage I Multiple Myeloma; Stage II Multiple Myeloma; Stage III Multiple Myeloma
+Acute Myeloid Leukemia; Myelodysplastic Syndromes; Chronic Myelomonocytic Leukemia
+Alveolar Bone Loss
+Pancreatic Ductal Carcinoma; Advanced Cancer; Epithelial Tumor
+Hepatoblastoma
+Long COVID
+Menorrhagia
+Multiple Cancers (Pancreatic, Lung, Esophagogastric, Colorectal, Breast)
+Heart Disease
+Cardiovascular Risk Factor
+Pediatric Malignancies
+Decompensated Cirrhosis
+Dermatology and Oncology
+Locally Advanced Pancreatic Cancer
+Metabolic Disorders
+Gastrointestinal Cancers
+Childhood Acute Lymphoblastic Leukemia/Lymphoma
+Malaria, Falciparum
+High Risk Acute Myeloid Leukemia; Allogeneic Hematopoeitic Stem Cell Transplantation
+Non-small-cell Lung Carcinoma
+Postmenopause
+Erectile Dysfunction Following Radical Prostatectomy
+Relapsed Ovarian Cancer, BRCA Mutation, Platinum Sensitivity
+Lactation and Breastfeeding with Drug Exposure
+AML, Childhood; Relapse/Recurrence; Refractory AML; Core Binding Factor Acute Myeloid Leukemia; C-KIT Mutation
+Cardiac Surgery
+Renal Insufficiency
+Anxiety Disorder
+Pediatric Cancer
+COVID-19 and Multiple Comorbidities
+Clear Cell Renal Cell Carcinoma
+Chronic Myelomonocytic Leukemia
+Recurrent Non-Small Cell Lung Carcinoma; Stage IV Non-Small Cell Lung Cancer
+Nonalcoholic Steatohepatitis
+Diabetic Neuropathy, Painful
+Renal Transplant
+Solid Tumor Precision Medicine
+Mantle Cell Lymphoma (MCL)
+B Acute Lymphoblastic Leukemia, Philadelphia Chromosome Negative; Lymphoblastic Lymphoma
+Soft Tissue Atrophy
+Recurrent Plasma Cell Myeloma
+Dexmedetomidine
+Lung Cancer; Unspecified Adult Solid Tumor, Protocol Specific
+Acute Pancreatitis
+Esophageal Carcinoma
+Multiple Myeloma, Relapsed/Refractory
+Metastatic Gastro-esophageal Adenocarcinoma
+Open Angle Glaucoma
+Metastatic ER-positive/HER2-negative Breast Cancer
+Falciparum Malaria
+Cardiogenic Shock
+Pediatric Acute Lymphoblastic Leukemia
+Liver Disease
+Philadelphia Chromosome Negative B Acute Lymphoblastic Leukemia
+Obesity and Overweight
+Hematologic and Solid Malignancies
+Hematologic Neoplasms
+Rare Tumor
+Mantle Cell Lymphoma; Lymphoma
+Relapsed Multiple Myeloma
+Advanced Biliary Tract Cancer
+Malignant Neoplasm of Breast
+Mantle Cell Lymphoma Refractory
+Malnutrition
+Malignant Melanoma Stage III
+Melanoma with Brain Metastases
+Hormone Refractory Prostate Cancer
+Hematological Malignancy
+Relapsed Acute Myeloid Leukemia
+Multiple Myeloma in Relapse
+Mother to Child HIV Transmission
+Atrial Fibrillation with Heart Failure
+Cancer of Prostate
+Molar Incisor Hypomineralization
+Recurrent Ovarian Cancer
+Biliary Tract Carcinoma
+Advanced Cancer; Metastatic Cervical Cancer
+Recurrent Adult Hodgkin Lymphoma
+Recurrent Castration-Sensitive Prostate Carcinoma; Stage IVB Prostate Cancer AJCC v8; Recurrent Prostate Cancer; Castration-resistant Prostate Cancer
+Recurrent Childhood Acute Lymphoblastic Leukemia
+Cancer of Unknown Primary Site
+Biliary Tract Neoplasms
+Leiomyosarcoma
+Metabolic Syndrome X
+Autistic Disorder
+Recurrent Lung Non-Small Cell Carcinoma; Stage IV Lung Cancer AJCC v8; Stage IVA Lung Cancer AJCC v8; Stage IVB Lung Cancer AJCC v8
+Metastatic Non-Small Cell Lung Cancer
+Recurrent Mantle Cell Lymphoma; Refractory Mantle Cell Lymphoma
+Recurrent Non-small Cell Lung Cancer
+Muscular Dystrophy
+Advanced Gastroesophageal Adenocarcinoma
+Metastatic Pancreatic Cancer; Pancreatic Cancer
+Drug-drug Interaction
+Leukaemia,Lymphoblastic
+Reflux Esophagitis
+Refractory Acute Lymphoblastic Leukemia; Relapsed Acute Lymphoblastic Leukemia
+BRAF V600E-mutant Metastatic Colorectal Cancer
+HR+/HER2- Locally Advanced, Metastatic Breast Cancer
+Hemodialysis
+Metastatic Breast Cancer; Advanced Breast Cancer; Quality of Life; Toxicity; Older Patients
+Advanced Malignancies
+Metastatic Breast Cancer; ER+ Breast Cancer; Advanced Breast Cancer
+Advanced Breast Cancer; Metastatic Breast Cancer
+Drug Interactions Between Clopidogrel and Serotonin Reuptake Inhibitors
+Migraine Headache
+Metastatic Cancer; Prostate Cancer
+Advanced Esophageal Carcinoma
+Recurrent or Refractory Acute Leukemia
+Recurrent Acute Myeloid Leukemia; Recurrent Chronic Myelomonocytic Leukemia; Recurrent Myelodysplastic Syndrome; Refractory Acute Myeloid Leukemia; Refractory Chronic Myelomonocytic Leukemia; Refractory Mixed Phenotype Acute Leukemia; Refractory Myelodysplastic Syndrome; Refractory Acute Leukemia of Ambiguous Lineage; Refractory Acute Undifferentiated Leukemia
+Metastatic Urothelial Cancer
+B-cell Lymphoma
+Metastatic Colorectal Cancer; MSI
+Macular Edema
+Anaemia
+Multiple Myeloma in Relapse; Multiple Myeloma, Refractory
+Gastrectomy
+Dental Conditions
+Hereditary Haemorrhagic Telangiectasia
+Lung Cancer, Nonsmall Cell
+Pneumothorax
+Ovarian Cancer; Epithelial Ovarian Cancer; Fallopian Tube Cancer; Primary Peritoneal Cancer; Platinum-resistant Ovarian Cancer
+Lung Cancer with Hypermethylation
+Ovary Cancer
+Estrogen Receptor-Positive, HER2-Negative Advanced Breast Cancer
+Plasmodium Falciparum Malaria
+Overweight; Obesity
+PAH
+Anterior Cruciate Ligament Injury
+Lung Cancer; Non-Small Cell Lung Cancer
+Fungal Infections
+Post-Traumatic Headache
+Postoperative Nausea
+Burning Mouth Syndrome
+Post-traumatic Stress Disorder
+Lung Non-Small Cell Carcinoma; Lung Non-Small Cell Squamous Carcinoma; Lung Non-Squamous Non-Small Cell Carcinoma; Stage II Lung Cancer AJCC v8; Stage IIIA Lung Cancer AJCC v8; Stage IIIB Lung Cancer AJCC v8
+Antifungal Agents
+Opioid Use
+Ocular Hypertension
+Liver Fibrosis
+Open Angle Glaucoma; Ocular Hypertension
+Open-angle Glaucoma; Ocular Hypertension
+Lumbar Spinal Stenosis
+Plantar Fascitis
+Atrial Arrhythmias
+Fabry Disease
+Fibrodysplasia Ossificans Progressiva
+Fetal Growth Retardation
+Anaplastic Thyroid Cancer
+Peripheral Arterial Occlusive Disease
+Locally Advanced or Metastatic Non-Small Cell Lung Cancer
+Castration Levels of Testosterone; Metastatic Prostatic Adenocarcinoma; Stage IV Prostate Cancer AJCC v8; Stage IVA Prostate Cancer AJCC v8; Stage IVB Prostate Cancer AJCC v8
+Fibrosis
+Locally Advanced or Metastatic Breast Cancer
+Peri-implantitis
+Pediatric Crohn's Disease
+Fatigue
+Pediatric Oncology
+Bone Loss
+High-risk Locally Advanced Colorectal Cancer
+Plantar Fasciitis
+Follicular Lymphoma (FL)
+PTSD
+Blood Pressure
+Locally Advanced (Inoperable) or Metastatic Breast Cancer
+Pheochromocytoma
+Locally Advanced Head and Neck Squamous Cell Carcinoma
+First Line Non-Small Cell Lung Cancer
+Anatomic Stage IV Breast Cancer AJCC v8; Metastatic Breast Carcinoma; Prognostic Stage IV Breast Cancer AJCC v8
+Pancreatic Cancer; Metastasis; Surgery; Oligometastatic Disease
+Extensive Stage Small Cell Lung Cancer
+Persistent Pulmonary Hypertension of the Newborn
+Eye Disorders
+Amblyopia
+Normal Tension Glaucoma
+Agitation in Patients With Dementia of the Alzheimer's Type
+Hodgkin's Disease
+Prostate Cancer Patients
+HER2 Positive Breast Cancer
+HCC
+Prostate Cancer; Oligometastasis; Oligorecurrence; Recurrent Prostate Cancer; Metastatic Prostate Cancer; De Novo Prostate Cancer
+Leukemia; Acute Myeloid Leukemia; AML
+Efficacy
+Neoplasm Malignant
+HER2+ Breast Cancer
+Advanced Solid Tumors; Metastatic Melanoma
+Growth Hormone Deficiency
+Neuroblastoma Recurrent
+Prostate Adenocarcinoma; Recurrent Prostate Carcinoma
+Neurofibromatosis 1
+Edentulous Alveolar Ridge
+HER2-negative
+Generalized Myasthenia Gravis
+Leukemia, Myeloid
+Pulmonary Tuberculosis
+HIV/AIDS; HIV Infections
+COVID-19 Patients
+Advanced Metastatic Breast Cancer
+HIV Prevention
+HER2-positive Breast Cancer with Brain Metastases
+Chemotherapy-Induced Nausea and Vomiting
+HIV and Hepatitis C Coinfection
+Hemorrhoids
+Lymphoma and Small Intestine Cancer
+HER2-positive Metastatic Breast Cancer
+Cervical Radiculopathy
+Advanced Unresectable or Metastatic Solid Malignancy
+Fanconi Anemia
+Non-small Cell Lung Carcinoma
+Lymphocytic Leukemia, Chronic
+Pregnancy Related
+Glioblastoma Multiforme; Gliosarcoma
+Prediabetes
+Non-metastatic Castration-resistant Prostate Cancer
+Non-squamous Non-small Cell Lung Cancer
+End-stage Renal Disease
+Pre-Eclampsia
+Burn
+Prader-Willi Syndrome
+Postpartum Depression
+Gestational Diabetes
+Cardiac Disease
+Leukemia and Myelodysplastic Syndrome
+Age-Related Macular Degeneration
+Glycogen Storage Disease Type III
+Endometrial Hyperplasia
+Adverse Drug Reaction
+Non-Alcoholic Steatohepatitis
+Adverse Drug Events
+Carcinoma, Non-small Cell Lung
+Drug Dependence
+Graft Rejection
+Myeloid Neoplasms
+Primary Hyperparathyroidism
+Primary Immune Thrombocytopenia
+Hormone Receptor Positive Advanced Breast Cancer
+Advanced or Metastatic Solid Tumors; Advanced or Metastatic Colorectal Cancer (mCRC)
+Advanced Thyroid Cancer with Target Therapy
+Malocclusion
+Cognitive Change
+Stage IV Colorectal Cancer
+Cognition
+Acute Myeloid Leukemia; Myelodysplastic Syndrome; Recurrent Acute Myeloid Leukemia; Recurrent Myelodysplastic Syndrome; Refractory Acute Myeloid Leukemia; Refractory Myelodysplastic Syndrome
+ST-segment Elevation Myocardial Infarction
+Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+Acute Myeloid Leukemia; Relapse/Recurrence
+Depression; Depressive Disorder
+Uveitis with Macular Edema
+ST Elevation Myocardial Infarction
+Interstitial Cystitis
+Adenocarcinoma of the Prostate; Recurrent Prostate Cancer; Stage IV Prostate Cancer
+Cystinuria
+Adolescent Idiopathic Scoliosis (AIS)
+Hyperuricemia
+Diabetes Mellitus, Type II
+Acute Myeloid Leukemia; Myelodysplastic Syndrome; Myelodysplastic Syndrome/Acute Myeloid Leukemia
+Breast Neoplasms; Breast Cancer
+Acquired Immunodeficiency Syndrome
+Inflammatory Bowel Disease
+Constipation
+Weight Gain
+Collagenous Colitis
+Sinonasal Disease
+Invasive Breast Cancer
+Salivary Gland Cancer
+T-cell Lymphoma
+Infections
+Breast Neoplasms; Breast Cancer; Breast Tumors; Angiosarcoma; TNBC - Triple-Negative Breast Cancer; HER2-positive Breast Cancer; HER2-negative Breast Cancer; Hormone Receptor Positive Tumor; Hormone Receptor Negative Tumor; Early-stage Breast Cancer; Locally Advanced Breast Cancer
+Acute Decompensated Heart Failure
+Acute Myeloid Leukemia (AML); Myelodysplastic Syndrome (MDS)
+Restless Legs Syndrome
+Visceral Leishmaniasis
+Idiopathic Membranous Nephropathy
+Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities; Adult Acute Myeloid Leukemia With Del(5q); Adult Acute Myeloid Leukemia With Inv(16)(p13;q22); Adult Acute Myeloid Leukemia With t(15;17)(q22;q12); Adult Acute Myeloid Leukemia With t(16;16)(p13;q22); Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); Recurrent Adult Acute Myeloid Leukemia
+Chronic Lymphocytic Leucemia
+Insulin Sensitivity
+Sexually Transmitted Diseases
+Vitiligo
+Hypothermia
+Urinary Tract Infections
+Chronic Renal Insufficiency
+Type 2 Diabetes with Diabetic Nephropathy
+Acute Myeloid Leukemia; Acute Lymphoid Leukemia
+Cigarette Smoking
+Acute Gout
+Sickle Cell Anemia
+Early Stage Breast Cancer
+Colorectal Cancer; Liver Metastasis
+Rett Syndrome
+Colorectal Cancer with Liver Metastases
+Uterine Fibroids
+AML; Relapsed Acute Myeloid Leukemia; Refractory Acute Myeloid Leukemia
+Transcatheter Aortic Valve Replacement
+Breast Cancer; Breast Neoplasms
+Sedentary Lifestyle
+Rib Fractures
+In-stent Restenosis
+HIV (Human Immunodeficiency Virus)
+Clinical Efficacy and Safety
+Depressive Symptoms
+Syphilis
+Hypotension
+Kidney Disease
+Vasculogenic Erectile Dysfunction
+Hyperemesis Gravidarum
+Diabetic Foot
+Acute Lymphoblastic Leukemia; B Acute Lymphoblastic Leukemia, Philadelphia Chromosome Negative
+Chronic Rhinosinusitis
+Cough
+Streptococcal Infections
+Colorectal Cancer Stage IV
+Critical Limb Ischemia
+Chronic Disease
+Breast Cancer; Metastatic Cancer
+Subarachnoid Hemorrhage
+Chronic Myeloid Leukemia (CML)
+Colorectal Cancer Metastatic; mCRC
+Intraocular Pressure
+Suicide
+Inguinal Hernia
+Covid19; SARS-CoV Infection
+Acute Lymphoid Leukemia
+Sarcoma,Soft Tissue
+Trigger Finger
+Cognitive Dysfunction
+Diabetic Peripheral Neuropathic Pain
+Hypercholesterolemia; Dyslipidemia
+Depression and Anxiety
+Adult Burkitt Lymphoma; B-Cell Lymphoma, Unclassifiable, With Features Intermediate Between Diffuse Large B-Cell Lymphoma and Burkitt Lymphoma; Diffuse Large B-Cell Lymphoma; MYC Gene Mutation; Plasmablastic Lymphoma
+Tinea Pedis
+Solid Tumors and Gastrointestinal Cancer
+Relapsing-Remitting Multiple Sclerosis; Multiple Sclerosis
+Copd
+Acute Lymphoblastic Leukemia; Precursor B-Cell Lymphoblastic Leukemia; Precursor T-Cell Lymphoblastic Leukemia
+Intubation Complication
+Sarcoma, Soft Tissue
+Solid Tumor; Colorectal Cancer
+Triple Negative Breast Cancer (TNBC)
+Intracranial Aneurysm
+Skin Cancer
+Chronic Venous Insufficiency
+Systemic Lupus Erythematosus (SLE)
+Treatment-resistant Depression
+Wound Healing
+Soft Tissue Sarcoma Adult
+Advanced and Metastatic Solid Tumors
+Hypertrophic Cardiomyopathy
+Platinum-resistant Ovarian Cancer
+Acinar Cell Adenocarcinoma of the Pancreas; Duct Cell Adenocarcinoma of the Pancreas; Recurrent Pancreatic Cancer; Stage II Pancreatic Cancer; Stage III Pancreatic Cancer
+Myelodysplastic Syndromes and Acute Myeloid Leukemia
+Myelodysplastic Syndrome; Leukemia
+Refractory/Relapsed Acute Myeloid Leukemia
+Liver Transplantation; Hepatocellular Carcinoma; Tumor Recurrence and Metastasis; Survival; Adjuvant Chemotherapy
+Infectious Disease
+Anti-cancer Drug Concentrations
+Plasma Cell Myeloma Recurrent
+Acute Myeloid Leukemia with Measurable Disease
+Acute Myeloid Leukemia; Myelodysplastic Syndrome; Chronic Myelomonocytic Leukemia
+Infective Endocarditis
+Neuroendocrine Carcinoma
+Metastatic Gastric Cancer
+Alzheimer Disease and Dementia
+NK-T-Cell Lymphoma, Extranodal
+Myelodysplastic Syndromes; Chronic Myelomonocytic Leukemia; Acute Myeloid Leukemia
+Colorectal; Cancer
+Depression with Acute Kidney Injury
+Solid Cancer
+Community-acquired Pneumonia
+Hepatic Carcinoma
+Solid Cancers
+Depression, Unipolar
+Intestinal Neoplasms
+Breast Cancer; Malignant Neoplasm of Breast
+Philadelphia Positive Leukemia
+Myelodysplastic Syndrome and AML
+Tuberous Sclerosis Complex
+Alopecia
+Central Centrifugal Cicatricial Alopecia (CCCA)
+Hemophilia B
+Chronic Kidney Disease With High Proteinuria
+Chronic Kidney Disease and Hypertension
+Small-cell Lung Cancer; Small Cell Lung Carcinoma
+Chronic Hip Pain
+Candidiasis
+Depression; Inflammation
+HIV Infections with Contraception Considerations
+Photoaging
+Triple-negative Breast Cancer; TNBC - Triple-Negative Breast Cancer
+Sleep Initiation and Maintenance Disorders
+Muscle Weakness
+Type 2 Diabetes Mellitus and Cardiovascular Disease
+HR Positive HER2 Negative Advanced Breast Cancer
+Ulcerative Colitis Acute
+Leukemia; Myelodysplastic Syndromes; Myelodysplastic/Myeloproliferative Diseases
+Seasonal Allergic Rhinitis
+Atrial Fibrillation; Left Atrial Appendage Thrombosis
+Secondary Hyperparathyroidism; Chronic Kidney Disease
+Cancer; Diabetes Mellitus, Type 2; Interleukin 6; SGLT2 Inhibitors
+Secondary Progressive Multiple Sclerosis
+Bioequivalency
+Pre-diabetes
+Type 2 Diabetes with Complications
+Type 2 Diabetes with ASCVD
+Posttraumatic Stress Disorder with Comorbidities
+Multiple Myeloma in Relapse; Refractory Multiple Myeloma
+Keratoconus
+Chronic Graft-versus-host Disease
+HR+/HER2- Advanced Breast Cancer; Targeted Therapy
+Sciatica
+Unrecognized Condition
+Primary CNS Lymphoma
+Leukemia; Lymphoma; Myelodysplastic Syndrome
+Atrophic Acne Scar
+Primary Biliary Cholangitis
+Endometrial Carcinoma
+Endometrial Neoplasms
+Breastfeeding
+Premature Ovarian Failure
+Mitral Regurgitation
+Atrial Fibrillation; Venous Thromboembolism; Heart Valve Diseases or Prosthesis
+Endometriosis-related Pain
+Schizophrenia Spectrum Disorders
+Uncomplicated Malaria
+Moderate to Severe Plaque Psoriasis
+HR+/HER2- Advanced/Metastatic Breast Cancer
+Moderate-to-Severe Atopic Dermatitis
+Type 2 Diabetes with Cardiovascular Complications
+Colorectal and Gastroesophageal Cancers
+Keratoconjunctivitis Sicca
+Papillomavirus Infections
+Rotator Cuff Tendinopathy
+Type 2 Diabetes; Diabetic Kidney Disease
+Desmoid Tumor
+Polymyalgia Rheumatica
+Esophageal Squamous Cell Carcinoma; Oligometastatic Disease; Radiotherapy
+Sinusitis
+Breast Cancer; Breast Cancer Stage IV; Metastatic Breast Cancer
+Polycystic Ovary Syndrome (PCOS)
+Esophagogastric Adenocarcinoma
+Polycystic Ovarian Syndrome
+Dermatitis Atopic
+Atopic Dermatitis (AD)
+Chronic Plantar Fasciitis
+Post Operative Pain Control
+Kaposi Sarcoma
+HIV with Hypertriglyceridemia
+Kawasaki Disease
+Severe Acute Malnutrition
+Type1diabetes
+Type1 Diabetes
+Severe Alcoholic Hepatitis
+Postoperative Complications
+Bowen's Disease
+Erdheim-Chester Disease
+Severe Bleeding in Urgent Surgery
+HIV/AIDS and Infections
+Muscle Invasive Bladder Cancer; High Risk Urothelial Carcinoma of the Upper Urinary Tracts
+Hyperlipidemias
+Colorectal Cancer; Metastatic Colorectal Cancer With RAS Mutation
+Acute Promyelocytic Leukemia; Relapse
+HIV-2 Infection
+Erosive Esophagitis
+Erythema Chronicum Migrans
+Erythema Migrans
+Community-acquired Respiratory Infections
+Locally Advanced Papillary Renal Cell Carcinoma; Metastatic Papillary Renal Cell Carcinoma; Stage III Renal Cell Cancer AJCC v7; Stage IV Renal Cell Cancer AJCC v7; Type 1 Papillary Renal Cell Carcinoma; Type 2 Papillary Renal Cell Carcinoma; Unresectable Renal Cell Carcinoma
+Juvenile Dermatomyositis
+Aneurysmal Subarachnoid Hemorrhage
+Cardiovascular Events; Type2 Diabetes; Renal Disease
+Acute Myelogenous Leukemia; Myelodysplastic Syndrome; Juvenile Myelomonocytic Leukemia
+Stage IV Pancreatic Cancer
+Non-alcoholic Steatohepatitis
+Ovarian and Related Carcinomas
+Hematologic Malignancies and Disorders
+GVHD
+Breast Cancer; Gynecologic Cancer; HNSCC; Solid Tumors, Adult
+Ovarian and Peritoneal Cancer
+Cutaneous T-Cell Lymphoma
+Gallbladder Neoplasms
+Ovarian Cancer; Fallopian Tube Cancer; Peritoneal Neoplasms
+Acute Myelogenous Leukemia; Acute Lymphocytic Leukemia; Chronic Myelogenous Leukemia; Plasma Cell Leukemia; Myelodysplastic Syndromes; Chronic Lymphocytic Leukemia; Small Lymphocytic Lymphoma; B-Cell Lymphoma; Follicular Lymphoma; Lymphoplasmacytic Lymphoma; Mantle-Cell Lymphoma; Prolymphocytic Leukemia; Lymphoblastic Lymphoma; Burkitt's Lymphoma; Non-Hodgkin's Lymphoma; Multiple Myeloma; Myeloproliferative Syndromes; Hematological Diseases
+Advanced Solid Tumors and Hematologic Malignancies
+TNBC - Triple-Negative Breast Cancer
+Otomycosis
+Ganglioneuroblastoma; Neuroblastoma
+Cardiac Allograft Vasculopathy
+Acute Myelogenous Leukemia; Myelodysplastic Syndrome; Leukemia
+Thalassemia
+Acute Myelogenous Leukemia; Myelogenous Leukemia; Treatment Naive AML
+Lymphoblastic Leukemia, Acute
+Acute Heart Failure
+Non-Muscle Invasive Bladder Cancer
+Non-Resectable Pancreas Carcinoma
+Lower Urinary Tract Symptoms
+PIK3CA-Mutated Breast Cancer
+Hepatitis C Virus
+Malignant Glioma
+Childhood Lymphoblastic Lymphoma
+Non-Small Cell Lung Cancer; Carcinoma, Squamous Cell; Adenocarcinoma
+Acute Myeloid Leukaemia; Myelodysplastic Syndrome
+Stage IV Gastric Cancer With Metastasis
+Lumbosacral Radiculopathy
+Oxidative Stress
+Stage IV Lung Cancer
+Gastric Acid Studies
+T-cell Non-Hodgkin Lymphoma
+Extensive-stage Small-cell Lung Cancer
+Opioid Use Disorder
+Oral Cancer
+Cough Variant Asthma
+COPD (Chronic Obstructive Pulmonary Disease)
+Acute Low Back Pain
+Inflammatory Bowel Disease (IBD)
+Symptomatic Irreversible Pulpitis
+Blau Syndrome
+Gastrointestinal Stromal Tumor (GIST)
+Gastric and Gastroesophageal Junction Adenocarcinoma
+Antiphospholipid Syndrome
+Gastro-oesophageal Reflux Disease
+Hepatopulmonary Syndrome
+Peptic Ulcer Disease
+Obesity and Metabolic Syndrome
+Cardiac Transplantation
+Acute Lymphoblastic Leukemia and Lymphoblastic Lymphoma
+Obstructive Sleep Apnea of Adult
+Acute Lymphoblastic Leukemia; Childhood Leukemia, Acute Lymphoblastic; T Cell Acute Lymphoblastic Leukemia/Lymphoblastic Lymphoma
+Anterior Cruciate Ligament Injuries
+Metastatic Lung Cancer
+Oral Squamous Cell Carcinoma
+Pregnancy-related Weight Issues
+Osteogenesis Imperfecta
+Acute Leukemia of Ambiguous Lineage
+Acute Mountain Sickness
+Stomach Ulcer
+Stress
+Germ Cell Tumor
+T Lymphoblastic Lymphoma
+Normal Healthy Volunteers
+T Acute Lymphoblastic Leukemia; T Lymphoblastic Lymphoma
+Cancer-related Coagulopathy
+Lung Carcinoma
+Orbital Pseudotumor
+Oral Submucous Fibrosis
+Small Cell Carcinoma
+Acute Myeloid Leukemia (Relapsed/Refractory)
+Frozen Shoulder
+Gastrointestinal Neoplasm
+HER-2 Positive Breast Cancer
+Solid Tumor; Non-Small Cell Lung Cancer; Head and Neck Cancer; Melanoma; Gastric Cancer; Renal Cell Carcinoma; Urothelial Carcinoma
+Neoadjuvant Therapy; High Risk Prostate Cancer; Locally Advanced Prostate Cancer; Intense Endocrine Therapy
+Peri-implant Mucositis
+Peri-Implantitis
+Congenital Adrenal Hyperplasia
+Peptic Ulcers
+Locally Advanced Rectal Cancer
+Gynecologic Cancer
+Pelvic Pain
+Pelvic Inflammatory Disease
+Knee Replacement
+Neoplasms; Breast Neoplasms
+Toxoplasmosis, Cerebral; HIV Infections
+Fasting
+Hypothyroidism
+Unresectable Hepatocellular Carcinoma
+Periodontal Disease
+Necrotizing Enterocolitis
+Peritoneal Carcinosis
+HER2-negative Breast Cancer
+Solid Tumor Malignancies
+Peritoneal Carcinomatosis
+Nail Psoriasis
+HER2-expressing Gastrointestinal Cancers
+Treatment
+Dentin Sensitivity
+Active Rheumatoid Arthritis
+Peripheral Diabetic Neuropathy
+Dentin Hypersensitivity
+Nasopharyngeal Neoplasms
+Dental Plaque and Gingivitis
+Castration-resistant Prostate Cancer; Oligoprogressive
+Locally Advanced Pancreatic Adenocarcinoma; Chemotherapy Effect; Borderline Resectable Pancreatic Adenocarcinoma; Pancreatectomy
+Carcinoma Breast Stage IV
+Neovascular Age-Related Macular Degeneration
+High Risk Prostate Cancer
+Fatty Liver Disease
+Pancreatic Ductal Adenocarcinoma; Resectable Pancreatic Ductal Adenocarcinoma; Borderline Resectable Pancreatic Ductal Adenocarcinoma; Locally Advanced Pancreatic Ductal Adenocarcinoma
+Pancreatic Cancer; Unresectable Pancreatic Cancer; Metastatic Pancreatic Cancer; KRAS P.G12C
+Carcinoma, Non-Small-Cell Lung; Synchronous Neoplasms
+Breast Cancer with Heart Failure
+Non Hodgkin's Lymphoma
+Focal Epilepsy
+Breast Inflammatory Carcinoma; Locally Advanced Breast Carcinoma; Metastatic Breast Carcinoma; Stage III Breast Cancer AJCC v7; Stage IIIA Breast Cancer AJCC v7; Stage IIIB Breast Cancer AJCC v7; Stage IIIC Breast Cancer AJCC v7; Stage IV Breast Cancer AJCC v6 and v7
+Androgen Deprivation Therapy in Prostate Cancer
+Deep Vein Thrombosis
+Stable Angina
+Decompensated Liver Cirrhosis
+Stage I Prostate Adenocarcinoma AJCC v7; Stage II Prostate Adenocarcinoma AJCC v7; Stage III Prostate Adenocarcinoma AJCC v7
+Heterotopic Ossification
+Hematologic Disorders
+Non Small-cell Lung Cancer
+Glomerulonephritis
+Membranous Glomerulonephritis
+Locally Recurrent Rectal Cancer
+Spontaneous Bacterial Peritonitis
+Nephrolithiasis
+Tonsillectomy
+Graves Ophthalmopathy
+Solid Tumour
+Nephrotic Syndrome
+Tourette Syndrome
+Sore Throat
+Bone Density
+Parosmia
+Locally Advanced or Metastatic NSCLC
+Arthritis Rheumatoid
+Delirium on Emergence
+Total Hip Arthroplasty
+Parasitic Diseases
+Graft-Versus-Host Disease
+Delayed Graft Function
+Neuromuscular Diseases
+Hypertension with COVID
+Anatomic Stage II Breast Cancer AJCC v8; Anatomic Stage IIA Breast Cancer AJCC v8; Anatomic Stage IIB Breast Cancer AJCC v8; Anatomic Stage III Breast Cancer AJCC v8; Anatomic Stage IIIA Breast Cancer AJCC v8; Anatomic Stage IIIB Breast Cancer AJCC v8; Anatomic Stage IIIC Breast Cancer AJCC v8; Anatomic Stage IV Breast Cancer AJCC v8; Invasive Breast Carcinoma; Locally Advanced HER2-Positive Breast Carcinoma; Metastatic HER2-Positive Breast Carcinoma; Prognostic Stage IB Breast Cancer AJCC v8; Prognostic Stage II Breast Cancer AJCC v8; Prognostic Stage IIA Breast Cancer AJCC v8; Prognostic Stage IIB Breast Cancer AJCC v8; Prognostic Stage III Breast Cancer AJCC v8; Prognostic Stage IIIA Breast Cancer AJCC v8; Prognostic Stage IIIB Breast Cancer AJCC v8; Prognostic Stage IIIC Breast Cancer AJCC v8; Prognostic Stage IV Breast Cancer AJCC v8
+Lymphoma, Lymphoblastic
+Muscle Injury
+Attention Deficit Hyperactivity Disorder (ADHD)
+Hematopoietic and Lymphatic System Neoplasm
+Brain and Central Nervous System Conditions
+Metastatic Castration Sensitive Prostate Cancer
+Bruxism
+Advanced Malignant Solid Neoplasm; Clinical Stage III Cutaneous Melanoma AJCC V8; Clinical Stage IV Cutaneous Melanoma AJCC V8; Fallopian Tube Carcinoma; Metastatic Lung Non-Small Cell Carcinoma; Metastatic Malignant Solid Neoplasm; Metastatic Melanoma; Metastatic Renal Cell Carcinoma; Ovarian Carcinoma; Pathologic Stage III Cutaneous Melanoma AJCC V8; Pathologic Stage IIIA Cutaneous Melanoma AJCC V8; Pathologic Stage IIIB Cutaneous Melanoma AJCC V8; Pathologic Stage IIIC Cutaneous Melanoma AJCC V8; Pathologic Stage IIID Cutaneous Melanoma AJCC V8; Pathologic Stage IV Cutaneous Melanoma AJCC V8; Primary Peritoneal Carcinoma; Stage III Lung Cancer AJCC V8; Stage III Renal Cell Cancer AJCC V8; Stage IIIA Lung Cancer AJCC V8; Stage IIIB Lung Cancer AJCC V8; Stage IIIC Lung Cancer AJCC V8; Stage IV Lung Cancer AJCC V8; Stage IV Renal Cell Cancer AJCC V8; Stage IVA Lung Cancer AJCC V8; Stage IVB Lung Cancer AJCC V8; Triple-Negative Breast Carcinoma; Unresectable Lung Non-Small Cell Carcinoma; Unresectable Melanoma; Unresectable Renal Cell Carcinoma
+Adolescent Idiopathic Scoliosis
+Advanced Malignant Neoplasms with Genetic Mutations
+Metastatic Non-small Cell Lung Cancer
+Breast Cancer Stage II-III
+Diabetic Nephropathy Type 2
+EGFR Positive Non-small Cell Lung Cancer
+Malaria in Pregnancy
+Childhood Acute Lymphoblastic Leukemia
+EGFR-mutant Non-small Cell Lung Cancer
+Metastatic Biliary Cancer
+Chemotherapy; Diffuse Large B-Cell Lymphoma (DLBCL), Nos; Elderly
+Raynaud Phenomenon
+Advanced Malignant Neoplasm; Metastatic Malignant Neoplasm; Recurrent Malignant Neoplasm; Refractory Malignant Neoplasm
+Biliary and Colorectal Neoplasms
+Respiratory Syncytial Virus Infection
+Recurrent Adult Acute Myeloid Leukemia
+Respiratory Tract Infections
+Metastatic Breast Cancer; ER-positive Breast Cancer; Luminal B; Her2 Enriched; Basal Like
+Metastatic HER2-negative Breast Cancer
+Biliary Atresia
+Recurrent Breast Cancer
+Breast Cancer; Osteoporosis
+Retinal Disease
+Male Infertility
+Adrenocortical Carcinoma
+Advanced Malignant Mesothelioma; Epithelial Mesothelioma; Recurrent Malignant Mesothelioma; Sarcomatous Mesothelioma
+Diabetic Polyneuropathy
+Chest Pain
+Chordoma
+Perennial Allergic Rhinitis
+Rhinosinusitis
+Pruritus
+Hormone-Receptor Positive Breast Carcinoma
+Metastatic Malignant Neoplasm in the Brain; Metastatic Melanoma; Stage III Cutaneous Melanoma AJCC v7; Stage IIIA Cutaneous Melanoma AJCC v7; Stage IIIB Cutaneous Melanoma AJCC v7; Stage IIIC Cutaneous Melanoma AJCC v7; Stage IV Cutaneous Melanoma AJCC v6 and v7; Unresectable Melanoma
+Advanced Melanoma
+Leukemia, Myeloid, Chronic-Phase
+Brain Tumor
+SCLC
+Prosthesis Durability
+Bulimia Nervosa
+Autonomic Failure
+Diabetes Mellitus with Stroke
+Prostatic Neoplasm
+Ebola Virus Disease
+Childhood Acute Myeloid Leukemia
+Leukemia, Nonlymphocytic, Acute
+Metastatic Non-Small Cell Lung Cancer (NSCLC)
+Breast Cancer, Familial Male; Radiotherapy; Complications; Chemotherapeutic Toxicity; Immune Checkpoint Inhibitor; CDK4/6 Inhibitor; Trastuzumab; Pertuzumab; PARP Inhibitor
+SARS-CoV-2 Infection
+Pulmonary Aspiration of Gastric Contents
+AML, Adult; Chemotherapy Effect
+ER+ HER2- Advanced Breast Cancer
+Richter Syndrome
+Advanced Non-small Cell Lung Cancer
+Chronic Thromboembolic Pulmonary Hypertension; Idiopathic Pulmonary Arterial Hypertension
+Psoriatic Arthritis; Withdrawal; Reduction
+Leukemia, Myeloid, Acute; Acute Myeloid Leukemia
+Psoriatic Disease
+Leukemia, Myeloid, Acute; Leukemia, Lymphocytic, Acute
+Advanced Prostate Cancer
+Psoriasis of Scalp
+Adenoid Cystic Carcinoma
+Heart Diseases
+Leukaemia, Myelocytic, Acute
+Recurrent B-Cell Childhood Acute Lymphoblastic Leukemia; Recurrent Childhood B-Lymphoblastic Lymphoma
+Refractory Metastatic Colorectal Cancer
+Advanced Hormone Receptor Positive Breast Cancer
+Advanced Breast Cancer; Female Breast Cancer
+Becker Muscular Dystrophy
+Double Express Diffuse Large B-cell Lymphoma
+Human Immunodeficiency Virus Infections
+Refractory Chronic Cough
+Hot Flashes
+Wet Macular Degeneration
+Diffuse Large B-Cell Lymphoma; Diffuse Large B-Cell Lymphoma, Not Otherwise Specified; Double-Expressor Lymphoma; EBV-Positive Diffuse Large B-Cell Lymphoma, Not Otherwise Specified; High Grade B-Cell Lymphoma With MYC and BCL2 or BCL6 Rearrangements; High Grade B-Cell Lymphoma, Not Otherwise Specified; Neoplastic Cells With Double Expression of MYC and BCL2 Proteins Present; Transformed Indolent B-Cell Non-Hodgkin Lymphoma to Diffuse Large B-Cell Lymphoma
+Aggressive B-Cell Lymphomas
+ACL Injury
+Heavy Menstrual Bleeding; Uterine Fibroids
+Heartburn
+Vulvodynia
+Drug-drug Interaction and Autoimmune/Fibrotic Diseases
+Diffuse Large B-Cell Lymphoma; POOR PROGNOSIS
+Breast Cancer Invasive
+Advanced Cancers; Lymphoma
+Mature B-Cell Lymphoma
+Adult Patients With Newly Diagnosed or Relapsed or Refractory Primary Central Nervous System Lymphoma (PCNSL); Or Relapsed or Refractory Secondary Central Nervous System Lymphoma (SCNSL)
+Relapsed or Refractory Acute Myeloid Leukemia (AML)
+Lactation
+Classic Hodgkin Lymphoma
+Bronchiolitis Obliterans
+Bronchiolitis
+Relapsed Adult AML; Refractory AML
+Down Syndrome
+Relapsed Acute Myeloid Leukemia; Refractory Acute Myeloid Leukemia; Gene Abnormality; Cytogenetic Abnormality
+Wound Infection
+Drug Effect
+Relapsed/Refractory Peripheral T-cell Lymphoma
+Malignant Melanoma of Soft Parts
+Bariatric Surgery Candidate
+Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities; Adult Acute Myeloid Leukemia With Del(5q); Adult Acute Myeloid Leukemia With Inv(16)(p13;q22); Adult Acute Myeloid Leukemia With t(15;17)(q22;q12); Adult Acute Myeloid Leukemia With t(16;16)(p13;q22); Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); Recurrent Adult Acute Myeloid Leukemia; Secondary Acute Myeloid Leukemia
+Advanced Gastric Adenocarcinoma
+Ductal Adenocarcinoma of Pancreas; Adenocarcinoma of Ampulla
+Advanced Gastric and Gastro-esophageal Junction Cancer
+Resectable Pancreatic Cancer
+Dysfunctional Uterine Bleeding
+Recurrent Glioblastoma
+Malignant Disease
+Vernal Keratoconjunctivitis
+Pancreatic Carcinoma
+Metastatic Biliary Tract Cancer
+In Vitro Maturation of Oocytes
+Recurrent Colon Carcinoma; Recurrent Rectal Carcinoma; Stage IVA Colon Cancer; Stage IVA Rectal Cancer; Stage IVB Colon Cancer; Stage IVB Rectal Cancer
+Dietary Habits
+Recurrent Classic Hodgkin Lymphoma; Refractory Classic Hodgkin Lymphoma
+Recurrent Melanoma; Stage IIIA Melanoma; Stage IIIB Melanoma; Stage IIIC Melanoma; Stage IV Melanoma
+Cluster Headache
+Childhood Acute Promyelocytic Leukemia
+Clostridium Difficile Infection
+Bariatric Surgery
+Heart Failure with Volume Overload
+Drug-induced Surface ECG Changes
+Diffuse Large B Cell Lymphoma (DLBCL)
+Renal Colic
+Heart Failure with Pulmonary Hypertension
+Left Ventricular Dysfunction
+Renal Function
+Melanoma; Skin Cancer
+Bacterial Vaginosis
+Vomiting
+Prostate Carcinoma
+Lung Neoplasm Malignant
+Metastatic Triple Negative Breast Cancer
+Atypical Endometrial Hyperplasia
+Methicillin-resistant Staphylococcus Aureus
+Major Depressive Disorder with Insomnia
+Microbial Colonization
+Leukemia; Leukemia, Acute; Adult Lymphoblastic Lymphoma; Leukemia, Lymphoblastic; Leukemia, T Cell; Adult Acute Lymphoblastic Leukemia; Lymphoblastic Lymphoma; Lymphoblastic Leukemia
+Major Depressive Disorder; Magnetic Resonance Imaging; Electroconvulsive Therapy
+Hormone Receptor Positive HER-2 Negative Breast Cancer
+Endodontically Treated Teeth
+Prostate Cancer; Cancer of the Prostate
+Primary Membranous Nephropathy
+Primary Sclerosing Cholangitis
+Castration Resistant Prostate Cancer
+Microvascular Angina
+Acute Myeloid Leukemia, Refractory/Relapsed
+Prostate Cancer with Erectile Dysfunction
+Health Behavior
+Prognostic Cancer Model
+Hormone Receptor Positive Breast Cancer; Metastatic Breast Cancer; Hormone Receptor Negative Breast Cancer
+Chronic Stable Angina
+Sarcoidosis
+Chronic Sinusitis
+Metastatic Solid Tumor
+Small Intestinal Adenocarcinoma
+Non-small Cell Lung Cancer Stage IV
+Prostate Adenocarcinoma; Stage I Prostate Cancer; Stage IIA Prostate Cancer; Stage IIB Prostate Cancer; Stage III Prostate Cancer
+Emesis
+Progressive Metastatic Castrate-Resistant Prostate Cancer
+Chronic Spontaneous Urticaria
+Chronic Kidney Failure and Transplantation
+Metastatic Uveal Melanoma
+Very Low Birth Weight Infant
+Safety
+Advanced Solid Tumors; Metastatic Solid Tumors
+Progression Free Survival
+Hypercholesterolaemia
+Diabetes Mellitus and Heart Failure
+Colon Cancer Liver Metastasis
+Pulmonary Sarcoidosis
+STEMI with Left Ventricular Systolic Dysfunction
+Adenocarcinoma of the Prostate; Recurrent Prostate Cancer
+Stage IIA Colon Cancer
+Prostate Cancer; Prostate Adenocarcinoma
+AML; MDS
+Diabetic Complications
+Metastatic Colorectal Cancer with Chemotherapy Effects
+Adenocarcinoma of the Prostate; Hormone-resistant Prostate Cancer; Recurrent Prostate Cancer; Stage IV Prostate Cancer
+Interaction
+Bioequivalence Studies
+Vitrectomy
+Glioblastoma, Adult
+Metastatic Colon Cancer
+Therapeutic Equivalency
+Meniere's Disease
+Treatment Response Measures
+Implant
+Acute Hypoxemic Respiratory Failure
+Implant Placement
+Cancer Pain
+Ulcerative Colitis; Crohn's Disease
+Melanoma and Solid Tumors
+Chronic Myeloproliferative Disorders; Leukemia; Lymphoma; Multiple Myeloma and Plasma Cell Neoplasm; Myelodysplastic Syndromes; Precancerous Condition; Unspecified Adult Solid Tumor, Protocol Specific
+Glioblastoma; Recurrent Disease; Recurrent Glioblastoma
+Coronary Artery Disease with Diabetes Mellitus
+Heart Failure; Chronic Kidney Disease
+Morning Sickness
+Mental Health
+CVA (Cerebrovascular Accident); Stroke; Upper Extremity Paresis
+Non-Muscle Invasive Bladder Urothelial Carcinoma
+Carcinoma, Small Cell; Lung Cancer; Small Cell Lung Cancer
+Impotence; Erectile Dysfunction
+Prostate Cancer (Non-Metastatic)
+Lymphoma and Lymphoblastic Leukemia
+Chronic Myeloproliferative Disorders; Leukemia; Lymphoma; Multiple Myeloma and Plasma Cell Neoplasm; Myelodysplastic Syndromes; Myelodysplastic/Myeloproliferative Neoplasms; Unusual Cancers of Childhood
+Ulcerative Colitis; Inflammatory Bowel Diseases
+Impaired Glucose Tolerance
+Breast Neoplasm Malignant Female
+Respiratory Diseases
+Non-muscle Invasive Bladder Cancer
+Metastatic or Locally Advanced Malignancies
+Covid19; SARS (Severe Acute Respiratory Syndrome)
+Tenosynovitis
+Mania
+Obesity with Type 2 Diabetes
+Testicular Cancer
+Pharmacokinetics and Bioequivalence
+Testicular Germ Cell Neoplasm
+Mandibular Fractures
+CNS Embryonal Tumors
+Uncomplicated Falciparum Malaria
+Testicular Neoplasms
+Hypogonadism
+Hematoma
+Bladder Urothelial Carcinoma
+Head and Neck Neoplasms; Carcinoma, Squamous Cell
+Carcinoma; Non-Small-Cell Lung
+Colorectal Cancer; Cholangiocarcinoma
+Chronic Rhinosinusitis with Nasal Polyps
+Malignant Gliomas
+Acute HIV Infection
+HR+/HER2- Breast Cancer
+Insulin Resistance
+Breast Cancer; HER2-positive Breast Cancer; ER Positive Breast Cancer; PR-Positive Breast Cancer
+Gonorrhea
+Coronary Arterial Disease (CAD)
+Heart Failure, Congestive
+Diabetes Mellitus with Insulin Resistance
+Cocaine-Related Disorders
+Bile Duct Cancer
+HNSCC; Head and Neck Neoplasms
+Metabolism and Nutrition Disorder; Obesity
+Non-Small Cell Lung Cancer
+BREAST CANCER
+Mucosa-Associated Lymphoid Tissue Lymphoma
+CYP3A4*22
+Hematologic Malignancies; Multiple Myeloma
+Metastatic Colorectal Cancer with Chemotherapy Complications
+Cachexia
+Acute Lymphoblastic Leukemia, Pediatric
+Thyroid-associated Ophthalmopathy
+Malignant Female Reproductive System Neoplasm
+Upper Limb Injury
+Hypospadias
+Metastatic Solid Tumors
+Breast Cancer; Hormone Receptor Positive Tumor
+Colonic Neoplasms
+Hepatitis
+Low-Grade Glioma
+Chronic Neck Pain
+Chronic Myeloproliferative Disorders; Leukemia; Myelodysplastic/Myeloproliferative Diseases
+Acute Exacerbation of Chronic Obstructive Pulmonary Disease
+Non Small Cell Lung Cancer; Hepatitis B
+Metabolic Associated Fatty Liver Disease
+Thromboembolism
+Coagulation Disorder
+Head and Neck Squamous Cell Cancer
+Benign Prostatic Hyperplasia (BPH)
+Back and Neck Pain
+In Vitro Fertilization
+Acute Graft Versus Host Disease
+Lymphoma Patient
+Acute Gouty Arthritis
+Thrombosis with Hemolysis
+Back Pain, Low
+Thrombotic Thrombocytopenic Purpura
+Motor Neuron Disease
+Covid19; SARS-Associated Coronavirus
+Mucinous Adenocarcinoma of the Colon and Rectum
+Acute Graft-versus-Host Disease
+Thymic Carcinoma
+Non Small Cell Lung Cancer; Small-cell Lung Cancer
+Chronic Lower Back Pain
+Appendicitis
+Upper Gastrointestinal Hemorrhage
+Non Small Cell Lung Cancer; Lung Cancer
+Carcinoma, Pancreatic Ductal; Prognosis
+Mansonella Perstans Infection
+Lymphatic Disorders
+Lyme Disease
+Hand Eczema
+Systemic Sclerosis
+Hemodynamic Instability
+Maxillary Expansion
+Rhabdoid Tumors
+T-lymphoblastic Leukemia/Lymphoma
+Breast Cancer; Neoplasm Metastasis
+Maxillary Sinus Floor Augmentation
+Behavior
+Nonsquamous Nonsmall Cell Neoplasm of Lung
+CNS Lymphoma
+Maxillofacial Surgery
+Mitochondrial Biogenesis
+Geriatric Depression with Cognitive Impairment
+Microsatellite Stable Metastatic Colorectal Cancer
+T-cell Acute Lymphoblastic Leukemia
+Nonarteritic Anterior Ischemic Optic Neuropathy
+Mechanical Low Back Pain
+Cardiac Complication; Vascular Diseases
+Hypertrophic Scar
+Germ Cell Tumor; Yolk Sac Tumor
+Chronic Hepatitis D
+ccRCC; RCC; Kidney Cancer; Clear Cell Renal Cell Carcinoma; Renal Cell Carcinoma
+Coronavirus
+Gestational Diabetes Mellitus
+Lungcancer
+Microscopic Colitis
+Malignant Solid Tumors
+Colorectal Adenocarcinoma
+Classical Hodgkin Lymphoma; Relapsed or Refractory Classical Hodgkin Lymphoma
+Obesity with Insulin Resistance
+Migraine With Aura
+Wrinkle
+Obesity, Morbid
+Clear Cell Metastatic Renal Cell Carcinoma
+Hemodialysis Complication
+Hemangioma
+Lung Transplant
+Migraine Headaches
+Marginal Zone Lymphoma
+Helicobacter-associated Gastritis
+ASTHMA
+Behcet Syndrome
+Nutritional Requirements
+COVID-19; SARS-CoV-2
+Healthy Nutrition
+Systemic Fungal Infections
+Malignant Tumor
+Systemic Inflammatory Response Syndrome
+Colorectal Adenoma
+Mechanical Ventilation Complication
+Heart Failure，Congestive
+Breast, Prostate, and Ovarian Cancers
+Non-small Cell Lung Cancer (NSCLC); EGFR-TKI Resistant Mutation; EGFR-TKI Sensitizing Mutation; Germline Mutations; Somatic Mutation
+Supraventricular Tachycardia
+Acute Lymphoblastic Leukemia (ALL)
+Breast Cancer; Triple Negative Breast Cancer (TNBC); Early Stage Breast Cancer; Immunotherapy; Probiotic
+Waldenström's Macroglobulinemia
+Chronic Myelomonocytic Leukemia; de Novo Myelodysplastic Syndrome; Essential Thrombocythemia; Myelodysplastic Syndrome; Myelodysplastic/Myeloproliferative Neoplasm; Polycythemia Vera; Previously Treated Myelodysplastic Syndrome; Primary Myelofibrosis; Recurrent Adult Acute Myeloid Leukemia; Recurrent Childhood Acute Myeloid Leukemia; Untreated Adult Acute Myeloid Leukemia
+Waldenström Macroglobulinemia
+Impacted Third Molar Tooth
+Open-Angle Glaucoma
+Hypoactive Sexual Desire Disorder
+Non-squamous Nonsmall Cell Neoplasm of Lung
+Temporomandibular Disorders
+Ocular Disorders
+Philadelphia Chromosome Positive Leukemias
+Haploidentical Stem Cell Transplantation
+Aortic Valve Disease
+Head and Neck Carcinoma
+Mobility Limitation
+Abdominal Pain
+Moderate Hepatic Impairment
+Macular Edema and Uveitis
+Non-hodgkin Lymphoma
+Beta-Thalassemia
+Uterine Disorders
+Hormone Receptor Positive, HER2-negative, Advanced Breast Cancer
+HR-positive, HER2-negative Advanced Breast Cancer
+Micronutrient Status
+Postoperative Pain Management
+Hepatitis D
+Anxiety and Depression
+Relapsed/Refractory Acute Leukemia
+Colorectal Cancer; Cancer of Pancreas; Pancreatic Neoplasm; Malignant Neoplasm of Large Intestine; Malignant Tumor of Colon; Colon Carcinoma; Cancer of Colon; Pancreatic Cancer
+Non-small-cell Lung Cancer With Somatic EGFR Mutations
+Clear-cell Metastatic Renal Cell Carcinoma
+Muscle Invasive Bladder Cancer
+Non-small Cell Lung Carcinoma; Urothelial Carcinoma; Gastrointestinal Carcinoma, Non-colon; Upper Aerodigestive Tract Carcinoma
+Head and Neck Cancer; Lung Cancer
+Cleft Palate
+Esophageal and Gastroesophageal Junction Cancer
+Recurrent CNS Tumors
+Childhood Medulloblastoma
+Non-small Cell Lung Cancer(NSCLC)
+Coronary Stenosis
+Breast Cancer with Hand-Foot Syndrome
+Immunoglobulin A Nephropathy
+Coronary Restenosis
+Gingival Recession, Localized
+Aortic Aneurysm
+Postoperative Cardiac Dysfunction
+Uterine Cervical Neoplasms
+Bioequivalence Study
+Gastric and Gastroesophageal Junction Cancer
+Neuromuscular Disorders
+Metastatic Gastric Cancer; Locally Advanced Gastric Adenocarcinoma; Gastric Cancer Adenocarcinoma Metastatic
+Lymphoma; Small Intestine Cancer; Unspecified Adult Solid Tumor, Protocol Specific
+Cold Water Immersion Effects
+Vaginal Disease
+Myocardial Stunning
+Vaccination
+HIV with Tuberculosis
+Type 2 Diabetes with Obesity
+Vivax Malaria
+Metastatic Hormone-Sensitive Prostate Cancer
+MDS; AML
+Multiple Sclerosis; Healthy
+COVID-19 Pandemic
+Anorectal Disorders
+Leukemia and Myeloproliferative Disorders
+Myeloma, Multiple
+B Acute Lymphoblastic Leukemia With BCR-ABL1
+B Acute Lymphoblastic Leukemia
+Asthma with Obesity
+HIV Infections/AIDS
+Chronic Thromboembolic Pulmonary Hypertension
+Cancer Prevention
+Metastatic ER+ Her2- Breast Cancer; Postmenopausal
+Tubal Patency
+Metastatic Colorectal Carcinoma; Stage IV Colorectal Cancer AJCC v8; Stage IVA Colorectal Cancer AJCC v8; Stage IVB Colorectal Cancer AJCC v8; Stage IVC Colorectal Cancer AJCC v8; Unresectable Carcinoma
+Extramedullary Multiple Myeloma
+Vascular Function and Atherothrombosis
+Infertility and Endometriosis
+Vascular Function
+Vascular Diseases
+Non-Small Cell Lung Cancer with Genetic Mutations
+NSCLC with Sexual Disorders
+Lymphoma; Leukemia; Myeloproliferative Disorders; Multiple Myleoma; Myelodysplastic Syndrome
+Type 2 Diabetes with Overweight
+Indolent Non-Hodgkin's Lymphoma; Chronic Lymphocytic Leukemia; Mantle Cell Lymphoma
+HER2-positive Gastroesophageal Cancer
+Breast and Lung Cancer
+Metastatic Colorectal Cancer; Metastatic Cancer to Liver
+Treatment-resistant Schizophrenia
+Chronic Urticaria
+Varicose Veins
+Metastatic Colorectal Cancer; Recurrent Colorectal Cancer
+Vaping
+Obesity and Type 2 Diabetes
+Multiple Myeloma; Relapsed and/or Refractory Multiple Myeloma
+Parasitic Infections
+Urinary System Tumor
+Colorectal Cancer with Liver Metastasis
+HER2-positive Breast Cancer; Postmenopausal; Metastatic Breast Cancer
+Cancer Patients
+Healthy Subjects; Infection, Human Immunodeficiency Virus
+Actinic Cheilitis
+Candidemia
+HER2-mutant Non-Small Cell Lung Cancer
+Acute Myeloid Leukemia with IDH1 Mutation
+Hematopoietic and Lymphoid Cell Neoplasm; Malignant Solid Neoplasm
+Colorectal Cancer; Peritoneal Metastasis
+Cancer of Pancreas; Unresectable Pancreatic Cancer; Chemotherapy Effect; SBRT
+Major Depressive Disorder with Psychotic Features
+Breast Cancer; Metastatic Breast Cancer; Hormone Receptor-positive Breast Cancer; HER2-negative Breast Cancer
+Metastatic Melanoma; Melanoma; BRAF-mutated Metastatic Melanoma; V600EBRAF-mutated Metastatic Melanoma
+HIV and Herpesviridae Infections
+Multiple Advanced Carcinomas
+Metastatic Microsatellite Stable Colorectal Carcinoma; Refractory Microsatellite Stable Colorectal Carcinoma; Stage IV Colorectal Cancer AJCC v8
+Cancer; Prostate Neoplasms
+Metastatic Midgut Neuroendocrine Tumor
+HIV Seropositivity
+Myasthenia Gravis, Generalized
+Metastatic NRAS Melanoma
+Type 2 Diabetes Mellitus; Insulin Resistance
+Breast Cancer with Neutropenia
+AML; Elderly
+Pain and Surgical Procedures
+Type 2 Diabetes Mellitus; Obesity
+Atopic Dermatitis; Eczema
+HIV-1 Infection; Pf Subclinical Parasitemia
+HIV-1 Infection; HIV Infections
+Healthy Adult Volunteers
+Spinal Muscular Atrophy
+HIV Infections and Weight Gain
+Multiple Neoplasms
+T-cell Acute Leukemia/Lymphoma
+Myelodysplastic Syndrome; Hodgkin's Lymphoma; Non-Hodgkin's Disease; Acute Leukemia; Multiple Myeloma
+Tuberculosis with HIV Coinfection
+Metastatic Kidney Medullary Carcinoma; Metastatic Renal Cell Carcinoma; SMARCB1 Negative; Stage III Renal Cell Cancer AJCC V8; Stage IV Renal Cell Cancer AJCC V8
+Myelodysplastic/Myeloproliferative Neoplasms; Adult
+Colorectal Neoplasms Malignant
+Myelodysplastic Syndromes; Myeloproliferative Chronic Myelomonocytic Leukemia
+AML, Adult Recurrent; MDS
+Multiple System Atrophy
+Metastatic Prostate Cancer; Non-metastatic Prostate Cancer; Prostate Cancer
+Axial Psoriatic Arthritis
+Lung Neoplasm
+HIV Infections with Lipodystrophy
+Awake Fiberoptic Intubation
+Colorectal Neoplasm
+Hemophilia
+Healthy Males
+Breast Cancer; Metastasis
+Turner Syndrome
+Acne Rosacea
+Metastatic Lung Non-Small Cell Carcinoma; Recurrent Lung Non-Small Cell Carcinoma; Stage IV Lung Cancer AJCC v8
+AML, Adult; Minimal Residual Disease
+Healthy Male Subjects
+Type 1 Diabetes (T1D)
+Type 2 Diabetes; Hypertension
+Colorectal Carcinoma; Colorectal Neoplasms; Colorectal Tumor; Colorectal Adenocarcinoma; Colorectal Cancer (CRC); Colorectal Cancer; Colon Cancer; Colon Adenocarcinoma; Colon Carcinoma; Colon Neoplasm
+Myelodysplastic Syndrome; Recurrent Myelodysplastic Syndrome; Refractory Myelodysplastic Syndrome
+Cancer of Head and Neck
+Pancreatic Adenocarcinoma Treatment
+HIV; AIDS
+Diffuse Large-Cell Lymphoma
+Colorectal Cancer; Colorectal Liver Metastases
+Graft-versus-host-disease
+Neurodermatitis
+Gram-Positive Bacterial Infections
+Non-Small Cell Lung Carcinoma with EGFR Mutation
+Acute Myeloid Leukemia with Granulocytic Sarcoma
+Metastatic Breast Cancer; Breast Cancer
+Total Knee Replacement
+Lymphoma, Mantle Cell; Mantle Cell Lymphoma
+Neuroblastoma and Lymphoma
+Granulomatosis With Polyangiitis
+Chronic Renal Disease
+Metastatic Breast Cancer; ER Positive Breast Cancer; HER2-negative Breast Cancer
+Multiple Myeloma at First Relapse
+Conscious Sedation
+Arthritis, Psoriatic
+BRAF V600E Mutation
+Acute Biphenotypic Leukemia; de Novo Myelodysplastic Syndrome; Previously Treated Myelodysplastic Syndrome; Recurrent Adult Acute Myeloid Leukemia; Untreated Adult Acute Myeloid Leukemia; Secondary Acute Myeloid Leukemia
+Toxic Epidermal Necrolysis
+Acute Biphenotypic Leukemia; Acute Myeloid Leukemia; Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive; Blasts 10 Percent or More of Bone Marrow Nucleated Cells; Blasts 10 Percent or More of Peripheral Blood White Cells; De Novo Myelodysplastic Syndrome; Myelodysplastic Syndrome; Previously Treated Myelodysplastic Syndrome; Recurrent Acute Myeloid Leukemia; Recurrent Chronic Myelogenous Leukemia, BCR-ABL1 Positive; Refractory Acute Myeloid Leukemia; Refractory Chronic Myelogenous Leukemia, BCR-ABL1 Positive; Secondary Acute Myeloid Leukemia; Untreated Adult Acute Myeloid Leukemia
+Nephrotoxicity
+Granulomatous Mastitis
+Metastatic Breast Cancer; Estrogen Receptor Positive Tumor; Breast Cancer Nos Premenopausal
+Arthritis and Cardiovascular Diseases
+HIV with Mitochondrial Toxicity
+Type2diabetes; Insulin Resistance
+Nephropathic Cystinosis
+Lymphoproliferative Disorders
+Cardiovascular Disorders
+Total Joint Arthroplasty
+Ventilator Associated Pneumonia
+Neovascular Age-related Macular Degeneration
+Ventricular Tachycardia
+Ulcer Hemorrhage
+Non-Epileptic Seizures
+Heart Failure With Preserved Ejection Fraction (HFpEF)
+Tobacco Use
+Lymphoma, Large-Cell, Diffuse; Lymphoma, B-Cell
+AIDS/HIV PROBLEM
+HIV; Tuberculosis
+Tobacco Use Cessation
+Arterial Pulmonary Hypertension (PAH)
+Graft Versus Host Disease and Hematologic Malignancies
+BRAF v600 Mutated Metastatic Melanoma
+Muscular Atrophy
+Arterio-venous Fistula
+Heart Failure NYHA Class II
+Hematopoietic Stem Cell Transplantation; Antithymocyte Globulin; Viral Infection
+Upper Urinary Tract Urothelial Carcinoma
+Arteriovenous Fistula
+Tooth Extraction
+Dental Implant with Augmentation
+Arteriovenous Malformations
+Transplantation Complications
+Breast Cancer; Neoadjuvant Chemotherapy
+ARDS
+BRAF V600E-mutated /MSS Metastatic Colorectal Cancer; Vemurafenib (BRAFi) Plus Cetuximab (EGFRi) Combined With PD-1 Monoclonal Antibody
+Breast Cancer; Hormone Receptor-positive Breast Cancer; Hormone Therapy
+Graft-versus-host Disease
+Atrial Fibrillation with Coronary Artery Disease
+Metastatic Breast Cancer; Locally Advanced Breast Cancer
+ALK-positive NSCLC
+MSS; RAS-mutant Colorectal Cancer
+Composite Lymphoma
+Multiple Myeloma; Myeloma; M-Protein; Myeloma Proteins
+Metastatic Castration-Resistant Prostate Cancer; Metastatic Breast Cancer; Non-small Cell Lung Cancer; Advanced Solid Tumors
+Necrotic Pulp
+Lymphoma; Autologous Hematopoietic Stem Cell Transplantation
+Hemophagocytic Syndrome
+B-cell Non-Hodgkin Lymphoma
+Travelers' Diarrhea
+HER2 Negative Breast Cancer
+Cardiac Arrhythmias and Conduction Disorders
+Metastatic Castration-resistant Prostate Cancer (mCRPC); Metastatic Hormone-Sensitive Prostate Cancer (mHSPC)
+Metastatic Castration-resistant Prostate Neoplasms
+ICC; Metastatic Cancer
+Nausea
+Natural Killer/T-Cell Lymphoma, Nasal and Nasal-Type
+Neuroendocrine Tumors and Neoplasms
+Metastatic Renal Cancer
+Geriatric Breast Cancer CDK4/6 Inhibitor Study
+Breast Cancer; Non-small Cell Lung Cancer; Melanoma; Brain Metastases
+Malaria; HIV
+Nasopharyngeal Cancinoma (NPC)
+Metastatic Prostate Carcinoma; Recurrent Prostate Carcinoma; Stage IV Prostate Cancer
+Falciparum Malaria with Anemia
+HER2+ Metastatic Breast Cancer
+Treatment Resistant Major Depressive Disorder
+HER-2 Positive Breast Cancer; Estrogen Receptor Positive Breast Cancer
+Multiple Myeloma; Multiple Myeloma in Relapse
+Metastatic Breast Cancer; Locally Advanced Breast Cancer; Advanced Breast Cancer; BRCA2 Mutation; BRCA1 Mutation
+Conduction Defect
+Metastatic Breast Cancer; Recurrent Breast Cancer
+Growth and Development
+Malignant Neoplasms
+Venous Thromboembolism; Gastro Intestinal Bleeding; Blood Clot
+Metastatic Breast Cancer; Tumor; Muscle Neoplasms; Chronic Pain
+Breast Cancer; Neoplasms; Breast Diseases
+Major Depressive Disorder; Depression
+Inflammatory Bowel Diseases; Crohn Disease; Ulcerative Colitis
+Plasma Cell Disorders
+Urethral Stricture
+Neoplasms, Colorectal
+HIV; Hepatitis C
+Acute Bacterial Skin and Skin Structure Infection
+Transient Insomnia
+Colorectal Cancer Metastatic; Liver Metastasis Colon Cancer
+Metastatic Colorectal Neoplasms
+Transient Ischemic Attack and Minor Ischemic Stroke
+Congenital Disorders
+Congenital Cataract
+Transplantation
+Transthyretin Amyloidosis
+Serious Mental Illness
+Hematopoietic Stem Cell Transplantation; TP53
+1. Major Depressive Disorder
+Metastatic Cancer; Colorectal Cancer; Colorectal Adenocarcinoma
+Childhood Neoplasms
+Gastroesophageal Cancer with HER2 Mutation
+Precursor Lymphoid Neoplasms
+Burkitt's Lymphoma; Burkitt's Leukemia; Mediastinal Neoplasms; Lymphoblastic Lymphoma; Large Cell Anaplastic Lymphoma
+Acute Schizophrenia
+Burkitt Lymphoma
+Eosinophilic Esophagitis (EoE)
+Chronic Hand Eczema
+Advanced Endometrial Cancer
+Secondary Hyperparathyroidism in End Stage Renal Disease
+Recurrent Nasopharyngeal Carcinoma
+Tooth Sensitivity
+Acute Urticaria
+Cerebrovascular Disease
+Scrub Typhus
+Pregnancy Complication
+Renal Pelvis and Ureter Urothelial Carcinoma
+Cerebrovascular Disorders
+Brain Death
+Acute Respiratory Tract Infections
+Recurrent Multiple Myeloma; Refractory Multiple Myeloma
+Epistaxis
+Severe Asthma
+Epithelial Ovarian Cancer; Primary Peritoneal Carcinoma; Fallopian Tube Cancer; Ovarian Cancer
+Epithelial Ovarian and Related Cancers
+Severe Acute Respiratory Syndrome
+Recurrent Non-Small Cell Lung Carcinoma; Stage IIIA Non-Small Cell Lung Cancer; Stage IIIB Non-Small Cell Lung Cancer; Stage IV Non-Small Cell Lung Cancer
+Hodgkin Lymphoma; Non-hodgkin Lymphoma
+Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities; Adult Acute Myeloid Leukemia With Del(5q); Adult Acute Myeloid Leukemia With Inv(16)(p13;q22); Adult Acute Myeloid Leukemia With t(16;16)(p13;q22); Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); Myelodysplastic Syndrome With Isolated Del(5q); Previously Treated Myelodysplastic Syndromes; Recurrent Adult Acute Myeloid Leukemia
+Agitation
+Limb Deformity
+Episodic Migraine
+Recurrent Neuroblastoma; Stage 2A Neuroblastoma; Stage 2B Neuroblastoma; Stage 3 Neuroblastoma; Stage 4 Neuroblastoma; Stage 4S Neuroblastoma
+Liposarcoma; Malignant Peripheral Nerve Sheath Tumors; Alveolar Soft Part Sarcoma; Ewing Sarcoma; Sarcoma
+Epiretinal Membrane
+Lipoma
+Cerebral Small Vessel Disease
+Epilepsy and Cognition Disorders
+Biliary Tract Cancers
+Breast Cancer with Brain Metastases
+Scoliosis
+Eczema
+Advanced/Metastatic Non-Small Cell Lung Cancer (NSCLC)
+Burkitt Lymphoma and B-ALL
+Previously Untreated Peripheral T-cell Lymphoma
+Chronic Graft-versus-Host Disease
+Primary Biliary Cholangitis (PBC)
+Adenocarcinoma
+Chronic Endometritis
+Primary Breast Cancer
+Lung Adenocarcinoma and Squamous Cell Carcinoma
+Stage I Endometrial Cancer
+Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities; Adult Acute Myeloid Leukemia With Del(5q); Adult Acute Myeloid Leukemia With Inv(16)(p13;q22); Adult Acute Myeloid Leukemia With t(15;17)(q22;q12); Adult Acute Myeloid Leukemia With t(16;16)(p13;q22); Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); Chronic Myelomonocytic Leukemia; de Novo Myelodysplastic Syndromes; Refractory Anemia With Excess Blasts; Untreated Adult Acute Myeloid Leukemia; Myeloproliferative Neoplasm With 10% Blasts or Higher
+Bullous Pemphigoid
+Adenocarcinoma of Colon; Adenocarcinoma of Rectum; Metastatic Disease
+Primary Hypertension
+Hormone-receptor-positive HER2-negative Breast Cancer
+Primary IgA Nephropathy
+Leukemia; Lymphoma; Multiple Myeloma and Plasma Cell Neoplasm; Myelodysplastic Syndromes; Nonmalignant Neoplasm; Unspecified Adult Solid Tumor, Protocol Specific
+Advanced Esophageal Squamous Cell Carcinoma
+Endometrial Neoplasms with Fertility Preservation
+Gliomas and Neuroglial Tumors
+Acute,Leukemia, Lymphoid
+Premature Birth
+Premature Birth; Psychological Stress; Physiological Stress
+Hypergastrinaemia
+Endometrium Cancer
+Metastatic ER-Positive Breast Cancer
+Acute-graft-versus-host Disease
+Type 2 Diabetes Mellitus with Endothelial Dysfunction
+Schizophrenia with Type 2 Diabetes Mellitus
+Leukemia; Lymphoma; Myeloma
+Eye Conditions
+Gliomas and Neuronal Tumors
+Hyperemia
+Recurrent Melanoma; Stage IV Melanoma
+Endometriosis with Pain
+Preterm Premature Rupture of Membrane
+Postoperative Ileus
+Severe Combined Immunodeficiency
+Advanced Colorectal Carcinoma
+Plasma Cell Neoplasms
+Advanced Colorectal Cancer; Metastatic Colorectal Cancer
+Acute Myeloid Leukemia; Recurrent Acute Myeloid Leukemia
+Acute Lymphoblastic Leukemia with Allogeneic HSCT
+Histiocytosis
+Allogeneic Hematopoietic Stem Cell Transplantation
+Depression; Relapsing-remitting Multiple Sclerosis
+Small Intestinal Bacterial Overgrowth
+Acute Myeloid Leukemia; Relapsed Adult AML
+Platinum-resistant Ovarian Cancer; Platinum-refractory Ovarian Carcinoma; Platinum-Resistant Fallopian Tube Carcinoma; Platinum-Resistant Primary Peritoneal Carcinoma
+Stage IV Hormone Receptor Positive HER2 Negative Breast Cancer
+Pleural Effusion
+Juvenile Myelomonocytic Leukemia
+Acute Myeloid Leukemia; Secondary Acute Myeloid Leukemia; Untreated Adult Acute Myeloid Leukemia
+Estrogen Receptor-positive Breast Cancer; HER2-negative Breast Cancer; Stage II Breast Cancer; Stage IIIA Breast Cancer; Stage IIIB Breast Cancer; Stage IIIC Breast Cancer
+Small-Cell Lung Cancer
+Pneumococcal Infections
+Depression; Inflammation; Antidepressants; Immunity
+Philadelphia Chromosome Positive Adult Acute Lymphoblastic Leukemia
+Advanced Lung Adenocarcinoma
+Photodamaged Skin
+Advanced Colorectal Cancer in the Third-line Treatment and Beyond; pMMR/MSS Advanced Colorectal Cancer
+Alveolar Bone Resorption
+Breast Cancer; Breast Neoplasm
+Smoldering Multiple Myeloma
+Physical Disability
+Small-cell Lung Cancer
+Physical and Cognitive Function
+Poxvirus Infections
+Alport Syndrome
+Cellulitis
+Localized High-risk Soft Tissue Sarcomas
+Estrogen Receptor-positive Breast Cancer
+HER-2 Positive Gastric or Gastroesophageal Junction Adenocarcinoma
+Pleural Neoplasm
+Bacterial Pneumonia
+Chronic Hepatitis C Virus
+Advanced Soft Tissue Sarcoma
+DiGeorge Syndrome
+Hypertensive Disorders of Pregnancy
+Chronic Hepatitis D Infection
+Post-Acute COVID-19 Syndrome
+Post-ERCP Acute Pancreatitis
+Post-acute COVID-19 Syndrome
+Acute Pulmonary Embolism
+Sexual Dysfunction
+Adult Acute Myeloid Leukemia With t(15;17)(q22;q12); Adult Acute Promyelocytic Leukemia (M3); Childhood Acute Promyelocytic Leukemia (M3); Untreated Adult Acute Myeloid Leukemia; Untreated Childhood Acute Myeloid Leukemia and Other Myeloid Malignancies
+Diffuse Intrinsic Pontine Glioma
+Biliary Liver Cirrhosis
+Diabetes Mellitus Type 2 in Obese
+Postdural Puncture Headache
+Albuminuria
+Severe Hypertriglyceridemia
+Postmenopausal Depression
+Recurrent Non-Small Cell Lung Carcinoma; Stage IV Non-Small Cell Lung Cancer AJCC v7
+Esophageal Cancer; Cancer of the Esophagus; Esophagus Cancer; Esophageal Neoplasm; Cancer of Esophagus
+Esophageal Cancer; Gastric Cancer; Stomach Cancer
+Sleep Disorder
+Metastatic Colon Cancer to Liver
+Breast Cancer; Breast Carcinoma; Cancer of Breast; Malignant Tumor of Breast
+Skin Rash with Lung Cancer
+Allergic Bronchopulmonary Aspergillosis
+Juvenile Neuronal Ceroid Lipofuscinosis
+Depressive Disorder with Lactation
+Polyarticular Course Juvenile Idiopathic Arthritis
+Esophagus Squamous Cell Carcinoma
+Sinus Floor Elevation
+Shoulder Impingement Syndrome
+Esophagitis
+Chronic Insomnia
+Acute Otitis Media
+Breast Cancer; Breast Carcinoma; Breast Neoplasms; Breast Tumors; Cancer of Breast
+Alcohol Withdrawal
+Shoulder Pain with Opioid Use
+Esophageal Neoplasm
+Liver Lymphoma; Mantle Cell Lymphoma
+Leukemia; Lymphoma; Multiple Myeloma and Plasma Cell Neoplasm; Myelodysplastic Syndromes
+Breast Cancer Metastatic; Hormone Receptor Positive Malignant Neoplasm of Breast
+Breast Cancer; Advanced Breast Cancer; Metastatic Breast Cancer; Endometrial Cancer
+Advanced Breast and Ovarian Cancer
+Chemotherapy-Induced Nausea and Vomiting (CINV)
+Breast Cancer Triple Negative
+Advanced Non Small Cell Lung Cancer; MET Exon 14 Mutation
+Dietary Modification
+Rhumatoid Arthisis
+Advanced Non Small Cell Lung Cancer (NSCLC)
+Pulmonary Arterial Hypertension (PAH)
+Pulmonary Arterial Hypertension; Pulmonary Hypertension
+Breast Cancer (ER+/HER2-)
+Hormone Receptor-positive Breast Cancer
+Recurrent Gynecologic Cancer
+Adhesive Capsulitis of the Shoulder
+Recurrent Gynecologic Carcinoma
+Dyslipidemia/Glucose Metabolism Disorder
+Breast Cancer Adjuvant Therapy
+Recurrent/Refractory Non-Hodgkin Lymphoma
+Leptomeningeal Metastasis; Non-small Cell Lung Cancer; EGFR Activating Mutation
+Advanced Pancreatic Carcinoma
+Advanced Refractory Solid Tumors
+Psoriasis Vulgaris; Psoriasis
+Chronic Actinic Dermatitis
+Chemotherapy
+Advanced Prostate Carcinoma
+Acute Myeloid Leukemia and Variants
+Diabetes with Diabetic Retinopathy
+Chemotherapy Induced Anemia
+Psychomotor Agitation
+Advanced Non-squamous Cell Non-small Cell Lung Cancer
+Rotator Cuff Injury
+Leukemia, Myeloid, Acute; AML Stage, Adult
+Rotator Cuff Disease
+Advanced Ovarian Cancer
+Chemotherapy Induced Peripheral Neuropathy
+Advanced Nonhematologic Malignancies
+Adenomyosis
+Kidney Transplant Recipients
+Resected Liver Metastases From Colorectal Cancer
+Primary Myelofibrosis; Post-polycythemia Vera Myelofibrosis; Post-essential Thrombocythemia Myelofibrosis
+Bronchoscopy with Sedation
+Leukemia, Acute Lymphoblastic
+Lysosomal Storage Diseases
+Rectum Cancer
+Recurrent Adult Lymphoblastic Lymphoma; Recurrent B Acute Lymphoblastic Leukemia; Recurrent B Lymphoblastic Lymphoma; Recurrent T Acute Lymphoblastic Leukemia; Recurrent T Lymphoblastic Lymphoma; Refractory B Acute Lymphoblastic Leukemia; Refractory B Lymphoblastic Lymphoma; Refractory T Acute Lymphoblastic Leukemia; Refractory T Lymphoblastic Lymphoma
+Klinefelter Syndrome
+Dyspareunia
+Retinal Vein Occlusion
+Rhabdomyosarcoma, Child
+Respiratory Failure
+Acute Myeloid Leukemia Variants
+Chronic Pelvic Pain
+Chidamide; R-CHOP Chemotherapy; DLBCL - Diffuse Large B Cell Lymphoma; Double-expressor Lymphoma (DEL)
+Advanced Lung Non-Small Cell Carcinoma; Recurrent Lung Non-Small Cell Carcinoma; Stage III Lung Cancer AJCC v8; Stage IIIA Lung Cancer AJCC v8; Stage IIIB Lung Cancer AJCC v8; Stage IIIC Lung Cancer AJCC v8; Stage IV Lung Cancer AJCC v8; Stage IVA Lung Cancer AJCC v8; Stage IVB Lung Cancer AJCC v8
+Acute Myeloid Leukemia and Related Disorders
+Recurrent Adult Acute Lymphoblastic Leukemia
+Recurrent Adult Acute Myeloid Leukemia; Myelodysplastic Syndrome; Adult Acute Myeloid Leukemia
+Advanced Malignant Neoplasm; Colorectal Carcinoma Metastatic in the Liver; Metastatic Malignant Neoplasm in the Liver; Refractory Malignant Neoplasm
+Dysphagia
+Recurrent Colon Cancer; Recurrent Rectal Cancer; Stage IV Colon Cancer; Stage IV Rectal Cancer
+RAS Mutation Cancer
+Inflammatory Arthritis
+Pulpitis
+Rheumatoid Arthritis; Insufficient Response to Methotrexate or Leflunomide
+Diabetic Neuropathy
+EGFR Mutation Positive Non Small Cell Lung Cancer
+Hormone Receptor-positive Metastatic Breast Cancer; HER2-negative Metastatic Breast Cancer
+Rheumatoid Arthritis and Inflammatory Bowel Disease
+REM Sleep Behavior Disorder
+Brugada Syndrome
+EGFR Gene Mutation; Nonsmall Cell Lung Cancer
+Forearm and Wrist Injuries
+Cholestasis
+Rheumatic Heart Disease
+Resistant Solid Malignancies
+Kidney Transplant Rejection
+Diabetes; Diabetes Mellitus, Type 1; Type1diabetes; Diabetes Mellitus
+SARS-CoV 2; COVID-19
+Early Childhood Caries
+Leukemia; Leukemia, Myeloid; Leukemia, Myeloid, Acute
+Prolymphocytic Leukemia; Recurrent Adult Hodgkin Lymphoma; Recurrent Childhood Hodgkin Lymphoma; Recurrent Childhood Non-Hodgkin Lymphoma; Recurrent Chronic Lymphocytic Leukemia; Recurrent Non-Hodgkin Lymphoma; Recurrent Small Lymphocytic Lymphoma; Refractory Childhood Hodgkin Lymphoma; Refractory Chronic Lymphocytic Leukemia; Refractory Hodgkin Lymphoma; Refractory Non-Hodgkin Lymphoma; Refractory Small Lymphocytic Lymphoma; T-Cell Chronic Lymphocytic Leukemia; T-Cell Prolymphocytic Leukemia
+Salivary Gland Neoplasms
+Emphysema
+Emotional Distress
+Prostate Adenocarcinoma; Prostate Carcinoma; Recurrent Prostate Carcinoma; Stage III Prostate Cancer; Stage IV Prostate Cancer
+Diabetes Mellitus Type 2 with Complications
+Emotional Disorder
+Proliferative Vitreoretinopathy
+Chronic Coronary Syndrome; Atrial Fibrillation
+Leishmaniasis
+Embryonal Tumor With Multilayered Rosettes
+Prostate Cancer Metastatic; Prostate Cancer Metastatic to Bone; Prostate Cancer; Prostate Neoplasm; Oligometastatic Disease; Oligometastasis
+Advanced Solid Tumors; Kirsten Rat Sarcoma (KRAS) pG12C Mutation
+Prostate Cancer Metastatic; Radiotherapy Side Effect; Surgery; Urologic Cancer; Quality of Life; Patient Satisfaction; Health Care Utilization
+Legally Induced Abortion Without Mention of Complication
+Kaposi Sarcoma with HIV
+Adult Acute Megakaryoblastic Leukemia (M7); Adult Acute Monoblastic Leukemia (M5a); Adult Acute Monocytic Leukemia (M5b); Adult Acute Myeloblastic Leukemia With Maturation (M2); Adult Acute Myeloblastic Leukemia Without Maturation (M1); Adult Acute Myeloid Leukemia in Remission; Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities; Adult Acute Myeloid Leukemia With Del(5q); Adult Acute Myeloid Leukemia With Inv(16)(p13;q22); Adult Acute Myeloid Leukemia With t(16;16)(p13;q22); Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); Adult Acute Myelomonocytic Leukemia (M4); Adult Erythroleukemia (M6a); Adult Pure Erythroid Leukemia (M6b); Recurrent Adult Acute Myeloid Leukemia; Secondary Acute Myeloid Leukemia; Untreated Adult Acute Myeloid Leukemia
+Adenocarcinoma of the Colon; Adenocarcinoma of the Rectum; Recurrent Colon Cancer; Recurrent Rectal Cancer; Stage IV Colon Cancer; Stage IV Rectal Cancer
+Chemotherapy-induced Adverse Effects in Sarcoma
+Primary Open-angle Glaucoma
+Primary Ovarian Insufficiency
+Ovarian and Peritoneal Carcinoma
+Primary Progressive Multiple Sclerosis
+Primary Sjögren's Syndrome
+Primary Systemic Amyloidosis
+Cervical Pain
+Advanced or Metastatic ER+ Breast Cancer
+Cervical Intraepithelial Neoplasia
+Proctitis and Proctosigmoiditis
+End-stage Kidney Disease
+End-Stage Renal Disease
+Prostate Cancer; Adenocarcinoma of the Prostate
+Recurrent Implantation Failure
+Eating Disorder
+Adenocarcinoma of the Prostate; Stage II Prostate Cancer; Stage III Prostate Cancer; Stage IV Prostate Cancer
+Prostatic Cancer, Castration-Resistant
+SSRI-Refractory Obsessive-Compulsive Disorder
+SMALL CELL LUNG CARCINOMA
+Acute Myelomonocytic Leukemia
+Adenocarcinoma, Prostate
+Castration-Resistant Prostate Cancer
+Breast Cancer, Metastatic Breast Cancer
+Proteinuria
+Early Stage HER2+ Breast Cancer
+Advanced Renal Cell Carcinoma; Metastatic Renal Cell Carcinoma
+Early Rheumatoid Arthritis
+Advanced Solid Tumors and Gynecologic Cancers
+Metastatic Head and Neck Squamous Cell Carcinoma
+Leukemia; Acute Lymphoblastic Leukemia
+Elderly AML Patients; Unfit, New-diagnosis AML; Acute Myeloid Leukemia; Venetoclax; Decitabine
+Advanced Solid Tumors with cMET-dependence
+Elderly
+Eisenmenger Syndrome
+Prostate Cancer; Hormone Sensitive Prostate Cancer; Metastatic Tumor
+STEMI - ST Elevation Myocardial Infarction
+Recurrent Hodgkin Lymphoma; Refractory Hodgkin Lymphoma
+Hyperalgesia
+Prostate Cancer; Metastatic Cancer; Castrate Sensitive Prostate Cancer
+Prostate Cancer; Metastatic Castration Resistant Prostate Cancer; Metastatic Castration-sensitive Prostate Cancer
+Adenocarcinoma of the Prostate; Prostate Cancer
+Advanced Solid Tumor; Non-Small Cell Lung Cancer; Colorectal Cancer
+Prostate Cancer; Prostatic Neoplasms
+Brain Neoplasms
+Recurrent Hepatitis C
+Philadelphia-Positive ALL; Acute Lymphoblastic Leukemia, in Relapse
+Alveolar Ridge Preservation
+Stage IV Non-Small Cell Lung Cancer
+Aneurysm
+Malignant GIST with KIT Mutations
+Ovarian Epithelial Cancer
+Drug Drug Interaction
+Distal Radius Fracture
+Cytomegalovirus Infection
+Ovarian Cancer; Primary Peritoneal Cancer; Fallopian Tube Cancer
+Anesthesia; Functional; Anesthesia
+Cytomegalovirus Infections
+Refractory or Recurrent Neuroblastoma in Children
+PCO
+Refractory Solid Tumors
+Advanced Gastrointestinal Cancer
+Advanced Biliary Tract Carcinoma
+Ovarian Cancer and Related Malignancies
+Acute Myelocytic Leukemia
+Staphylococcus Aureus Infection
+Cystic Fibrosis in Children
+Blood Coagulation Disorder
+Femur Fracture in Children
+Status Epilepticus
+Lung Cancer (NSCLC)
+Childhood Mortality
+Ovarian Cancer; Endometrial Cancer
+Angelman Syndrome
+Involutional Osteoporosis
+Human Experimentation
+Angina Pectoris; Coronary Artery Disease; Type 2 Diabetes Mellitus
+Ganglioneuroblastoma, Nodular; Neuroblastoma
+Ovarian and Related Cancers
+Cytochrome P450 Phenotype and Genotype Metrics
+Gambling
+Diffuse Large B-Cell Lymphoma
+Spinal Anesthesia
+Stage IV (Metastatic) Breast Cancer; Metastatic Breast Cancer; ER Positive Breast Cancer; PR-Positive Breast Cancer; HER2-negative Breast Cancer; Invasive Breast Cancer
+Refractory Plasma Cell Myeloma; Recurrent Plasma Cell Myeloma
+Stage II Breast Cancer; Stage IIIA Breast Cancer; Stage IIIB Breast Cancer; Stage IIIC Breast Cancer
+Free Flap Reconstruction
+Caries, Dental
+Pain and Anesthesia
+Stage II-III Colon Cancer
+Frailty
+Cardiovascular Complications
+Frail Elderly Syndrome
+Surgical Blood Loss
+Low Cardiac Output Syndrome
+Deafness
+Diffuse Large B Cell Lymphoma and Related Conditions
+Anemia of Chronic Kidney Disease
+Painful Diabetic Neuropathy
+Childhood Acute Erythroleukemia (M6); Childhood Acute Megakaryocytic Leukemia (M7); Childhood Acute Monoblastic Leukemia (M5a); Childhood Acute Monocytic Leukemia (M5b); Childhood Acute Myeloblastic Leukemia With Maturation (M2); Childhood Acute Myeloblastic Leukemia Without Maturation (M1); Childhood Acute Myelomonocytic Leukemia (M4); Childhood Myelodysplastic Syndromes; Chronic Myelomonocytic Leukemia; de Novo Myelodysplastic Syndromes; Refractory Anemia; Refractory Anemia With Excess Blasts; Refractory Anemia With Excess Blasts in Transformation; Refractory Anemia With Ringed Sideroblasts; Secondary Myelodysplastic Syndromes; Untreated Childhood Acute Myeloid Leukemia and Other Myeloid Malignancies
+Refractory Differentiated Thyroid Gland Carcinoma
+Advanced Breast Cancer; Treatment; HR Low/HER2 Negative
+Advanced HR+/HER2- Breast Cancer
+Breast Cancer; Chemotherapy-induced Alopecia
+Advanced Breast Cancer; Breast Cancer
+PIK3CA Mutation; Solid Tumor, Adult; HER2-negative Breast Cancer; Breast Cancer; Metastatic Breast Cancer; Advanced Breast Cancer; Unresectable Solid Tumor; Endometrial Cancer
+Stage III Prostate Adenocarcinoma AJCC v7; Stage III Prostate Cancer AJCC v7; Stage IV Prostate Adenocarcinoma AJCC v7; Stage IV Prostate Cancer AJCC v7
+Drug-Induced Liver Injury (DILI)
+Chronic Lymphocytic Leukaemia
+DLBCL Germinal Center B-Cell Type
+Conduction Anesthesia
+Functional Mitral Regurgitation
+Stage III Non-Small Cell Lung Cancer
+Lower Respiratory Tract Infection
+Ventral Hernia with Pain
+Refractory Plasma Cell Myeloma
+Acute Myeloid Leukemia and High-risk Myelodysplastic Syndrome
+Cardiometabolic Disorders
+Pediatric Low-grade Glioma
+Hypertension; Menopause
+Acute Myeloblastic Leukemia
+Pancreas Adenocarcinoma; Borderline Resectable Pancreatic Adenocarcinoma; Locally Advanced Pancreatic Adenocarcinoma
+Anthrax
+Gastro Intestinal Stromal Tumor
+Gastro Esophageal Reflux
+Opioid Dependence
+Postoperative Pain with Opioid Use
+Cardiotoxicity
+Opioid-Related Disorders
+Lung Cancer; Non-small Cell Lung Cancer
+Crohn Disease; Ulcerative Colitis
+Critically Ill
+Optic Neuritis
+Cerebrovascular and Cognitive Disorders
+Anterior Cruciate Ligament Reconstruction
+Stroke, Ischemic
+Oral Leukoplakia
+Stroke, Cardiovascular
+Acute Lymphoblastic Leukemia; Lymphoblastic Lymphoma; B-cell Adult Acute Lymphoblastic Leukemia; T-cell Adult Acute Lymphoblastic Leukemia
+Hypertensive Disorder of Pregnancy
+Osteopenia
+Pediatric and Recurrent Solid Neoplasms
+Lung Diseases
+Distal Radius Fractures
+Substance Use
+Acute Lymphoblastic Leukemia/Lymphoma
+Gastroesophageal Junction Adenocarcinoma
+Intraoperative Hypotension
+Ocular Redness
+Chronic Migraine
+Intrauterine Growth Restriction
+Lung Cancer; Solid Tumor; Gastric Cancer; Urothelial Cancer; Endometrial Cancer; Multiple Myeloma; Myeloproliferative Neoplasms; Breast Cancer; Cholangiocarcinoma; UC; MPN
+Olfactory Disorder
+Oligorecurrent and Oligometastatic Esophageal Squamous Cell Carcinoma
+Chronic Migraine and Medication Overuse Headache
+Critical Illness with Gastrointestinal Complications
+Lung Cancer; Lung Diseases
+Organ Transplantation
+Bleeding Disorders
+Lung Cancer, Non-Small Cell; Non-Small-Cell Lung Cancer
+Difficult Intubation
+Osteoarthritis, Hip; Osteoarthritis, Knee
+Digestive System Cancers
+Gastric Cancer; GastroEsophageal Cancer
+Osteoarthritis,Knee
+Chronic Myeloid Leukemia, Blast Phase
+Gastric Cancer; Adenocarcinoma of the Esophagogastric Junction
+Chemotherapy-Induced Gastric Toxicity
+Relapsed Pediatric Solid Tumor; Refractory Pediatric Solid Tumor; Relapsed Pediatric AML; Refractory Pediatric AML
+Osteoarthritis with Pain
+Cushing's Syndrome
+Gastric and Pancreatic Cancer
+Osteoarthrosis
+Gastrointestinal Adenocarcinoma
+Ankle Injuries
+Triple-Negative Breast Carcinoma
+Crohn's Disease; Ulcerative Colitis
+Osteoarthritis and Chronic Pain
+Anorexia
+Acute Lymphocytic Leukemia
+Relapsed or Refractory Diffuse Large B-Cell Lymphoma
+Hereditary Angioedema
+Orthostatic Hypotension
+Gastric Cancer with Peritoneal Metastases
+Stroke Patients
+Anorexia and Cachexia
+Hereditary Haemorrhagic Telangiectasia (HHT)
+Gastric Cancer; HER2 Overexpressing Gastric Carcinoma
+Acute Lymphoblastic Leukemia and Lymphoma
+Stress Urinary Incontinence
+Osteoarthritis Knee Pain
+Cardiovascular Diseases; Cardiac Diseases; Vascular Diseases; Cancer
+Thumb Osteoarthritis
+Osteoarthritis of Knee
+Blepharitis
+Cardiac Transplantation Disorder
+Long QT Syndrome
+Stage IB Lung Non-Small Cell Carcinoma AJCC v7; Stage II Lung Non-Small Cell Cancer AJCC v7; Stage IIA Lung Cancer AJCC v8; Stage IIB Lung Cancer AJCC v8; Stage IIIA Lung Cancer AJCC v8; Stage IIIA Lung Non-Small Cell Cancer AJCC v7; Stage IIIB Lung Cancer AJCC v8
+Chronic Low Back Pain (CLBP)
+Periodontal Diseases; Periodontitis
+Breast Cancer; Cancer of Breast; Breast Neoplasms; Cancer of the Breast
+Acute Myeloid Leukemia; Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive; Blasts 10 Percent or More of Bone Marrow Nucleated Cells; High Risk Myelodysplastic Syndrome; Myeloid Sarcoma; Myeloproliferative Neoplasm; Philadelphia Chromosome Positive
+Breast Cancer; Cancer
+Systemic Amyloidosis
+Castration-Sensitive Prostate Carcinoma; Metastatic Prostate Adenocarcinoma; Stage IV Prostate Cancer AJCC v8; Stage IVA Prostate Cancer AJCC v8; Stage IVB Prostate Cancer AJCC v8
+Metastatic Castration-Sensitive Prostate Carcinoma
+Drug-drug Interaction Study
+Recurrent or Metastatic Nasopharyngeal Carcinoma
+Recurrent or Metastatic Colorectal Cancer
+Itch
+Diffuse Large B Cell Lymphoma; High-grade B-cell Lymphoma; Transformed Lymphoma
+Solid Tumor and Hematological Malignancy
+Renal Cell Carcinoma; Ovarian Carcinoma; Thyroid Carcinoma; Breast Carcinoma; Endometrium Carcinoma
+Acute Myeloid Leukemia; Chronic Myelomonocytic Leukemia; Myeloblasts 10 Percent or More of Bone Marrow Nucleated Cells; Myelodysplastic Syndrome; Myeloproliferative Neoplasm; Recurrent Acute Myeloid Leukemia; Refractory Acute Myeloid Leukemia; Secondary Acute Myeloid Leukemia
+Acute Myeloid Leukemia with FLT3 Mutation
+Squamous Cell Lung Carcinoma
+Acute Myeloid Leukemia; Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities; Adult Acute Myeloid Leukemia With Inv(16)(p13;q22); Adult Acute Myeloid Leukemia With t(15;17)(q22;q12); Adult Acute Myeloid Leukemia With t(16;16)(p13;q22); Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); Adult Acute Promyelocytic Leukemia (M3); Recurrent Adult Acute Myeloid Leukemia
+Peripheral Artery Disease; Atherosclerosis; Artery Diseases, Peripheral; Plaque, Atherosclerotic; Occlusive Arterial Disease
+Renal Cell Carcinoma; Kidney Cancer
+Acute Myeloid Leukemia; Acute Myeloid Leukemia Arising From Previous Myelodysplastic/Myeloproliferative Neoplasm; Acute Myeloid Leukemia Post Cytotoxic Therapy; Acute Myeloid Leukemia, Myelodysplasia-Related
+Solid Tumors; Advanced Cancer
+Castration-Resistant Prostate Carcinoma; Prostate Adenocarcinoma
+High Risk Prostate Carcinoma; Localized Prostate Adenocarcinoma; Stage I Prostate Cancer AJCC v8; Stage II Prostate Cancer AJCC v8; Stage III Prostate Cancer AJCC v8
+Pelvic Girdle Pain
+Solid Tumors with BRAF V600 Mutation
+Advanced/Metastatic Cancers
+Percutaneous Coronary Intervention
+Penile Cancer
+Penile Cancer and Complications
+Castration-Resistant Prostatic Cancer
+Peptic Ulcer
+Acute Myeloid Leukemia; Adult Acute Megakaryoblastic Leukemia; Adult Acute Monoblastic Leukemia; Adult Acute Monocytic Leukemia; Adult Acute Myeloid Leukemia With Inv(16)(p13.1q22); CBFB-MYH11; Adult Acute Myeloid Leukemia With Maturation; Adult Acute Myeloid Leukemia With Minimal Differentiation; Adult Acute Myeloid Leukemia With t(16;16)(p13.1;q22); CBFB-MYH11; Adult Acute Myeloid Leukemia With t(8;21); (q22; q22.1); RUNX1-RUNX1T1; Adult Acute Myeloid Leukemia With t(9;11)(p21.3;q23.3); MLLT3-MLL; Adult Acute Myeloid Leukemia Without Maturation; Adult Acute Myelomonocytic Leukemia; Adult Erythroleukemia; Adult Pure Erythroid Leukemia; Alkylating Agent-Related Acute Myeloid Leukemia; de Novo Myelodysplastic Syndrome; Myelodysplastic Syndrome; Myelodysplastic Syndrome With Excess Blasts; Recurrent Adult Acute Myeloid Leukemia; Secondary Myelodysplastic Syndrome
+Peptic Ulcer with Hemorrhage
+Gynecologic Cancers
+Dental Pulp Necrosis
+Recurrent Small Cell Lung Carcinoma
+Pediatric Obesity
+Experimental
+Persistent or Permanent Non-valvular Atrial Fibrillation
+Recurrent Plasma Cell Myeloma; Refractory Plasma Cell Myeloma; t(11;14) Negative
+Renal Disease
+Phantom Limb Pain
+Pharmacodynamic Interaction
+Experimental Tumor
+Pharmacokinetic
+Drug Toxicity and Hematologic Disorders
+Depression; Adverse Effects
+Persistent Pulmonary Hypertension of Newborn
+Sodium-GLucose coTransporter-2 Inhibitors; Heart Failure With Reduced Ejection Fraction
+Gastric and Gastro-esophageal Junction Cancer
+Locally Advanced Gastric Adenocarcinoma
+Pharmacological Action
+Exercise Performance
+Exercise
+Socket Preservation
+Early Onset Alzheimer Disease
+Acute Myeloid Leukemia; Lymphoid Leukemia
+Extensive Stage Small Cell Lung Cancer (ES-SCLC)
+IgG4-related Disease
+Ameloblastoma
+Hormone Receptor-Positive Breast Cancer
+Eye Disease
+Acute Myeloid Leukemia; Hematologic Malignancies; Acute Lymphocytic Leukemia; Non Hodgkin Lymphoma; Hodgkin Lymphoma; Multiple Myeloma; Myelodysplastic Syndrome; Chronic Lymphocytic Leukemia; Chronic Myeloid Leukemia; Myelofibrosis; Myeloproliferative Syndrome
+Peripheral T Cell Lymphoma with Epigenetic Repression
+Chronic Drug-induced Liver Injury
+Cataract Surgery
+Drug-induced QT Prolongation
+Extensive Stage Small Cell Lung Cancer; Recurrent Small Cell Lung Cancer
+Recurrent Rectal Cancer
+Recurrent Prostate Carcinoma; Stage III Prostate Cancer AJCC V8; Stage IVA Prostate Cancer AJCC V8
+Recurrent Pregnancy Loss
+Hip Arthropathy
+Peritoneal Malignant Mesothelioma
+Locally Advanced Malignant Neoplasm
+Extensive-stage Small Cell Lung Cancer
+Persistent Atrial Fibrillation
+Dental Caries in Children
+Pediatric Sarcoma
+Solid Tumors and Lymphoma
+Body Weight
+Pancreatic Ductal Adenocarcinoma (PDAC)
+Advanced/Metastatic Breast Cancer, HER2-Negative
+Breast Cancer; Chemotherapy Effect
+Salivary Gland Carcinoma
+Spondylitis, Ankylosing
+Pancreatic Neoplasms; Digestive System Neoplasms; Neoplasms by Site; Neoplasms; Endocrine Gland Neoplasms; Pancreatic Diseases; Digestive System Diseases; Endocrine System Diseases; Gemcitabine; Antimetabolites, Antineoplastic
+Ischemia
+Early Stage Triple-Negative Breast Carcinoma
+Dehydration
+Locally Advanced or Metastatic Solid Tumors
+Diffuse Large B-Cell Lymphoma (DLBCL)
+Pancreatitis
+Chronic Kidney Failure
+Spinal Fusion
+Deep Venous Thrombosis; Pulmonary Embolism
+Pancreatic Cancer; Pancreatic Ductal Adenocarcinoma; Resectable Pancreatic Adenocarcinoma
+Parenteral Nutrition Associated Liver Disease
+Acute Myeloid Leukemia With Multilineage Dysplasia Following Myelodysplastic Syndrome; Adult Acute Myeloid Leukemia in Remission; Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities; Adult Acute Myeloid Leukemia With Del(5q); Adult Acute Myeloid Leukemia With Inv(16)(p13;q22); Adult Acute Myeloid Leukemia With t(15;17)(q22;q12); Adult Acute Myeloid Leukemia With t(16;16)(p13;q22); Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); de Novo Myelodysplastic Syndromes; Previously Treated Myelodysplastic Syndromes; Recurrent Adult Acute Myeloid Leukemia; Secondary Acute Myeloid Leukemia
+Irritable Bowel Syndrome with SIBO
+Focal Segmental Glomerulosclerosis
+Focal Onset Seizure
+Refractory Ascites
+Anatomic Stage IV Breast Cancer American Joint Committee on Cancer (AJCC) v8; Metastatic Breast Carcinoma; Metastatic Malignant Neoplasm in the Brain; Prognostic Stage IV Breast Cancer AJCC v8
+Genetic Mutation-Driven Cancers
+Renal Cancer
+Acute Myeloid Leukemia and Myelodysplastic Syndrome with Genetic Abnormalities
+Acute Myeloid Leukemia With Multilineage Dysplasia Following Myelodysplastic Syndrome; Acute Myeloid Leukemia/Transient Myeloproliferative Disorder; Adult Acute Myeloid Leukemia in Remission; Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities; Adult Acute Myeloid Leukemia With Del(5q); Adult Acute Myeloid Leukemia With Inv(16)(p13;q22); Adult Acute Myeloid Leukemia With t(15;17)(q22;q12); Adult Acute Myeloid Leukemia With t(16;16)(p13;q22); Adult Acute Myeloid Leukemia With t(8;21)(q22;q22); Childhood Acute Myeloid Leukemia in Remission; Childhood Myelodysplastic Syndromes; de Novo Myelodysplastic Syndromes; Myelodysplastic Syndrome With Isolated Del(5q); Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable; Previously Treated Myelodysplastic Syndromes; Recurrent Adult Acute Myeloid Leukemia; Recurrent Childhood Acute Myeloid Leukemia; Secondary Acute Myeloid Leukemia; Secondary Myelodysplastic Syndromes
+Pancreatic Cancer, Adult
+Hematologic Malignancies and Related Disorders
+Pancreatic Cancer; Metastatic Pancreatic Cancer
+Fever and Malaria
+Acute Myeloid Leukemia, Pediatric
+Partial Edentulism Class 3
+Pathological Gambling
+Recurrent or Progressive Glioblastoma
+Fever
+CNS Tumors and Neoplasms
+Breast Adenocarcinoma; Estrogen Receptor Negative; HER2/Neu Negative; Progesterone Receptor Negative; Stage IB Breast Cancer; Stage IIA Breast Cancer; Stage IIB Breast Cancer; Stage IIIA Breast Cancer; Stage IIIC Breast Cancer; Triple-Negative Breast Carcinoma
+Patent Ductus Arteriosus
+Castration Levels of Testosterone; Castration-Resistant Prostate Carcinoma; Metastatic Prostate Carcinoma; PSA Progression; Stage IV Prostate Adenocarcinoma AJCC v7
+Osteoarthritis in the Elderly
+Bone Fracture
+Femoral Neck Fracture
+EGFR-Positive Non-Small Cell Lung Cancer
+Fecal Incontinence
+Solid Tumors and Genetic Tumor Variants
+Locally Advanced Unresectable or Stage IV Colorectal Cancer
+Advanced Cancer; Metastatic Cancer; Malignant Neoplastic Disease
+Advanced Cancer; Metastatic Cancer; Non-Hodgkin's Lymphoma; Metastatic Breast Cancer; Malignant Mesothelioma; Non-small Cell Lung Cancer
+Solid Tumors and Non-small Cell Lung Carcinoma
+Delirium with QT-prolongation
+Human Immunodeficiency Virus; Hepatitis B, Chronic; Hepatitis C, Chronic
+Anaplastic Large Cell Lymphoma
+Spinal Anesthetics Causing Adverse Effects in Therapeutic Use
+Carpal Tunnel; Dexmedetomidine; Ozone; Dexamethasone
+Femoral Neck Fractures
+Adult Malignant Gliomas
+Breast Cancer (Various Types and Stages)
+Fetal Growth Restriction
+Parkinson Disease with Depression
+Left Atrial Appendage Closure
+Parkinsonian Signs in Older Persons
