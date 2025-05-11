@@ -20,12 +20,15 @@ Despite rigorous research efforts, clinical success and drug approval is challen
 ### Methods
 #### Clinical trial information
 We collected clinical trial results associated with the chemical agents screened in Tahoe-100M, annotated for test and approval for the organ of disease.
+
 #### Classifier
 
-#### E-distance
 
+#### E-distance
+Pre-calculated E-distances were filtered to the maximum across any dose for a specific cell_drug group, and the 1D vector was used as input for the classifier.
 
 #### LDVAE
+
 
 #### MrVI
 Using the pseudobulked Tahoe-100M data, we trained a MrVI model with sample defined as cell_drug with the union of highly variable genes within cell line as features. We generated two-latent embeddings, the 10-dimensional u-space and the 30-dimensional z-space that were used as input to the classifier.
