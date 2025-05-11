@@ -47,7 +47,7 @@ def analyze_feature_correlations(df):
     
     return corr_matrix
 
-def prepare_data(X, y):
+def prepare_data(X, y, split_seed=42):
     """
     Prepare data for model training by scaling numeric features and encoding categorical features.
     
@@ -92,7 +92,7 @@ def prepare_data(X, y):
     # Split based on unique drugs to prevent data leakage
     unique_drugs = drug_name.unique()
     train_drugs, test_drugs = train_test_split(
-        unique_drugs, test_size=0.5, random_state=42
+        unique_drugs, test_size=0.8, random_state=split_seed
     )
     
     # Create train/test masks based on drug splits
@@ -113,6 +113,7 @@ def prepare_data(X, y):
     return X_train, X_test, y_train, y_test
 
 def evaluate_model(model, X_test, y_test):
+    """Evaluate model performance and return PR AUC score."""
     X_test_const = sm.add_constant(X_test)    
     y_prob = model.predict(X_test_const)
     y_pred = (y_prob > 0.5).astype(int)    
@@ -134,25 +135,25 @@ def evaluate_model(model, X_test, y_test):
     print(f"PR AUC: {pr_auc:.4f}")
     
     # Calculate baseline PR AUC
-    no_skill = len(y_test[y_test == 1]) / len(y_test)
+    no_skill = (y_test.sum()/y_test.shape[0])[0]
     precision_baseline = np.ones_like(recall) * no_skill
     pr_auc_baseline = auc(recall, precision_baseline)
     print(f"Baseline PR AUC: {pr_auc_baseline:.4f}")
     
-    # ROC curve with baseline comparison
-    plt.figure(figsize=(5,5))
-    plt.plot(fpr, tpr, color='darkorange', lw=2, label=f'Model ROC (AUC = {roc_auc:.2f})')
-    plt.plot(fpr_baseline, tpr_baseline, color='green', lw=2, linestyle='--', 
-             label=f'Baseline ROC (AUC = {roc_auc_baseline:.2f})')
-    plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
-    plt.xlim([0.0, 1.0])
-    plt.ylim([0.0, 1.05])
-    plt.xlabel('False Positive Rate')
-    plt.ylabel('True Positive Rate')
-    plt.title('Receiver Operating Characteristic')
-    plt.legend(loc='lower right')
-    plt.tight_layout()
-    plt.savefig('roc_curve.png')
+    # # ROC curve with baseline comparison
+    # plt.figure(figsize=(5,5))
+    # plt.plot(fpr, tpr, color='darkorange', lw=2, label=f'Model ROC (AUC = {roc_auc:.2f})')
+    # plt.plot(fpr_baseline, tpr_baseline, color='green', lw=2, linestyle='--', 
+    #          label=f'Baseline ROC (AUC = {roc_auc_baseline:.2f})')
+    # plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
+    # plt.xlim([0.0, 1.0])
+    # plt.ylim([0.0, 1.05])
+    # plt.xlabel('False Positive Rate')
+    # plt.ylabel('True Positive Rate')
+    # plt.title('Receiver Operating Characteristic')
+    # plt.legend(loc='lower right')
+    # plt.tight_layout()
+    # plt.savefig('roc_curve.png')
     
     # Plot Precision-Recall curve with baseline
     plt.figure(figsize=(5,5))
@@ -167,7 +168,7 @@ def evaluate_model(model, X_test, y_test):
     plt.tight_layout()
     plt.savefig('precision_recall_curve.png')
  
-    return y_pred, y_prob
+    return y_pred, y_prob, pr_auc, pr_auc_baseline
 
 def train_linear_model(X_train, y_train, alpha=0.01):
     X_train_const = sm.add_constant(X_train)    
