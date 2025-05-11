@@ -42,4 +42,7 @@ Using the pseudobulked Tahoe-100M data, we trained a MrVI model with sample defi
 - `data_for_classifier/` - input data for benchmarks
 - `data/` - misc processed data
 
-#### Discussion and Future Work
+### Discussion and Future Work
+With the concept established, we propose expanding by testing additional representations of the data including MrVI single-cell sample-sample distances, differential gene expression or program expression, and cell counts. The framework is setup to test additional and advanced prediction metrics like clinical trial phase success and AE rate or severity prediction.
+
+
