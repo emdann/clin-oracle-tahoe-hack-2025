@@ -1,0 +1,523 @@
+drug_organ	is_associated_with_indication
+Flumatinib (mesylate)_CNS/Brain	1
+Flumatinib (mesylate)_Uterus	1
+Captopril_CNS/Brain	1
+Captopril_CNS/Brain	1
+Captopril_Liver	1
+Captopril_Liver	1
+Indacaterol (maleate)_Lung	1
+Indacaterol (maleate)_Lung	1
+Indacaterol (maleate)_Lung	1
+Carbidopa (monohydrate)_Lung	1
+Carbidopa (monohydrate)_Bowel	1
+Carbidopa (monohydrate)_Lung	1
+Carbidopa (monohydrate)_Kidney	1
+Carbidopa (monohydrate)_Skin	1
+Carbidopa (monohydrate)_Skin	1
+Carbidopa (monohydrate)_Skin	1
+Carbidopa (monohydrate)_Kidney	1
+Carbidopa (monohydrate)_Kidney	1
+Carbidopa (monohydrate)_Kidney	1
+Daidzin_Skin	1
+Daidzin_Skin	1
+Daidzin_Skin	1
+Daidzin_Skin	1
+Daidzin_Lung	1
+Daidzin_Lung	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_Esophagus/Stomach	1
+Daidzin_Esophagus/Stomach	1
+Daidzin_Esophagus/Stomach	1
+Daidzin_Esophagus/Stomach	1
+Daidzin_Esophagus/Stomach	1
+Daidzin_Liver	1
+Daidzin_Liver	1
+Daidzin_Skin	1
+Daidzin_Skin	1
+Daidzin_Skin	1
+Daidzin_Skin	1
+Daidzin_Bowel	1
+Daidzin_Bowel	1
+Daidzin_Bowel	1
+Daidzin_Bowel	1
+Daidzin_Bowel	1
+Daidzin_Bowel	1
+Daidzin_Skin	1
+Daidzin_Lung	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_CNS/Brain	1
+Daidzin_Lung	1
+Daidzin_Lung	1
+Daidzin_Lung	1
+Daidzin_Kidney	1
+Daidzin_Kidney	1
+Daidzin_Kidney	1
+Zileuton_Liver	1
+Bestatin_Liver	1
+Apalutamide_Esophagus/Stomach	1
+Apalutamide_CNS/Brain	1
+Apalutamide_Esophagus/Stomach	1
+Apalutamide_Kidney	1
+Benproperine (phosphate)_Bowel	1
+Benproperine (phosphate)_Bowel	1
+Benproperine (phosphate)_Bowel	1
+AZD1390_CNS/Brain	1
+AZD1390_Bladder/Urinary Tract	1
+AZD1390_Breast	1
+AZD1390_Breast	1
+AZD1390_Breast	1
+AZD1390_Breast	1
+AZD1390_Lung	1
+AZD1390_Lung	1
+AZD1390_Esophagus/Stomach	1
+AZD1390_Uterus	1
+AZD1390_Uterus	1
+AZD1390_Uterus	1
+AZD1390_Lung	1
+AZD1390_Skin	1
+AZD1390_Skin	1
+AZD1390_Skin	1
+AZD1390_Skin	1
+AZD1390_Pancreas	1
+AZD1390_Esophagus/Stomach	1
+AZD1390_Bowel	1
+AZD1390_Uterus	1
+Elimusertib hydrochloride_Skin	1
+Elimusertib hydrochloride_Esophagus/Stomach	1
+venetoclax_Skin	1
+venetoclax_Skin	1
+venetoclax_Skin	1
+venetoclax_Liver	1
+venetoclax_Liver	1
+venetoclax_Liver	1
+venetoclax_Liver	1
+venetoclax_Liver	1
+Vemurafenib_Lung	1
+Vemurafenib_Lung	1
+Vemurafenib_Lung	1
+Vemurafenib_Bladder/Urinary Tract	1
+Vemurafenib_Lung	1
+Vemurafenib_Lung	1
+Vemurafenib_Skin	1
+Vemurafenib_Skin	1
+Vemurafenib_CNS/Brain	1
+Vemurafenib_Skin	1
+Vemurafenib_Skin	1
+Vemurafenib_Esophagus/Stomach	1
+Vemurafenib_Skin	1
+Vemurafenib_Bowel	1
+Vemurafenib_Uterus	1
+Tirabrutinib (hydrochloride)_Lung	1
+Tirabrutinib (hydrochloride)_CNS/Brain	1
+Dorzolamide (hydrochloride)_Lung	1
+Dorzolamide (hydrochloride)_Lung	1
+Dorzolamide (hydrochloride)_Lung	1
+Cinacalcet_Lung	1
+Cinacalcet_Lung	1
+Cinacalcet_Skin	1
+Pentagastrin_Esophagus/Stomach	1
+Pentagastrin_Esophagus/Stomach	1
+Pentagastrin_Esophagus/Stomach	1
+Ataluren_Esophagus/Stomach	1
+Ataluren_Esophagus/Stomach	1
+Ataluren_Uterus	1
+Ataluren_Uterus	1
+Ataluren_Bowel	1
+Abiraterone acetate_Liver	1
+Abiraterone acetate_Bowel	1
+Abiraterone acetate_Bowel	1
+Abiraterone acetate_Kidney	1
+Abiraterone acetate_Kidney	1
+Anastrozole_CNS/Brain	1
+Anastrozole_Lung	1
+Anastrozole_Lung	1
+Anastrozole_Breast	1
+Anastrozole_Breast	1
+Anastrozole_Breast	1
+Anastrozole_Breast	1
+Anastrozole_Breast	1
+Anastrozole_Breast	1
+Anastrozole_Breast	1
+Anastrozole_Breast	1
+Anastrozole_Skin	1
+Anastrozole_Skin	1
+Anastrozole_Liver	1
+Anastrozole_Liver	1
+Anastrozole_Uterus	1
+Anastrozole_Uterus	1
+Anastrozole_Uterus	1
+Anastrozole_Uterus	1
+Anastrozole_Kidney	1
+Procainamide (hydrochloride)_Liver	1
+Procainamide (hydrochloride)_Liver	1
+Procainamide (hydrochloride)_Liver	1
+Procainamide (hydrochloride)_Liver	1
+Procainamide (hydrochloride)_Liver	1
+Procainamide (hydrochloride)_CNS/Brain	1
+Penfluridol_Esophagus/Stomach	1
+Penfluridol_CNS/Brain	1
+Osimertinib (mesylate)_Lung	1
+Osimertinib (mesylate)_Lung	1
+Osimertinib (mesylate)_Lung	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_CNS/Brain	1
+Osimertinib (mesylate)_Bowel	1
+4EGI-1_Bowel	1
+Belzutifan_Skin	1
+Belzutifan_Kidney	1
+NVP-BHG712_Bowel	1
+Tucatinib_Lung	1
+Tucatinib_Lung	1
+Tucatinib_Bladder/Urinary Tract	1
+Tucatinib_Lung	1
+Tucatinib_Lung	1
+Tucatinib_Skin	1
+Tucatinib_Esophagus/Stomach	1
+Tucatinib_Esophagus/Stomach	1
+Tucatinib_Bowel	1
+Tucatinib_Bowel	1
+Tucatinib_Uterus	1
+Tucatinib_Kidney	1
+Tucatinib_Kidney	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Breast	1
+Fulvestrant_Lung	1
+Fulvestrant_Esophagus/Stomach	1
+Fulvestrant_Skin	1
+Fulvestrant_Uterus	1
+9-ING-41_Liver	1
+9-ING-41_Liver	1
+Pitavastatin (Calcium)_CNS/Brain	1
+ML264_Skin	1
+ML264_Lung	1
+ML264_Lung	1
+ML264_Lung	1
+ML264_Lung	1
+ML264_Lung	1
+ML264_Lung	1
+ML264_Lung	1
+ML264_Lung	1
+ML264_Lung	1
+ML264_Bladder/Urinary Tract	1
+ML264_Breast	1
+ML264_Breast	1
+ML264_Breast	1
+ML264_Breast	1
+ML264_Breast	1
+ML264_Lung	1
+ML264_Skin	1
+ML264_Skin	1
+ML264_Skin	1
+ML264_Lung	1
+ML264_Lung	1
+ML264_Kidney	1
+ML264_Liver	1
+ML264_Pancreas	1
+ML264_Pancreas	1
+ML264_Pancreas	1
+ML264_Pancreas	1
+ML264_Pancreas	1
+ML264_Pancreas	1
+ML264_Bowel	1
+ML264_Bowel	1
+ML264_Uterus	1
+ML264_Uterus	1
+ML264_Uterus	1
+ML264_Uterus	1
+ML264_Kidney	1
+ML264_Kidney	1
+Adagrasib_Bowel	1
+Adagrasib_Bladder/Urinary Tract	1
+Adagrasib_Lung	1
+Adagrasib_Lung	1
+Adagrasib_Lung	1
+Adagrasib_Skin	1
+Adagrasib_Skin	1
+Adagrasib_Esophagus/Stomach	1
+Adagrasib_Liver	1
+Adagrasib_Liver	1
+Adagrasib_Liver	1
+Adagrasib_Liver	1
+Adagrasib_Liver	1
+Adagrasib_Skin	1
+Adagrasib_Skin	1
+Adagrasib_Pancreas	1
+Adagrasib_Pancreas	1
+Adagrasib_Esophagus/Stomach	1
+Adagrasib_Bowel	1
+Adagrasib_Uterus	1
+Adagrasib_Kidney	1
+TAK-733_Lung	1
+TAK-733_Lung	1
+TAK-733_Skin	1
+TAK-733_CNS/Brain	1
+TAK-733_Skin	1
+TAK-733_Bowel	1
+OTS514_Lung	1
+OTS514_Lung	1
+OTS514_Bowel	1
+OTS514_Bowel	1
+OTS514_Liver	1
+OTS514_Bowel	1
+OTS514_Bowel	1
+OTS514_Bowel	1
+PF-06260933_Lung	1
+PF-06260933_Lung	1
+PF-06260933_Lung	1
+PF-06260933_Lung	1
+PF-06260933_Bowel	1
+PF-06260933_CNS/Brain	1
+PF-06260933_CNS/Brain	1
+PH-797804_Skin	1
+Capmatinib_Lung	1
+Capmatinib_Lung	1
+Capmatinib_Lung	1
+Capmatinib_Lung	1
+Capmatinib_Liver	1
+Capmatinib_Liver	1
+Capmatinib_Liver	1
+Capmatinib_Liver	1
+Capmatinib_Liver	1
+AZD-8055_Bowel	1
+AZD-8055_Uterus	1
+Dimethyl fumarate_Skin	1
+Dimethyl fumarate_Skin	1
+Dimethyl fumarate_Skin	1
+Dimethyl fumarate_Skin	1
+Dimethyl fumarate_Skin	1
+Dimethyl fumarate_Lung	1
+Dimethyl fumarate_Bladder/Urinary Tract	1
+Dimethyl fumarate_Lung	1
+Dimethyl fumarate_Lung	1
+Dimethyl fumarate_Skin	1
+Dimethyl fumarate_Esophagus/Stomach	1
+Dimethyl fumarate_Uterus	1
+Dimethyl fumarate_Kidney	1
+Dimethyl fumarate_Kidney	1
+Budesonide_Lung	1
+Budesonide_Lung	1
+Budesonide_Lung	1
+Budesonide_Lung	1
+Budesonide_Lung	1
+Budesonide_Lung	1
+Budesonide_Liver	1
+Eplerenone_CNS/Brain	1
+Eplerenone_CNS/Brain	1
+Eplerenone_Liver	1
+Eplerenone_Liver	1
+Eplerenone_Liver	1
+Eplerenone_Kidney	1
+(S)-Crizotinib_CNS/Brain	1
+(S)-Crizotinib_CNS/Brain	1
+(S)-Crizotinib_CNS/Brain	1
+(S)-Crizotinib_CNS/Brain	1
+Sinomenine_Liver	1
+Sinomenine_Skin	1
+Clopidogrel_Bowel	1
+Clopidogrel_CNS/Brain	1
+Fingolimod (hydrochloride)_Bowel	1
+Cilostazol_Skin	1
+Cilostazol_Lung	1
+Cilostazol_Lung	1
+Cilostazol_Lung	1
+Cilostazol_Lung	1
+Cilostazol_Lung	1
+Cilostazol_Liver	1
+Cilostazol_Liver	1
+Cilostazol_CNS/Brain	1
+Medroxyprogesterone acetate_Lung	1
+Alpelisib_Bowel	1
+Alpelisib_Bladder/Urinary Tract	1
+Alpelisib_Lung	1
+Alpelisib_Lung	1
+Alpelisib_Lung	1
+Alpelisib_Skin	1
+Alpelisib_Esophagus/Stomach	1
+Alpelisib_CNS/Brain	1
+Alpelisib_CNS/Brain	1
+Alpelisib_Skin	1
+Alpelisib_Pancreas	1
+Alpelisib_Pancreas	1
+Alpelisib_Esophagus/Stomach	1
+Alpelisib_Vulva/Vagina	1
+Alpelisib_Bowel	1
+Alpelisib_Uterus	1
+Alpelisib_Lung	1
+Pioglitazone_Lung	1
+Pioglitazone_Lung	1
+Pioglitazone_Breast	1
+Pioglitazone_Liver	1
+Pioglitazone_Liver	1
+Pioglitazone_Liver	1
+Pioglitazone_Liver	1
+Pioglitazone_Liver	1
+Pioglitazone_Liver	1
+Pioglitazone_Liver	1
+Pioglitazone_Liver	1
+Pioglitazone_Liver	1
+Pioglitazone_Skin	1
+Pioglitazone_Liver	1
+EX229_Bowel	1
+EX229_Bowel	1
+EX229_Bowel	1
+EX229_Bowel	1
+EX229_Bowel	1
+EX229_Bowel	1
+EX229_Kidney	1
+EX229_CNS/Brain	1
+EX229_CNS/Brain	1
+EX229_Skin	1
+EX229_Skin	1
+EX229_Esophagus/Stomach	1
+EX229_Esophagus/Stomach	1
+EX229_Esophagus/Stomach	1
+EX229_Esophagus/Stomach	1
+EX229_Esophagus/Stomach	1
+EX229_Esophagus/Stomach	1
+EX229_Esophagus/Stomach	1
+EX229_Esophagus/Stomach	1
+EX229_Esophagus/Stomach	1
+EX229_Esophagus/Stomach	1
+EX229_Bowel	1
+EX229_Bowel	1
+EX229_Bowel	1
+EX229_Bowel	1
+EX229_Bowel	1
+EX229_Lung	1
+AZD-7648_Skin	1
+AZD-7648_Liver	1
+AZD-7648_Bowel	1
+Pentamidine (isethionate)_CNS/Brain	1
+Nimesulide_Skin	1
+Nimesulide_Bowel	1
+Nimesulide_Kidney	1
+Nimesulide_Kidney	1
+Pralsetinib_Lung	1
+Pralsetinib_Lung	1
+Pralsetinib_Skin	1
+LY-2584702 (tosylate salt)_Bowel	1
+LY-2584702 (tosylate salt)_CNS/Brain	1
+LY-2584702 (tosylate salt)_Bowel	1
+LY-2584702 (tosylate salt)_Bowel	1
+Resveratrol_Liver	1
+Resveratrol_Kidney	1
+Fluvoxamine_Lung	1
+Glasdegib_CNS/Brain	1
+Glasdegib_CNS/Brain	1
+Finasteride_Skin	1
+Finasteride_Breast	1
+Finasteride_Breast	1
+Finasteride_Breast	1
+Finasteride_Breast	1
+Finasteride_CNS/Brain	1
+Niclosamide (olamine)_Lung	1
+Niclosamide (olamine)_Lung	1
+Niclosamide (olamine)_Lung	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_CNS/Brain	1
+Niclosamide (olamine)_CNS/Brain	1
+Niclosamide (olamine)_CNS/Brain	1
+Niclosamide (olamine)_CNS/Brain	1
+Niclosamide (olamine)_CNS/Brain	1
+Niclosamide (olamine)_CNS/Brain	1
+Niclosamide (olamine)_Skin	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Bowel	1
+Niclosamide (olamine)_Kidney	1
+Imiquimod (hydrochloride)_Skin	1
+Irinotecan (hydrochloride)_Skin	1
+Irinotecan (hydrochloride)_Skin	1
+Irinotecan (hydrochloride)_Liver	1
+Irinotecan (hydrochloride)_Liver	1
+Irinotecan (hydrochloride)_Liver	1
+Irinotecan (hydrochloride)_Liver	1
+Irinotecan (hydrochloride)_Liver	1
+Irinotecan (hydrochloride)_Skin	1
+Irinotecan (hydrochloride)_Kidney	1
+Irinotecan (hydrochloride)_Kidney	1
+Amsacrine_Liver	1
+Amsacrine_Esophagus/Stomach	1
+Thymol_Skin	1
+Thymol_Skin	1
+Selinexor_Lung	1
+Selinexor_Lung	1
+Selinexor_Kidney	1
+Verteporfin_Liver	1
+Verteporfin_CNS/Brain	1
+Verteporfin_CNS/Brain	1
+Verteporfin_Ovary/Fallopian Tube	1
+Verteporfin_Ovary/Fallopian Tube	1
+Verteporfin_Ovary/Fallopian Tube	1
